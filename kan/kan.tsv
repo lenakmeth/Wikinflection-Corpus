@@ -1,0 +1,10 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+ವನ	ವನಗಳ	kn-decl-a-neut	NOUN	Number=Plur;Case=Gen		ಗಳ		ವನ
+ವನ	ವನದ	kn-decl-a-neut	NOUN	Number=Sing;Case=Gen		ದ		ವನ
+ವನ	ವನಗಳ	kn-decl-a-neut	NOUN	Number=Plur;Case=Gen		ಗಳ		ವನ
+ಜಲಜನಕ	ಜಲಜನಕಗಳ	kn-decl-a	NOUN	Number=Plur;Case=Gen		ಗಳ		ಜಲಜನಕ
+ಜಲಜನಕ	ಜಲಜನಕದ	kn-decl-a	NOUN	Number=Sing;Case=Gen		ದ		ಜಲಜನಕ
+ಜಲಜನಕ	ಜಲಜನಕಗಳ	kn-decl-a	NOUN	Number=Plur;Case=Gen		ಗಳ		ಜಲಜನಕ
+ಮರ	ಮರಗಳ	kn-decl-a	NOUN	Number=Plur;Case=Gen		ಗಳ		ಮರ
+ಮರ	ಮರದ	kn-decl-a	NOUN	Number=Sing;Case=Gen		ದ		ಮರ
+ಮರ	ಮರಗಳ	kn-decl-a	NOUN	Number=Plur;Case=Gen		ಗಳ		ಮರ

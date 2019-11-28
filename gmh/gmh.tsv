@@ -1,0 +1,85 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+grave	grâve	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				grâve
+grave	grâven	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				grâven
+grave	grâven	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				grâven
+grave	grâven	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				grâven
+helfen	hëlfen	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Pres;Mood=Ind	ë	ë	ë	ëlfe
+helfen	geholfen	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Past;Mood=Ind	ge	o	o	holfe
+helfen	wir hëlfen	gmh-conj-IIIb	VERB	Person=2;Number=Plur;Tense=Past;Mood=Ind	wir 	ë	ë	hëlfe
+helfen	wir hëlfen	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Past;Mood=Ind	wir 	ë	ë	hëlfe
+helfen	du hilfest	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Past;Mood=Ind	du 	i	i	hilfes
+helfen	ir hëlfet	gmh-conj-IIIb	VERB	Person=2;Number=Sing;Tense=Past;Mood=Ind	ir 	ë	ë	hëlfe
+helfen	du hëlfest	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Past;Mood=Ind	du 	ë	ë	hëlfes
+helfen	ir hëlfet	gmh-conj-IIIb	VERB	Person=1;Number=Plur;Tense=Past;Mood=Ind	ir 	ë	ë	hëlfe
+helfen	sie hëlfent	gmh-conj-IIIb	VERB	Person=2;Number=Plur;Tense=Past;Mood=Ind	sie 	ë	ë	hëlfen
+helfen	sie hëlfen	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Past;Mood=Ind	sie 	ë	ë	hëlfe
+helfen	ich half	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Fut;Mood=Ind	ich 	a	a	hal
+helfen	wir hulfen	gmh-conj-IIIb	VERB	Person=2;Number=Sing;Tense=Fut;Mood=Ind	wir 	u	u	hulfe
+helfen	ich hülfe	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Fut;Mood=Ind	ich 	ü	ü	hülf
+helfen	wir hülfen	gmh-conj-IIIb	VERB	Person=1;Number=Plur;Tense=Fut;Mood=Ind	wir 	ü	ü	hülfe
+helfen	ir hulfet	gmh-conj-IIIb	VERB	Person=2;Number=Plur;Tense=Fut;Mood=Ind	ir 	u	u	hulfe
+helfen	ir hülfet	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Fut;Mood=Ind	ir 	ü	ü	hülfe
+helfen	ër half	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Mood=Sub	ër 	a	a	hal
+helfen	sie hulfen	gmh-conj-IIIb	VERB	Person=2;Number=Sing;Mood=Sub	sie 	u	u	hulfe
+helfen	sie hülfen	gmh-conj-IIIb	VERB	Person=3;Number=Plur;Mood=Sub	sie 	ü	ü	hülfe
+helfen	hilf	gmh-conj-IIIb	VERB	Person=1;Number=Plur;Mood=Sub	i	i	i	il
+werden	wërden	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Pres;Mood=Ind	ë	ë	ë	ërde
+werden	geworden	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Past;Mood=Ind	ge	o	o	worde
+werden	wir wërden	gmh-conj-IIIb	VERB	Person=2;Number=Plur;Tense=Past;Mood=Ind	wir 	ë	ë	wërde
+werden	wir wërden	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Past;Mood=Ind	wir 	ë	ë	wërde
+werden	du wirdest	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Past;Mood=Ind	du 	i	i	wirdes
+werden	ir wërdet	gmh-conj-IIIb	VERB	Person=2;Number=Sing;Tense=Past;Mood=Ind	ir 	ë	ë	wërde
+werden	du wërdest	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Past;Mood=Ind	du 	ë	ë	wërdes
+werden	ir wërdet	gmh-conj-IIIb	VERB	Person=1;Number=Plur;Tense=Past;Mood=Ind	ir 	ë	ë	wërde
+werden	sie wërdent	gmh-conj-IIIb	VERB	Person=2;Number=Plur;Tense=Past;Mood=Ind	sie 	ë	ë	wërden
+werden	sie wërden	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Past;Mood=Ind	sie 	ë	ë	wërde
+werden	ich ward	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Fut;Mood=Ind	ich 	a	a	war
+werden	wir wurden	gmh-conj-IIIb	VERB	Person=2;Number=Sing;Tense=Fut;Mood=Ind	wir 	u	u	wurde
+werden	ich würde	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Fut;Mood=Ind	ich 	ü	ü	würd
+werden	wir würden	gmh-conj-IIIb	VERB	Person=1;Number=Plur;Tense=Fut;Mood=Ind	wir 	ü	ü	würde
+werden	ir wurdet	gmh-conj-IIIb	VERB	Person=2;Number=Plur;Tense=Fut;Mood=Ind	ir 	u	u	wurde
+werden	ir würdet	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Fut;Mood=Ind	ir 	ü	ü	würde
+werden	ër ward	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Mood=Sub	ër 	a	a	war
+werden	sie wurden	gmh-conj-IIIb	VERB	Person=2;Number=Sing;Mood=Sub	sie 	u	u	wurde
+werden	sie würden	gmh-conj-IIIb	VERB	Person=3;Number=Plur;Mood=Sub	sie 	ü	ü	würde
+werden	wird	gmh-conj-IIIb	VERB	Person=1;Number=Plur;Mood=Sub	i	i	i	ir
+werfen	wërfen	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Pres;Mood=Ind	ë	ë	ë	ërfe
+werfen	geworfen	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Past;Mood=Ind	ge	o	o	worfe
+werfen	wir wërfen	gmh-conj-IIIb	VERB	Person=2;Number=Plur;Tense=Past;Mood=Ind	wir 	ë	ë	wërfe
+werfen	wir wërfen	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Past;Mood=Ind	wir 	ë	ë	wërfe
+werfen	du wirfest	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Past;Mood=Ind	du 	i	i	wirfes
+werfen	ir wërfet	gmh-conj-IIIb	VERB	Person=2;Number=Sing;Tense=Past;Mood=Ind	ir 	ë	ë	wërfe
+werfen	du wërfest	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Past;Mood=Ind	du 	ë	ë	wërfes
+werfen	ir wërfet	gmh-conj-IIIb	VERB	Person=1;Number=Plur;Tense=Past;Mood=Ind	ir 	ë	ë	wërfe
+werfen	sie wërfent	gmh-conj-IIIb	VERB	Person=2;Number=Plur;Tense=Past;Mood=Ind	sie 	ë	ë	wërfen
+werfen	sie wërfen	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Past;Mood=Ind	sie 	ë	ë	wërfe
+werfen	ich warf	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Tense=Fut;Mood=Ind	ich 	a	a	war
+werfen	wir wurfen	gmh-conj-IIIb	VERB	Person=2;Number=Sing;Tense=Fut;Mood=Ind	wir 	u	u	wurfe
+werfen	ich würfe	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Fut;Mood=Ind	ich 	ü	ü	würf
+werfen	wir würfen	gmh-conj-IIIb	VERB	Person=1;Number=Plur;Tense=Fut;Mood=Ind	wir 	ü	ü	würfe
+werfen	ir wurfet	gmh-conj-IIIb	VERB	Person=2;Number=Plur;Tense=Fut;Mood=Ind	ir 	u	u	wurfe
+werfen	ir würfet	gmh-conj-IIIb	VERB	Person=3;Number=Sing;Tense=Fut;Mood=Ind	ir 	ü	ü	würfe
+werfen	ër warf	gmh-conj-IIIb	VERB	Person=1;Number=Sing;Mood=Sub	ër 	a	a	war
+werfen	sie wurfen	gmh-conj-IIIb	VERB	Person=2;Number=Sing;Mood=Sub	sie 	u	u	wurfe
+werfen	sie würfen	gmh-conj-IIIb	VERB	Person=3;Number=Plur;Mood=Sub	sie 	ü	ü	würfe
+werfen	wirf	gmh-conj-IIIb	VERB	Person=1;Number=Plur;Mood=Sub	i	i	i	ir
+tac	tac	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				tac
+tac	tac	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				tac
+tac	tages	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				tages
+tac	tage	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				tage
+burcgrave	burcgrâve	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				burcgrâve
+burcgrave	burcgrâven	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				burcgrâven
+burcgrave	burcgrâven	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				burcgrâven
+burcgrave	burcgrâven	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				burcgrâven
+überganc	überganc	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				überganc
+überganc	überganc	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				überganc
+überganc	überganges	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				überganges
+überganc	übergange	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				übergange
+göugrave	göugrâve	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				göugrâve
+göugrave	göugrâven	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				göugrâven
+göugrave	göugrâven	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				göugrâven
+göugrave	göugrâven	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				göugrâven
+göu	göu	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				göu
+göu	göu	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				göu
+göu	göuwes	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				göuwes
+göu	göuwe	gmh-decl-noun	NOUN	Case=Nom;Number=Sing				göuwe

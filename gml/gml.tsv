@@ -1,0 +1,496 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+geven	gevenven	gml-verb	VERB	VerbForm=Inf		en		gevenv
+geven	tô gevenvene or tô gevenvende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	gevenvene or tô 
+geven	gevenven or gevenvent	gml-verb	VERB		en or 	en or 	en or 	en or gev
+geven	gevenvende	gml-verb	VERB			ende		gevenv
+geven	gevenvet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		gevenv
+geven	gevenve	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		gevenv
+geven	gevenvede	gml-verb	VERB	VerbForm=Inf		ede		gevenv
+geven	gevenve	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		gevenv
+geven	gevenvede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		gevenv
+geven	gevenvest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		gevenv
+geven	gevenvedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		gevenv
+geven	gevenvest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		gevenv
+geven	gevenvedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		gevenv
+leven	levenēven	gml-verb	VERB	VerbForm=Inf		en		levenēv
+leven	tô levenēvene or tô levenēvende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	levenēvene or tô l
+leven	levenēven or levenēvent	gml-verb	VERB		en or 	en or 	en or 	ven or leve
+leven	levenēvende	gml-verb	VERB			ende		levenēv
+leven	levenēvet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		levenēv
+leven	levenēve	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		levenēv
+leven	levenēvede	gml-verb	VERB	VerbForm=Inf		ede		levenēv
+leven	levenēve	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		levenēv
+leven	levenēvede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		levenēv
+leven	levenēvest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		levenēv
+leven	levenēvedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		levenēv
+leven	levenēvest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		levenēv
+leven	levenēvedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		levenēv
+drinken	drinkenanken	gml-verb	VERB	VerbForm=Inf		en		drinkenank
+drinken	tô drinkenankene or tô drinkenankende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	drinkenankene or tô drin
+drinken	drinkenanken or drinkenankent	gml-verb	VERB		en or 	en or 	en or 	nanken or drinken
+drinken	drinkenankende	gml-verb	VERB			ende		drinkenank
+drinken	drinkenanket	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		drinkenank
+drinken	drinkenanke	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		drinkenank
+drinken	drinkenankede	gml-verb	VERB	VerbForm=Inf		ede		drinkenank
+drinken	drinkenanke	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		drinkenank
+drinken	drinkenankede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		drinkenank
+drinken	drinkenankest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		drinkenank
+drinken	drinkenankedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		drinkenank
+drinken	drinkenankest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		drinkenank
+drinken	drinkenankedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		drinkenank
+werden	werdencrden	gml-verb	VERB	VerbForm=Inf		en		werdencrd
+werden	tô werdencrdene or tô werdencrdende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	werdencrdene or tô wer
+werden	werdencrden or werdencrdent	gml-verb	VERB		en or 	en or 	en or 	crden or werden
+werden	werdencrdende	gml-verb	VERB			ende		werdencrd
+werden	werdencrdet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		werdencrd
+werden	werdencrde	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		werdencrd
+werden	werdencrdede	gml-verb	VERB	VerbForm=Inf		ede		werdencrd
+werden	werdencrde	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		werdencrd
+werden	werdencrdede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		werdencrd
+werden	werdencrdest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		werdencrd
+werden	werdencrdedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		werdencrd
+werden	werdencrdest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		werdencrd
+werden	werdencrdedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		werdencrd
+waren	warenāren	gml-verb	VERB	VerbForm=Inf		en		warenār
+waren	tô warenārene or tô warenārende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	warenārene or tô w
+waren	warenāren or warenārent	gml-verb	VERB		en or 	en or 	en or 	ren or ware
+waren	warenārende	gml-verb	VERB			ende		warenār
+waren	warenāret	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		warenār
+waren	warenāre	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		warenār
+waren	warenārede	gml-verb	VERB	VerbForm=Inf		ede		warenār
+waren	warenāre	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		warenār
+waren	warenārede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		warenār
+waren	warenārest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		warenār
+waren	warenāredest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		warenār
+waren	warenārest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		warenār
+waren	warenāredest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		warenār
+binden	bindenanden	gml-verb	VERB	VerbForm=Inf		en		bindenand
+binden	tô bindenandene or tô bindenandende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	bindenandene or tô bin
+binden	bindenanden or bindenandent	gml-verb	VERB		en or 	en or 	en or 	anden or binden
+binden	bindenandende	gml-verb	VERB			ende		bindenand
+binden	bindenandet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		bindenand
+binden	bindenande	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		bindenand
+binden	bindenandede	gml-verb	VERB	VerbForm=Inf		ede		bindenand
+binden	bindenande	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		bindenand
+binden	bindenandede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		bindenand
+binden	bindenandest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		bindenand
+binden	bindenandedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		bindenand
+binden	bindenandest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		bindenand
+binden	bindenandedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		bindenand
+jagen	jagenāgen	gml-verb	VERB	VerbForm=Inf		en		jagenāg
+jagen	tô jagenāgene or tô jagenāgende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	jagenāgene or tô j
+jagen	jagenāgen or jagenāgent	gml-verb	VERB		en or 	en or 	en or 	gen or jage
+jagen	jagenāgende	gml-verb	VERB			ende		jagenāg
+jagen	jagenāget	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		jagenāg
+jagen	jagenāge	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		jagenāg
+jagen	jagenāgede	gml-verb	VERB	VerbForm=Inf		ede		jagenāg
+jagen	jagenāge	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		jagenāg
+jagen	jagenāgede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		jagenāg
+jagen	jagenāgest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		jagenāg
+jagen	jagenāgedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		jagenāg
+jagen	jagenāgest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		jagenāg
+jagen	jagenāgedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		jagenāg
+vechten	vechtenbchten	gml-verb	VERB	VerbForm=Inf		en		vechtenbcht
+vechten	tô vechtenbchtene or tô vechtenbchtende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	vechtenbchtene or tô vecht
+vechten	vechtenbchten or vechtenbchtent	gml-verb	VERB		en or 	en or 	en or 	nbchten or vechtenb
+vechten	vechtenbchtende	gml-verb	VERB			ende		vechtenbcht
+vechten	vechtenbchtet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		vechtenbcht
+vechten	vechtenbchte	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		vechtenbcht
+vechten	vechtenbchtede	gml-verb	VERB	VerbForm=Inf		ede		vechtenbcht
+vechten	vechtenbchte	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		vechtenbcht
+vechten	vechtenbchtede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		vechtenbcht
+vechten	vechtenbchtest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		vechtenbcht
+vechten	vechtenbchtedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		vechtenbcht
+vechten	vechtenbchtest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		vechtenbcht
+vechten	vechtenbchtedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		vechtenbcht
+nemen	nemenmen	gml-verb	VERB	VerbForm=Inf		en		nemenm
+nemen	tô nemenmene or tô nemenmende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	nemenmene or tô 
+nemen	nemenmen or nemenment	gml-verb	VERB		en or 	en or 	en or 	en or nem
+nemen	nemenmende	gml-verb	VERB			ende		nemenm
+nemen	nemenmet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		nemenm
+nemen	nemenme	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		nemenm
+nemen	nemenmede	gml-verb	VERB	VerbForm=Inf		ede		nemenm
+nemen	nemenme	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		nemenm
+nemen	nemenmede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		nemenm
+nemen	nemenmest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		nemenm
+nemen	nemenmedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		nemenm
+nemen	nemenmest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		nemenm
+nemen	nemenmedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		nemenm
+achten	achtenachten	gml-verb	VERB	VerbForm=Inf		en		achtenacht
+achten	tô achtenachtene or tô achtenachtende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	achtenachtene or tô acht
+achten	achtenachten or achtenachtent	gml-verb	VERB		en or 	en or 	en or 	achten or achtena
+achten	achtenachtende	gml-verb	VERB			ende		achtenacht
+achten	achtenachtet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		achtenacht
+achten	achtenachte	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		achtenacht
+achten	achtenachtede	gml-verb	VERB	VerbForm=Inf		ede		achtenacht
+achten	achtenachte	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		achtenacht
+achten	achtenachtede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		achtenacht
+achten	achtenachtest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		achtenacht
+achten	achtenachtedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		achtenacht
+achten	achtenachtest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		achtenacht
+achten	achtenachtedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		achtenacht
+helpen	helpenblpen	gml-verb	VERB	VerbForm=Inf		en		helpenblp
+helpen	tô helpenblpene or tô helpenblpende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	helpenblpene or tô hel
+helpen	helpenblpen or helpenblpent	gml-verb	VERB		en or 	en or 	en or 	blpen or helpen
+helpen	helpenblpende	gml-verb	VERB			ende		helpenblp
+helpen	helpenblpet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		helpenblp
+helpen	helpenblpe	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		helpenblp
+helpen	helpenblpede	gml-verb	VERB	VerbForm=Inf		ede		helpenblp
+helpen	helpenblpe	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		helpenblp
+helpen	helpenblpede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		helpenblp
+helpen	helpenblpest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		helpenblp
+helpen	helpenblpedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		helpenblp
+helpen	helpenblpest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		helpenblp
+helpen	helpenblpedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		helpenblp
+beden	bedenaden	gml-verb	VERB	VerbForm=Inf		en		bedenad
+beden	tô bedenadene or tô bedenadende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	bedenadene or tô b
+beden	bedenaden or bedenadent	gml-verb	VERB		en or 	en or 	en or 	den or bede
+beden	bedenadende	gml-verb	VERB			ende		bedenad
+beden	bedenadet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		bedenad
+beden	bedenade	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		bedenad
+beden	bedenadede	gml-verb	VERB	VerbForm=Inf		ede		bedenad
+beden	bedenade	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		bedenad
+beden	bedenadede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		bedenad
+beden	bedenadest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		bedenad
+beden	bedenadedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		bedenad
+beden	bedenadest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		bedenad
+beden	bedenadedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		bedenad
+varen	varenren	gml-verb	VERB	VerbForm=Inf		en		varenr
+varen	tô varenrene or tô varenrende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	varenrene or tô 
+varen	varenren or varenrent	gml-verb	VERB		en or 	en or 	en or 	en or var
+varen	varenrende	gml-verb	VERB			ende		varenr
+varen	varenret	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		varenr
+varen	varenre	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		varenr
+varen	varenrede	gml-verb	VERB	VerbForm=Inf		ede		varenr
+varen	varenre	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		varenr
+varen	varenrede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		varenr
+varen	varenrest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		varenr
+varen	varenredest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		varenr
+varen	varenrest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		varenr
+varen	varenredest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		varenr
+mure	mure	gml-decl-noun	NOUN	Case=Nom;Number=Sing				mure
+mure	mûren	gml-decl-noun	NOUN	Case=Voc;Number=Plur				mûren
+mure	mûren	gml-decl-noun	NOUN	Case=Gen;Number=Sing				mûren
+mure	mûren	gml-decl-noun	NOUN	Case=Gen;Number=Plur				mûren
+mure	mûren	gml-decl-noun	NOUN	Case=Dat;Number=Sing				mûren
+mure	mûren	gml-decl-noun	NOUN	Case=Dat;Number=Plur				mûren
+mure	mûren	gml-decl-noun	NOUN	Case=Acc;Number=Sing				mûren
+mure	mûren	gml-decl-noun	NOUN	Case=Acc;Number=Plur				mûren
+dach	dach	gml-decl-noun	NOUN	Case=Nom;Number=Sing				dach
+dach	dage	gml-decl-noun	NOUN	Case=Voc;Number=Plur				dage
+dach	dach	gml-decl-noun	NOUN	Case=Gen;Number=Sing				dach
+dach	dage	gml-decl-noun	NOUN	Case=Gen;Number=Plur				dage
+dach	dage	gml-decl-noun	NOUN	Case=Dat;Number=Sing				dage
+dach	dagen	gml-decl-noun	NOUN	Case=Dat;Number=Plur				dagen
+dach	dages	gml-decl-noun	NOUN	Case=Acc;Number=Sing				dages
+dach	dage	gml-decl-noun	NOUN	Case=Acc;Number=Plur				dage
+snorren	snorrenorren	gml-verb	VERB	VerbForm=Inf		en		snorrenorr
+snorren	tô snorrenorrene or tô snorrenorrende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	snorrenorrene or tô snor
+snorren	snorrenorren or snorrenorrent	gml-verb	VERB		en or 	en or 	en or 	norren or snorren
+snorren	snorrenorrende	gml-verb	VERB			ende		snorrenorr
+snorren	snorrenorret	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		snorrenorr
+snorren	snorrenorre	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		snorrenorr
+snorren	snorrenorrede	gml-verb	VERB	VerbForm=Inf		ede		snorrenorr
+snorren	snorrenorre	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		snorrenorr
+snorren	snorrenorrede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		snorrenorr
+snorren	snorrenorrest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		snorrenorr
+snorren	snorrenorredest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		snorrenorr
+snorren	snorrenorrest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		snorrenorr
+snorren	snorrenorredest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		snorrenorr
+riden	ridenden	gml-verb	VERB	VerbForm=Inf		en		ridend
+riden	tô ridendene or tô ridendende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	ridendene or tô 
+riden	ridenden or ridendent	gml-verb	VERB		en or 	en or 	en or 	en or rid
+riden	ridendende	gml-verb	VERB			ende		ridend
+riden	ridendet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		ridend
+riden	ridende	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		ridend
+riden	ridendede	gml-verb	VERB	VerbForm=Inf		ede		ridend
+riden	ridende	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		ridend
+riden	ridendede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		ridend
+riden	ridendest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		ridend
+riden	ridendedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		ridend
+riden	ridendest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		ridend
+riden	ridendedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		ridend
+stigen	stigengen	gml-verb	VERB	VerbForm=Inf		en		stigeng
+stigen	tô stigengene or tô stigengende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	stigengene or tô s
+stigen	stigengen or stigengent	gml-verb	VERB		en or 	en or 	en or 	gen or stig
+stigen	stigengende	gml-verb	VERB			ende		stigeng
+stigen	stigenget	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		stigeng
+stigen	stigenge	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		stigeng
+stigen	stigengede	gml-verb	VERB	VerbForm=Inf		ede		stigeng
+stigen	stigenge	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		stigeng
+stigen	stigengede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		stigeng
+stigen	stigengest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		stigeng
+stigen	stigengedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		stigeng
+stigen	stigengest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		stigeng
+stigen	stigengedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		stigeng
+bedriven	bedrivenven	gml-verb	VERB	VerbForm=Inf		en		bedrivenv
+bedriven	tô bedrivenvene or tô bedrivenvende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	bedrivenvene or tô bed
+bedriven	bedrivenven or bedrivenvent	gml-verb	VERB		en or 	en or 	en or 	enven or bedriv
+bedriven	bedrivenvende	gml-verb	VERB			ende		bedrivenv
+bedriven	bedrivenvet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		bedrivenv
+bedriven	bedrivenve	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		bedrivenv
+bedriven	bedrivenvede	gml-verb	VERB	VerbForm=Inf		ede		bedrivenv
+bedriven	bedrivenve	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		bedrivenv
+bedriven	bedrivenvede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		bedrivenv
+bedriven	bedrivenvest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		bedrivenv
+bedriven	bedrivenvedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		bedrivenv
+bedriven	bedrivenvest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		bedrivenv
+bedriven	bedrivenvedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		bedrivenv
+sugen	sugenbgen	gml-verb	VERB	VerbForm=Inf		en		sugenbg
+sugen	tô sugenbgene or tô sugenbgende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	sugenbgene or tô s
+sugen	sugenbgen or sugenbgent	gml-verb	VERB		en or 	en or 	en or 	gen or suge
+sugen	sugenbgende	gml-verb	VERB			ende		sugenbg
+sugen	sugenbget	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		sugenbg
+sugen	sugenbge	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		sugenbg
+sugen	sugenbgede	gml-verb	VERB	VerbForm=Inf		ede		sugenbg
+sugen	sugenbge	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		sugenbg
+sugen	sugenbgede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		sugenbg
+sugen	sugenbgest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		sugenbg
+sugen	sugenbgedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		sugenbg
+sugen	sugenbgest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		sugenbg
+sugen	sugenbgedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		sugenbg
+bruken	brukenûken	gml-verb	VERB	VerbForm=Inf		en		brukenûk
+bruken	tô brukenûkene or tô brukenûkende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	brukenûkene or tô br
+bruken	brukenûken or brukenûkent	gml-verb	VERB		en or 	en or 	en or 	ûken or bruke
+bruken	brukenûkende	gml-verb	VERB			ende		brukenûk
+bruken	brukenûket	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		brukenûk
+bruken	brukenûke	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		brukenûk
+bruken	brukenûkede	gml-verb	VERB	VerbForm=Inf		ede		brukenûk
+bruken	brukenûke	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		brukenûk
+bruken	brukenûkede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		brukenûk
+bruken	brukenûkest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		brukenûk
+bruken	brukenûkedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		brukenûk
+bruken	brukenûkest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		brukenûk
+bruken	brukenûkedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		brukenûk
+krossen	krossenossen	gml-verb	VERB	VerbForm=Inf		en		krossenoss
+krossen	tô krossenossene or tô krossenossende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	krossenossene or tô kros
+krossen	krossenossen or krossenossent	gml-verb	VERB		en or 	en or 	en or 	nossen or krossen
+krossen	krossenossende	gml-verb	VERB			ende		krossenoss
+krossen	krossenosset	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		krossenoss
+krossen	krossenosse	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		krossenoss
+krossen	krossenossede	gml-verb	VERB	VerbForm=Inf		ede		krossenoss
+krossen	krossenosse	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		krossenoss
+krossen	krossenossede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		krossenoss
+krossen	krossenossest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		krossenoss
+krossen	krossenossedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		krossenoss
+krossen	krossenossest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		krossenoss
+krossen	krossenossedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		krossenoss
+jachteren	jachterenachteren	gml-verb	VERB	VerbForm=Inf		en		jachterenachter
+jachteren	tô jachterenachterene or tô jachterenachterende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	jachterenachterene or tô jachteren
+jachteren	jachterenachteren or jachterenachterent	gml-verb	VERB		en or 	en or 	en or 	renachteren or jachterenach
+jachteren	jachterenachterende	gml-verb	VERB			ende		jachterenachter
+jachteren	jachterenachteret	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		jachterenachter
+jachteren	jachterenachtere	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		jachterenachter
+jachteren	jachterenachterede	gml-verb	VERB	VerbForm=Inf		ede		jachterenachter
+jachteren	jachterenachtere	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		jachterenachter
+jachteren	jachterenachterede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		jachterenachter
+jachteren	jachterenachterest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		jachterenachter
+jachteren	jachterenachteredest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		jachterenachter
+jachteren	jachterenachterest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		jachterenachter
+jachteren	jachterenachteredest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		jachterenachter
+vorswinden	vorswindenanden	gml-verb	VERB	VerbForm=Inf		en		vorswindenand
+vorswinden	tô vorswindenandene or tô vorswindenandende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	vorswindenandene or tô vorswin
+vorswinden	vorswindenanden or vorswindenandent	gml-verb	VERB		en or 	en or 	en or 	ndenanden or vorswinden
+vorswinden	vorswindenandende	gml-verb	VERB			ende		vorswindenand
+vorswinden	vorswindenandet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		vorswindenand
+vorswinden	vorswindenande	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		vorswindenand
+vorswinden	vorswindenandede	gml-verb	VERB	VerbForm=Inf		ede		vorswindenand
+vorswinden	vorswindenande	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		vorswindenand
+vorswinden	vorswindenandede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		vorswindenand
+vorswinden	vorswindenandest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		vorswindenand
+vorswinden	vorswindenandedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		vorswindenand
+vorswinden	vorswindenandest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		vorswindenand
+vorswinden	vorswindenandedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		vorswindenand
+vorgeten	vorgetenten	gml-verb	VERB	VerbForm=Inf		en		vorgetent
+vorgeten	tô vorgetentene or tô vorgetentende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	vorgetentene or tô vor
+vorgeten	vorgetenten or vorgetentent	gml-verb	VERB		en or 	en or 	en or 	enten or vorget
+vorgeten	vorgetentende	gml-verb	VERB			ende		vorgetent
+vorgeten	vorgetentet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		vorgetent
+vorgeten	vorgetente	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		vorgetent
+vorgeten	vorgetentede	gml-verb	VERB	VerbForm=Inf		ede		vorgetent
+vorgeten	vorgetente	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		vorgetent
+vorgeten	vorgetentede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		vorgetent
+vorgeten	vorgetentest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		vorgetent
+vorgeten	vorgetentedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		vorgetent
+vorgeten	vorgetentest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		vorgetent
+vorgeten	vorgetentedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		vorgetent
+avent	avent	gml-decl-noun	NOUN	Case=Nom;Number=Sing				avent
+avent	âvende	gml-decl-noun	NOUN	Case=Voc;Number=Plur				âvende
+avent	âvent	gml-decl-noun	NOUN	Case=Gen;Number=Sing				âvent
+avent	âvende	gml-decl-noun	NOUN	Case=Gen;Number=Plur				âvende
+avent	âvende	gml-decl-noun	NOUN	Case=Dat;Number=Sing				âvende
+avent	âvenden	gml-decl-noun	NOUN	Case=Dat;Number=Plur				âvenden
+avent	âvendes	gml-decl-noun	NOUN	Case=Acc;Number=Sing				âvendes
+avent	âvende	gml-decl-noun	NOUN	Case=Acc;Number=Plur				âvende
+vorsupen	vorsupenbpen	gml-verb	VERB	VerbForm=Inf		en		vorsupenbp
+vorsupen	tô vorsupenbpene or tô vorsupenbpende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	vorsupenbpene or tô vors
+vorsupen	vorsupenbpen or vorsupenbpent	gml-verb	VERB		en or 	en or 	en or 	enbpen or vorsupe
+vorsupen	vorsupenbpende	gml-verb	VERB			ende		vorsupenbp
+vorsupen	vorsupenbpet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		vorsupenbp
+vorsupen	vorsupenbpe	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		vorsupenbp
+vorsupen	vorsupenbpede	gml-verb	VERB	VerbForm=Inf		ede		vorsupenbp
+vorsupen	vorsupenbpe	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		vorsupenbp
+vorsupen	vorsupenbpede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		vorsupenbp
+vorsupen	vorsupenbpest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		vorsupenbp
+vorsupen	vorsupenbpedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		vorsupenbp
+vorsupen	vorsupenbpest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		vorsupenbp
+vorsupen	vorsupenbpedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		vorsupenbp
+writen	writenten	gml-verb	VERB	VerbForm=Inf		en		writent
+writen	tô writentene or tô writentende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	writentene or tô w
+writen	writenten or writentent	gml-verb	VERB		en or 	en or 	en or 	ten or writ
+writen	writentende	gml-verb	VERB			ende		writent
+writen	writentet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		writent
+writen	writente	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		writent
+writen	writentede	gml-verb	VERB	VerbForm=Inf		ede		writent
+writen	writente	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		writent
+writen	writentede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		writent
+writen	writentest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		writent
+writen	writentedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		writent
+writen	writentest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		writent
+writen	writentedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		writent
+water	water	gml-decl-noun	NOUN	Case=Nom;Number=Sing				water
+water	wāter	gml-decl-noun	NOUN	Case=Voc;Number=Plur				wāter
+water	wāter	gml-decl-noun	NOUN	Case=Gen;Number=Sing				wāter
+water	wāter	gml-decl-noun	NOUN	Case=Gen;Number=Plur				wāter
+water	wāteres	gml-decl-noun	NOUN	Case=Dat;Number=Sing				wāteres
+water	wātere	gml-decl-noun	NOUN	Case=Dat;Number=Plur				wātere
+water	wātere	gml-decl-noun	NOUN	Case=Acc;Number=Sing				wātere
+water	wāteren	gml-decl-noun	NOUN	Case=Acc;Number=Plur				wāteren
+schriven	schrivenven	gml-verb	VERB	VerbForm=Inf		en		schrivenv
+schriven	tô schrivenvene or tô schrivenvende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	schrivenvene or tô sch
+schriven	schrivenven or schrivenvent	gml-verb	VERB		en or 	en or 	en or 	enven or schriv
+schriven	schrivenvende	gml-verb	VERB			ende		schrivenv
+schriven	schrivenvet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		schrivenv
+schriven	schrivenve	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		schrivenv
+schriven	schrivenvede	gml-verb	VERB	VerbForm=Inf		ede		schrivenv
+schriven	schrivenve	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		schrivenv
+schriven	schrivenvede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		schrivenv
+schriven	schrivenvest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		schrivenv
+schriven	schrivenvedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		schrivenv
+schriven	schrivenvest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		schrivenv
+schriven	schrivenvedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		schrivenv
+sniden	snidenden	gml-verb	VERB	VerbForm=Inf		en		snidend
+sniden	tô snidendene or tô snidendende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	snidendene or tô s
+sniden	snidenden or snidendent	gml-verb	VERB		en or 	en or 	en or 	den or snid
+sniden	snidendende	gml-verb	VERB			ende		snidend
+sniden	snidendet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		snidend
+sniden	snidende	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		snidend
+sniden	snidendede	gml-verb	VERB	VerbForm=Inf		ede		snidend
+sniden	snidende	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		snidend
+sniden	snidendede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		snidend
+sniden	snidendest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		snidend
+sniden	snidendedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		snidend
+sniden	snidendest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		snidend
+sniden	snidendedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		snidend
+drepen	drepenapen	gml-verb	VERB	VerbForm=Inf		en		drepenap
+drepen	tô drepenapene or tô drepenapende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	drepenapene or tô dr
+drepen	drepenapen or drepenapent	gml-verb	VERB		en or 	en or 	en or 	apen or drepe
+drepen	drepenapende	gml-verb	VERB			ende		drepenap
+drepen	drepenapet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		drepenap
+drepen	drepenape	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		drepenap
+drepen	drepenapede	gml-verb	VERB	VerbForm=Inf		ede		drepenap
+drepen	drepenape	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		drepenap
+drepen	drepenapede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		drepenap
+drepen	drepenapest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		drepenap
+drepen	drepenapedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		drepenap
+drepen	drepenapest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		drepenap
+drepen	drepenapedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		drepenap
+andrepen	andrepenapen	gml-verb	VERB	VerbForm=Inf		en		andrepenap
+andrepen	tô andrepenapene or tô andrepenapende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	andrepenapene or tô andr
+andrepen	andrepenapen or andrepenapent	gml-verb	VERB		en or 	en or 	en or 	enapen or andrepe
+andrepen	andrepenapende	gml-verb	VERB			ende		andrepenap
+andrepen	andrepenapet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		andrepenap
+andrepen	andrepenape	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		andrepenap
+andrepen	andrepenapede	gml-verb	VERB	VerbForm=Inf		ede		andrepenap
+andrepen	andrepenape	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		andrepenap
+andrepen	andrepenapede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		andrepenap
+andrepen	andrepenapest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		andrepenap
+andrepen	andrepenapedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		andrepenap
+andrepen	andrepenapest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		andrepenap
+andrepen	andrepenapedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		andrepenap
+anvechten	anvechtenbchten	gml-verb	VERB	VerbForm=Inf		en		anvechtenbcht
+anvechten	tô anvechtenbchtene or tô anvechtenbchtende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	anvechtenbchtene or tô anvecht
+anvechten	anvechtenbchten or anvechtenbchtent	gml-verb	VERB		en or 	en or 	en or 	tenbchten or anvechtenb
+anvechten	anvechtenbchtende	gml-verb	VERB			ende		anvechtenbcht
+anvechten	anvechtenbchtet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		anvechtenbcht
+anvechten	anvechtenbchte	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		anvechtenbcht
+anvechten	anvechtenbchtede	gml-verb	VERB	VerbForm=Inf		ede		anvechtenbcht
+anvechten	anvechtenbchte	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		anvechtenbcht
+anvechten	anvechtenbchtede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		anvechtenbcht
+anvechten	anvechtenbchtest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		anvechtenbcht
+anvechten	anvechtenbchtedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		anvechtenbcht
+anvechten	anvechtenbchtest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		anvechtenbcht
+anvechten	anvechtenbchtedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		anvechtenbcht
+wolteren	wolterenölteren	gml-verb	VERB	VerbForm=Inf		en		wolterenölter
+wolteren	tô wolterenölterene or tô wolterenölterende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	wolterenölterene or tô woltere
+wolteren	wolterenölteren or wolterenölterent	gml-verb	VERB		en or 	en or 	en or 	enölteren or wolterenöl
+wolteren	wolterenölterende	gml-verb	VERB			ende		wolterenölter
+wolteren	wolterenölteret	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		wolterenölter
+wolteren	wolterenöltere	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		wolterenölter
+wolteren	wolterenölterede	gml-verb	VERB	VerbForm=Inf		ede		wolterenölter
+wolteren	wolterenöltere	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		wolterenölter
+wolteren	wolterenölterede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		wolterenölter
+wolteren	wolterenölterest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		wolterenölter
+wolteren	wolterenölteredest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		wolterenölter
+wolteren	wolterenölterest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		wolterenölter
+wolteren	wolterenölteredest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		wolterenölter
+afwolteren	afwolterenölteren	gml-verb	VERB	VerbForm=Inf		en		afwolterenölter
+afwolteren	tô afwolterenölterene or tô afwolterenölterende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	afwolterenölterene or tô afwoltere
+afwolteren	afwolterenölteren or afwolterenölterent	gml-verb	VERB		en or 	en or 	en or 	erenölteren or afwolterenöl
+afwolteren	afwolterenölterende	gml-verb	VERB			ende		afwolterenölter
+afwolteren	afwolterenölteret	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		afwolterenölter
+afwolteren	afwolterenöltere	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		afwolterenölter
+afwolteren	afwolterenölterede	gml-verb	VERB	VerbForm=Inf		ede		afwolterenölter
+afwolteren	afwolterenöltere	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		afwolterenölter
+afwolteren	afwolterenölterede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		afwolterenölter
+afwolteren	afwolterenölterest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		afwolterenölter
+afwolteren	afwolterenölteredest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		afwolterenölter
+afwolteren	afwolterenölterest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		afwolterenölter
+afwolteren	afwolterenölteredest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		afwolterenölter
+andrucken	andruckenücken	gml-verb	VERB	VerbForm=Inf		en		andruckenück
+andrucken	tô andruckenückene or tô andruckenückende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	andruckenückene or tô andruc
+andrucken	andruckenücken or andruckenückent	gml-verb	VERB		en or 	en or 	en or 	kenücken or andrucken
+andrucken	andruckenückende	gml-verb	VERB			ende		andruckenück
+andrucken	andruckenücket	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		andruckenück
+andrucken	andruckenücke	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		andruckenück
+andrucken	andruckenückede	gml-verb	VERB	VerbForm=Inf		ede		andruckenück
+andrucken	andruckenücke	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		andruckenück
+andrucken	andruckenückede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		andruckenück
+andrucken	andruckenückest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		andruckenück
+andrucken	andruckenückedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		andruckenück
+andrucken	andruckenückest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		andruckenück
+andrucken	andruckenückedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		andruckenück
+asche	asche	gml-decl-noun	NOUN	Case=Nom;Number=Sing				asche
+asche	aschen	gml-decl-noun	NOUN	Case=Voc;Number=Plur				aschen
+asche	aschen	gml-decl-noun	NOUN	Case=Gen;Number=Sing				aschen
+asche	aschen	gml-decl-noun	NOUN	Case=Gen;Number=Plur				aschen
+asche	aschen	gml-decl-noun	NOUN	Case=Dat;Number=Sing				aschen
+asche	aschen	gml-decl-noun	NOUN	Case=Dat;Number=Plur				aschen
+asche	aschen	gml-decl-noun	NOUN	Case=Acc;Number=Sing				aschen
+asche	aschen	gml-decl-noun	NOUN	Case=Acc;Number=Plur				aschen
+beschriven	beschrivenven	gml-verb	VERB	VerbForm=Inf		en		beschrivenv
+beschriven	tô beschrivenvene or tô beschrivenvende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	beschrivenvene or tô besch
+beschriven	beschrivenven or beschrivenvent	gml-verb	VERB		en or 	en or 	en or 	ivenven or beschriv
+beschriven	beschrivenvende	gml-verb	VERB			ende		beschrivenv
+beschriven	beschrivenvet	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		beschrivenv
+beschriven	beschrivenve	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		beschrivenv
+beschriven	beschrivenvede	gml-verb	VERB	VerbForm=Inf		ede		beschrivenv
+beschriven	beschrivenve	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		beschrivenv
+beschriven	beschrivenvede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		beschrivenv
+beschriven	beschrivenvest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		beschrivenv
+beschriven	beschrivenvedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		beschrivenv
+beschriven	beschrivenvest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		beschrivenv
+beschriven	beschrivenvedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		beschrivenv
+spigen	spigengen	gml-verb	VERB	VerbForm=Inf		en		spigeng
+spigen	tô spigengene or tô spigengende	gml-verb	VERB		tô 	ene or tô 	ene or tô 	spigengene or tô s
+spigen	spigengen or spigengent	gml-verb	VERB		en or 	en or 	en or 	gen or spig
+spigen	spigengende	gml-verb	VERB			ende		spigeng
+spigen	spigenget	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		et		spigeng
+spigen	spigenge	gml-verb	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		e		spigeng
+spigen	spigengede	gml-verb	VERB	VerbForm=Inf		ede		spigeng
+spigen	spigenge	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		e		spigeng
+spigen	spigengede	gml-verb	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing		ede		spigeng
+spigen	spigengest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		est		spigeng
+spigen	spigengedest	gml-verb	VERB	Mood=Ind;Tense=Past;Person=3		edest		spigeng
+spigen	spigengest	gml-verb	VERB	Mood=Jus;Person=2;Number=Sing		est		spigeng
+spigen	spigengedest	gml-verb	VERB	Mood=Jus;Person=2;Number=Plur		edest		spigeng

@@ -1,0 +1,345 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+око	око	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				око
+око	окото	bg-decl-noun	NOUN	Number=Sing;Definite=Def				окото
+око	очите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				очите
+чай	чай	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				чай
+чай	чаят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				чаят
+чай	чайовете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				чайовете
+господин	господин	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				господин
+господин	господинът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				господинът
+господин	господата	bg-decl-noun	NOUN	Number=Plur;Definite=Def				господата
+цар	цар	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				цар
+цар	царят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				царят
+цар	царете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				царете
+гей	гей	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				гей
+гей	геят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				геят
+гей	гейовете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				гейовете
+слово	слово	bg-noun-2pl	NOUN	Number=Sing;Definite=Ind				слово
+слово	словото	bg-noun-2pl	NOUN	Number=Sing;Definite=Def				словото
+слово	словата	bg-noun-2pl	NOUN	Number=Plur;Definite=Def				словата
+морска звезда	морска звезда	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				морска звезда
+морска звезда	морската звезда	bg-decl-noun	NOUN	Number=Sing;Definite=Def				морската звезда
+морска звезда	морските звезди	bg-decl-noun	NOUN	Number=Plur;Definite=Def				морските звезди
+нога	нога	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				нога
+нога	ногата	bg-decl-noun	NOUN	Number=Sing;Definite=Def				ногата
+нога	нозете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				нозете
+овца	овца	bg-noun-2pl	NOUN	Number=Sing;Definite=Ind				овца
+овца	овцата	bg-noun-2pl	NOUN	Number=Sing;Definite=Def				овцата
+овца	овцете	bg-noun-2pl	NOUN	Number=Plur;Definite=Def				овцете
+отец	отец	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				отец
+отец	отецът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				отецът
+отец	отците	bg-decl-noun	NOUN	Number=Plur;Definite=Def				отците
+номер	номер	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				номер
+номер	номерът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				номерът
+номер	номерата	bg-decl-noun	NOUN	Number=Plur;Definite=Def				номерата
+ухо	ухо	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				ухо
+ухо	ухото	bg-decl-noun	NOUN	Number=Sing;Definite=Def				ухото
+ухо	ушите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				ушите
+кон	кон	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				кон
+кон	конят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				конят
+кон	конете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				конете
+морско свинче	морско свинче	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				морско свинче
+морско свинче	морското свинче	bg-decl-noun	NOUN	Number=Sing;Definite=Def				морското свинче
+морско свинче	морските свинчета	bg-decl-noun	NOUN	Number=Plur;Definite=Def				морските свинчета
+дете	дете	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				дете
+дете	детето	bg-decl-noun	NOUN	Number=Sing;Definite=Def				детето
+дете	децата	bg-decl-noun	NOUN	Number=Plur;Definite=Def				децата
+хуй	хуй	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				хуй
+хуй	хуят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				хуят
+хуй	хуйовете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				хуйовете
+ръка	ръка	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				ръка
+ръка	ръката	bg-decl-noun	NOUN	Number=Sing;Definite=Def				ръката
+ръка	ръцете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				ръцете
+вятър	вятър	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				вятър
+вятър	вятърът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				вятърът
+вятър	ветровете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				ветровете
+грък	грък	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				грък
+грък	гъркът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				гъркът
+грък	гърците	bg-decl-noun	NOUN	Number=Plur;Definite=Def				гърците
+чудо	чудо	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				чудо
+чудо	чудото	bg-decl-noun	NOUN	Number=Sing;Definite=Def				чудото
+чудо	чудесата	bg-decl-noun	NOUN	Number=Plur;Definite=Def				чудесата
+пешка	пешка	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				пешка
+пешка	пешката	bg-decl-noun	NOUN	Number=Sing;Definite=Def				пешката
+пешка	пешките	bg-decl-noun	NOUN	Number=Plur;Definite=Def				пешките
+къща	къща	bg-noun-2pl	NOUN	Number=Sing;Definite=Ind				къща
+къща	къщата	bg-noun-2pl	NOUN	Number=Sing;Definite=Def				къщата
+къща	къщите	bg-noun-2pl	NOUN	Number=Plur;Definite=Def				къщите
+бой	бой	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				бой
+бой	боят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				боят
+бой	боевете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				боевете
+нива	нива	bg-noun-2pl	NOUN	Number=Sing;Definite=Ind				нива
+нива	нивата	bg-noun-2pl	NOUN	Number=Sing;Definite=Def				нивата
+нива	нивите	bg-noun-2pl	NOUN	Number=Plur;Definite=Def				нивите
+крило	крило	bg-noun-2pl	NOUN	Number=Sing;Definite=Ind				крило
+крило	крилото	bg-noun-2pl	NOUN	Number=Sing;Definite=Def				крилото
+крило	крилете	bg-noun-2pl	NOUN	Number=Plur;Definite=Def				крилете
+рамо	рамо	bg-noun-2pl	NOUN	Number=Sing;Definite=Ind				рамо
+рамо	рамото	bg-noun-2pl	NOUN	Number=Sing;Definite=Def				рамото
+рамо	раменете	bg-noun-2pl	NOUN	Number=Plur;Definite=Def				раменете
+кръв	кръв	bg-noun-2pl	NOUN	Number=Sing;Definite=Ind				кръв
+кръв	кръвта	bg-noun-2pl	NOUN	Number=Sing;Definite=Def				кръвта
+кръв	кървите	bg-noun-2pl	NOUN	Number=Plur;Definite=Def				кървите
+цвете	цвете	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				цвете
+цвете	цветето	bg-decl-noun	NOUN	Number=Sing;Definite=Def				цветето
+цвете	цветята	bg-decl-noun	NOUN	Number=Plur;Definite=Def				цветята
+камък	камък	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				камък
+камък	камъкът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				камъкът
+камък	камъните	bg-decl-noun	NOUN	Number=Plur;Definite=Def				камъните
+небе	небе	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				небе
+небе	небето	bg-decl-noun	NOUN	Number=Sing;Definite=Def				небето
+небе	небесата	bg-decl-noun	NOUN	Number=Plur;Definite=Def				небесата
+дъщеря	дъщеря	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				дъщеря
+дъщеря	дъщерята	bg-decl-noun	NOUN	Number=Sing;Definite=Def				дъщерята
+дъщеря	дъщерите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				дъщерите
+лакът	лакът	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				лакът
+лакът	лакътят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				лакътят
+лакът	лактите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				лактите
+змей	змей	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				змей
+змей	змеят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				змеят
+змей	змейовете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				змейовете
+звяр	звяр	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				звяр
+звяр	звярът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				звярът
+звяр	зверовете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				зверовете
+свиня	свиня	bg-noun-2pl	NOUN	Number=Sing;Definite=Ind				свиня
+свиня	свинята	bg-noun-2pl	NOUN	Number=Sing;Definite=Def				свинята
+свиня	свинете	bg-noun-2pl	NOUN	Number=Plur;Definite=Def				свинете
+огън	огън	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				огън
+огън	огънят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				огънят
+огън	огньовете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				огньовете
+овен	овен	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				овен
+овен	овенът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				овенът
+овен	овните	bg-decl-noun	NOUN	Number=Plur;Definite=Def				овните
+край	край	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				край
+край	краят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				краят
+край	краищата	bg-decl-noun	NOUN	Number=Plur;Definite=Def				краищата
+връх	връх	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				връх
+връх	върхът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				върхът
+връх	върховете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				върховете
+гръб	гръб	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				гръб
+гръб	гърбът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				гърбът
+гръб	гърбовете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				гърбовете
+операционна система	операционна система	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				операционна система
+операционна система	операционната система	bg-decl-noun	NOUN	Number=Sing;Definite=Def				операционната система
+операционна система	операционните системи	bg-decl-noun	NOUN	Number=Plur;Definite=Def				операционните системи
+рай	рай	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				рай
+рай	раят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				раят
+рай	райовете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				райовете
+лична карта	лична карта	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				лична карта
+лична карта	личната карта	bg-decl-noun	NOUN	Number=Sing;Definite=Def				личната карта
+лична карта	личните карти	bg-decl-noun	NOUN	Number=Plur;Definite=Def				личните карти
+крал	крал	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				крал
+крал	кралят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				кралят
+крал	кралете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				кралете
+гръм	гръм	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				гръм
+гръм	гърмът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				гърмът
+гръм	гърмовете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				гърмовете
+център	център	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				център
+център	центърът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				центърът
+център	центровете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				центровете
+епицентър	епицентър	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				епицентър
+епицентър	епицентърът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				епицентърът
+епицентър	епицентровете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				епицентровете
+киноцентър	киноцентър	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				киноцентър
+киноцентър	киноцентърът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				киноцентърът
+киноцентър	киноцентровете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				киноцентровете
+радиоцентър	радиоцентър	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				радиоцентър
+радиоцентър	радиоцентърът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				радиоцентърът
+радиоцентър	радиоцентровете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				радиоцентровете
+телецентър	телецентър	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				телецентър
+телецентър	телецентърът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				телецентърът
+телецентър	телецентровете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				телецентровете
+момък	момък	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				момък
+момък	момъкът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				момъкът
+момък	момците	bg-decl-noun	NOUN	Number=Plur;Definite=Def				момците
+крак	крак	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				крак
+крак	кракът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				кракът
+крак	краката	bg-decl-noun	NOUN	Number=Plur;Definite=Def				краката
+княз	княз	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				княз
+княз	князът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				князът
+княз	князете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				князете
+кей	кей	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				кей
+кей	кеят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				кеят
+кей	кейовете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				кейовете
+спрей	спрей	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				спрей
+спрей	спреят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				спреят
+спрей	спрейовете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				спрейовете
+нокът	нокът	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				нокът
+нокът	нокътят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				нокътят
+нокът	ноктите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				ноктите
+кръстопът	кръстопът	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				кръстопът
+кръстопът	кръстопътят	bg-decl-noun	NOUN	Number=Sing;Definite=Def				кръстопътят
+кръстопът	кръстопътищата	bg-decl-noun	NOUN	Number=Plur;Definite=Def				кръстопътищата
+кър	кър	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				кър
+кър	кърът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				кърът
+кър	кърищата	bg-decl-noun	NOUN	Number=Plur;Definite=Def				кърищата
+песен	песен	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				песен
+песен	песента	bg-decl-noun	NOUN	Number=Sing;Definite=Def				песента
+песен	песните	bg-decl-noun	NOUN	Number=Plur;Definite=Def				песните
+мисъл	мисъл	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				мисъл
+мисъл	мисълта	bg-decl-noun	NOUN	Number=Sing;Definite=Def				мисълта
+мисъл	мислите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				мислите
+съблазън	съблазън	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				съблазън
+съблазън	съблазънта	bg-decl-noun	NOUN	Number=Sing;Definite=Def				съблазънта
+съблазън	съблазните	bg-decl-noun	NOUN	Number=Plur;Definite=Def				съблазните
+връв	връв	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				връв
+връв	връвта	bg-decl-noun	NOUN	Number=Sing;Definite=Def				връвта
+връв	вървите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				вървите
+скръб	скръб	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				скръб
+скръб	скръбта	bg-decl-noun	NOUN	Number=Sing;Definite=Def				скръбта
+скръб	скърбите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				скърбите
+стръв	стръв	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				стръв
+стръв	стръвта	bg-decl-noun	NOUN	Number=Sing;Definite=Def				стръвта
+стръв	стървите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				стървите
+кълбо	кълбо	bg-noun-2pl	NOUN	Number=Sing;Definite=Ind				кълбо
+кълбо	кълбото	bg-noun-2pl	NOUN	Number=Sing;Definite=Def				кълбото
+кълбо	кълбата	bg-noun-2pl	NOUN	Number=Plur;Definite=Def				кълбата
+полукълбо	полукълбо	bg-noun-2pl	NOUN	Number=Sing;Definite=Ind				полукълбо
+полукълбо	полукълбото	bg-noun-2pl	NOUN	Number=Sing;Definite=Def				полукълбото
+полукълбо	полукълбата	bg-noun-2pl	NOUN	Number=Plur;Definite=Def				полукълбата
+коляно	коляно	bg-noun-2pl	NOUN	Number=Sing;Definite=Ind				коляно
+коляно	коляното	bg-noun-2pl	NOUN	Number=Sing;Definite=Def				коляното
+коляно	коленете	bg-noun-2pl	NOUN	Number=Plur;Definite=Def				коленете
+медицинска сестра	медицинска сестра	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				медицинска сестра
+медицинска сестра	медицинската сестра	bg-decl-noun	NOUN	Number=Sing;Definite=Def				медицинската сестра
+медицинска сестра	медицинските сестри	bg-decl-noun	NOUN	Number=Plur;Definite=Def				медицинските сестри
+бял дроб	бял дроб	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				бял дроб
+бял дроб	белият дроб	bg-decl-noun	NOUN	Number=Sing;Definite=Def				белият дроб
+бял дроб	белите дробове	bg-decl-noun	NOUN	Number=Plur;Definite=Def				белите дробове
+черен дроб	черен дроб	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				черен дроб
+черен дроб	черният дроб	bg-decl-noun	NOUN	Number=Sing;Definite=Def				черният дроб
+черен дроб	черните дробове	bg-decl-noun	NOUN	Number=Plur;Definite=Def				черните дробове
+видя	видял	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Masc;Number=Sing;Definite=Ind		л		видя
+видя	видел	bg-conj	VERB	Voice=Act;Tense=Past;Evident=Nfh;Gender=Masc;Number=Sing;Definite=Ind		л		виде
+видя	виделият	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Masc;Number=Sing;Definite=Def;Case=Nom		лият		виде
+видя	виделия	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Masc;Number=Sing;Definite=Def;Case=Acc		лия		виде
+видя	видяла	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Fem;Number=Sing;Definite=Ind		ла		видя
+видя	видела	bg-conj	VERB	Voice=Act;Tense=Past;Evident=Nfh;Gender=Fem;Number=Sing;Definite=Ind		ла		виде
+видя	видялата	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Fem;Number=Sing;Definite=Def		лата		видя
+видя	видяло	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Neut;Number=Sing;Definite=Ind		ло		видя
+видя	видело	bg-conj	VERB	Voice=Act;Tense=Past;Evident=Nfh;Gender=Neut;Number=Sing;Definite=Ind		ло		виде
+видя	видялото	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Neut;Number=Sing;Definite=Def		лото		видя
+видя	видели	bg-conj	VERB	Voice=Act;Tense=Past;Number=Plur;Definite=Ind		ли		виде
+видя	видели	bg-conj	VERB	Voice=Act;Tense=Past;Evident=Nfh;Number=Plur;Definite=Ind		ли		виде
+видя	виделите	bg-conj	VERB	Voice=Act;Tense=Past;Number=Plur;Definite=Def		лите		виде
+гръден кош	гръден кош	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				гръден кош
+гръден кош	гръдният кош	bg-decl-noun	NOUN	Number=Sing;Definite=Def				гръдният кош
+гръден кош	гръдните кошове	bg-decl-noun	NOUN	Number=Plur;Definite=Def				гръдните кошове
+слънчев удар	слънчев удар	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				слънчев удар
+слънчев удар	слънчевият удар	bg-decl-noun	NOUN	Number=Sing;Definite=Def				слънчевият удар
+слънчев удар	слънчевите удари	bg-decl-noun	NOUN	Number=Plur;Definite=Def				слънчевите удари
+слънчева система	слънчева система	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				слънчева система
+слънчева система	слънчевата система	bg-decl-noun	NOUN	Number=Sing;Definite=Def				слънчевата система
+слънчева система	слънчевите системи	bg-decl-noun	NOUN	Number=Plur;Definite=Def				слънчевите системи
+слънчева баня	слънчева баня	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				слънчева баня
+слънчева баня	слънчевата баня	bg-decl-noun	NOUN	Number=Sing;Definite=Def				слънчевата баня
+слънчева баня	слънчевите бани	bg-decl-noun	NOUN	Number=Plur;Definite=Def				слънчевите бани
+слънчева година	слънчева година	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				слънчева година
+слънчева година	слънчевата година	bg-decl-noun	NOUN	Number=Sing;Definite=Def				слънчевата година
+слънчева година	слънчевите години	bg-decl-noun	NOUN	Number=Plur;Definite=Def				слънчевите години
+слънчево затъмнение	слънчево затъмнение	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				слънчево затъмнение
+слънчево затъмнение	слънчевото затъмнение	bg-decl-noun	NOUN	Number=Sing;Definite=Def				слънчевото затъмнение
+слънчево затъмнение	слънчевите затъмнения	bg-decl-noun	NOUN	Number=Plur;Definite=Def				слънчевите затъмнения
+слънчево петно	слънчево петно	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				слънчево петно
+слънчево петно	слънчевото петно	bg-decl-noun	NOUN	Number=Sing;Definite=Def				слънчевото петно
+слънчево петно	слънчевите петна	bg-decl-noun	NOUN	Number=Plur;Definite=Def				слънчевите петна
+слънчев сплит	слънчев сплит	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				слънчев сплит
+слънчев сплит	слънчевият сплит	bg-decl-noun	NOUN	Number=Sing;Definite=Def				слънчевият сплит
+слънчев сплит	слънчевите сплитове	bg-decl-noun	NOUN	Number=Plur;Definite=Def				слънчевите сплитове
+очна кухина	очна кухина	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				очна кухина
+очна кухина	очната кухина	bg-decl-noun	NOUN	Number=Sing;Definite=Def				очната кухина
+очна кухина	очните кухини	bg-decl-noun	NOUN	Number=Plur;Definite=Def				очните кухини
+очен лекар	очен лекар	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				очен лекар
+очен лекар	очният лекар	bg-decl-noun	NOUN	Number=Sing;Definite=Def				очният лекар
+очен лекар	очните лекари	bg-decl-noun	NOUN	Number=Plur;Definite=Def				очните лекари
+тел	тел	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				тел
+тел	телта	bg-decl-noun	NOUN	Number=Sing;Definite=Def				телта
+тел	теловете	bg-decl-noun	NOUN	Number=Plur;Definite=Def				теловете
+угода	угода	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				угода
+угода	угодата	bg-decl-noun	NOUN	Number=Sing;Definite=Def				угодата
+угода	угодите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				угодите
+утайка	утайка	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				утайка
+утайка	утайката	bg-decl-noun	NOUN	Number=Sing;Definite=Def				утайката
+утайка	утайките	bg-decl-noun	NOUN	Number=Plur;Definite=Def				утайките
+режа	рязал	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Masc;Number=Sing;Definite=Ind		л		ряза
+режа	режел	bg-conj	VERB	Voice=Act;Tense=Past;Evident=Nfh;Gender=Masc;Number=Sing;Definite=Ind		л		реже
+режа	рязалият	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Masc;Number=Sing;Definite=Def;Case=Nom		лият		ряза
+режа	рязалия	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Masc;Number=Sing;Definite=Def;Case=Acc		лия		ряза
+режа	рязала	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Fem;Number=Sing;Definite=Ind		ла		ряза
+режа	режела	bg-conj	VERB	Voice=Act;Tense=Past;Evident=Nfh;Gender=Fem;Number=Sing;Definite=Ind		ла		реже
+режа	рязалата	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Fem;Number=Sing;Definite=Def		лата		ряза
+режа	рязало	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Neut;Number=Sing;Definite=Ind		ло		ряза
+режа	режело	bg-conj	VERB	Voice=Act;Tense=Past;Evident=Nfh;Gender=Neut;Number=Sing;Definite=Ind		ло		реже
+режа	рязалото	bg-conj	VERB	Voice=Act;Tense=Past;Gender=Neut;Number=Sing;Definite=Def		лото		ряза
+режа	рязали	bg-conj	VERB	Voice=Act;Tense=Past;Number=Plur;Definite=Ind		ли		ряза
+режа	режели	bg-conj	VERB	Voice=Act;Tense=Past;Evident=Nfh;Number=Plur;Definite=Ind		ли		реже
+режа	рязалите	bg-conj	VERB	Voice=Act;Tense=Past;Number=Plur;Definite=Def		лите		ряза
+слънчев вятър	слънчев вятър	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				слънчев вятър
+слънчев вятър	слънчевият вятър	bg-decl-noun	NOUN	Number=Sing;Definite=Def				слънчевият вятър
+слънчев вятър	слънчевите ветрове	bg-decl-noun	NOUN	Number=Plur;Definite=Def				слънчевите ветрове
+чувал	чувал	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				чувал
+чувал	чувалът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				чувалът
+чувал	чувалите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				чувалите
+зърно	зърно	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				зърно
+зърно	зърна	bg-decl-noun	NOUN	Number=Sing;Definite=Def				зърна
+зърно	зърната	bg-decl-noun	NOUN	Number=Plur;Definite=Def				зърната
+електромагнитно взаимодействие	електромагнитно взаимодействие	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				електромагнитно взаимодействие
+електромагнитно взаимодействие	електромагнитното взаимодействие	bg-decl-noun	NOUN	Number=Sing;Definite=Def				електромагнитното взаимодействие
+електромагнитно взаимодействие	електромагнитните взаимодействия	bg-decl-noun	NOUN	Number=Plur;Definite=Def				електромагнитните взаимодействия
+гравитационно взаимодействие	гравитационно взаимодействие	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				гравитационно взаимодействие
+гравитационно взаимодействие	гравитационното взаимодействие	bg-decl-noun	NOUN	Number=Sing;Definite=Def				гравитационното взаимодействие
+гравитационно взаимодействие	гравитационните взаимодействия	bg-decl-noun	NOUN	Number=Plur;Definite=Def				гравитационните взаимодействия
+слабо ядрено взаимодействие	слабо ядрено взаимодействие	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				слабо ядрено взаимодействие
+слабо ядрено взаимодействие	слабото ядрено взаимодействие	bg-decl-noun	NOUN	Number=Sing;Definite=Def				слабото ядрено взаимодействие
+слабо ядрено взаимодействие	слабите ядрени взаимодействия	bg-decl-noun	NOUN	Number=Plur;Definite=Def				слабите ядрени взаимодействия
+силно ядрено взаимодействие	силно ядрено взаимодействие	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				силно ядрено взаимодействие
+силно ядрено взаимодействие	силното ядрено взаимодействие	bg-decl-noun	NOUN	Number=Sing;Definite=Def				силното ядрено взаимодействие
+силно ядрено взаимодействие	силните ядрени взаимодействия	bg-decl-noun	NOUN	Number=Plur;Definite=Def				силните ядрени взаимодействия
+бройна форма	бройна форма	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				бройна форма
+бройна форма	бройната форма	bg-decl-noun	NOUN	Number=Sing;Definite=Def				бройната форма
+бройна форма	бройните форми	bg-decl-noun	NOUN	Number=Plur;Definite=Def				бройните форми
+доверие	доверие	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				доверие
+доверие	доверието	bg-decl-noun	NOUN	Number=Sing;Definite=Def				доверието
+доверие	доверията	bg-decl-noun	NOUN	Number=Plur;Definite=Def				доверията
+елен	елен	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				елен
+елен	еленът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				еленът
+елен	елените	bg-decl-noun	NOUN	Number=Plur;Definite=Def				елените
+модификация	модификация	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				модификация
+модификация	модификацията	bg-decl-noun	NOUN	Number=Sing;Definite=Def				модификацията
+модификация	модификациите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				модификациите
+звезден вятър	звезден вятър	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				звезден вятър
+звезден вятър	звездният вятър	bg-decl-noun	NOUN	Number=Sing;Definite=Def				звездният вятър
+звезден вятър	звездните ветрове	bg-decl-noun	NOUN	Number=Plur;Definite=Def				звездните ветрове
+звезден дъжд	звезден дъжд	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				звезден дъжд
+звезден дъжд	звездният дъжд	bg-decl-noun	NOUN	Number=Sing;Definite=Def				звездният дъжд
+звезден дъжд	звездните дъждове	bg-decl-noun	NOUN	Number=Plur;Definite=Def				звездните дъждове
+атомна бомба	атомна бомба	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				атомна бомба
+атомна бомба	атомната бомба	bg-decl-noun	NOUN	Number=Sing;Definite=Def				атомната бомба
+атомна бомба	атомните бомби	bg-decl-noun	NOUN	Number=Plur;Definite=Def				атомните бомби
+сърна	сърна	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				сърна
+сърна	сърната	bg-decl-noun	NOUN	Number=Sing;Definite=Def				сърната
+сърна	сърните	bg-decl-noun	NOUN	Number=Plur;Definite=Def				сърните
+сръндак	сръндак	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				сръндак
+сръндак	сръндакът	bg-decl-noun	NOUN	Number=Sing;Definite=Def				сръндакът
+сръндак	сръндаците	bg-decl-noun	NOUN	Number=Plur;Definite=Def				сръндаците
+доверчивост	доверчивост	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				доверчивост
+доверчивост	доверчивостта	bg-decl-noun	NOUN	Number=Sing;Definite=Def				доверчивостта
+доверчивост	доверчивостите	bg-decl-noun	NOUN	Number=Plur;Definite=Def				доверчивостите
+ядрена бомба	ядрена бомба	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				ядрена бомба
+ядрена бомба	ядрената бомба	bg-decl-noun	NOUN	Number=Sing;Definite=Def				ядрената бомба
+ядрена бомба	ядрените бомби	bg-decl-noun	NOUN	Number=Plur;Definite=Def				ядрените бомби
+Първа световна война	Първа световна война	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				Първа световна война
+Първа световна война	Първата световна война	bg-decl-noun	NOUN	Number=Sing;Definite=Def				Първата световна война
+Първа световна война		bg-decl-noun	NOUN	Number=Plur;Definite=Def				
+Втора световна война	Втора световна война	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				Втора световна война
+Втора световна война	Втората световна война	bg-decl-noun	NOUN	Number=Sing;Definite=Def				Втората световна война
+Втора световна война		bg-decl-noun	NOUN	Number=Plur;Definite=Def				
+Виетнамска война	Виетнамска война	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				Виетнамска война
+Виетнамска война	Виетнамската война	bg-decl-noun	NOUN	Number=Sing;Definite=Def				Виетнамската война
+Виетнамска война		bg-decl-noun	NOUN	Number=Plur;Definite=Def				
+Корейска война	Корейска война	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				Корейска война
+Корейска война	Корейската война	bg-decl-noun	NOUN	Number=Sing;Definite=Def				Корейската война
+Корейска война		bg-decl-noun	NOUN	Number=Plur;Definite=Def				
+твърд	твърд	bg-decl-noun	NOUN	Number=Sing;Definite=Ind				твърд
+твърд		bg-decl-noun	NOUN	Number=Sing;Definite=Def				
+твърд		bg-decl-noun	NOUN	Number=Plur;Definite=Def				

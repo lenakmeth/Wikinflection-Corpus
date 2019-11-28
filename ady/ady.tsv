@@ -1,0 +1,57 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+кӏон	сэкӏон	ady-conj-intr	VERB	Case=Voc;Number=Sing	сэ			
+кӏон	окӏон	ady-conj-intr	VERB	Case=Voc;Number=Sing	о			
+кӏон	макӏон	ady-conj-intr	VERB	Case=Voc;Number=Sing	ма			
+кӏон	тэкӏон	ady-conj-intr	VERB	Case=Voc;Number=Sing	тэ			
+кӏон	шъокӏон	ady-conj-intr	VERB	Case=Voc;Number=Sing	шъо			
+кӏон	макӏонх	ady-conj-intr	VERB	Case=Voc;Number=Sing	ма	х		кӏон
+кӏон	сызэкӏужьы	ady-conj-intr	VERB	Case=Voc;Number=Sing	сызэ	жьы		кӏу
+кӏон	укъысэкӏу	ady-conj-intr	VERB	Case=Voc;Number=Sing	укъысэ			
+кӏон	къысэкӏу	ady-conj-intr	VERB	Case=Voc;Number=Sing	къысэ			
+кӏон	шъукъысэкӏу	ady-conj-intr	VERB	Case=Voc;Number=Sing	шъукъысэ			
+кӏон	къысэкӏух	ady-conj-intr	VERB	Case=Voc;Number=Sing	къысэ	х		кӏу
+кӏон	усэкӏу	ady-conj-intr	VERB	Case=Voc;Number=Sing	усэ			
+кӏон	узэкӏужьы	ady-conj-intr	VERB	Case=Voc;Number=Sing	узэ	жьы		кӏу
+кӏон	къыокӏу	ady-conj-intr	VERB	Case=Voc;Number=Sing	къыо			
+плъэн	сэплъэн	ady-conj-intr	VERB	Case=Voc;Number=Sing	сэ			
+плъэн	оплъэн	ady-conj-intr	VERB	Case=Voc;Number=Sing	о			
+плъэн	маплъэн	ady-conj-intr	VERB	Case=Voc;Number=Sing	ма			
+плъэн	тэплъэн	ady-conj-intr	VERB	Case=Voc;Number=Sing	тэ			
+плъэн	шъоплъэн	ady-conj-intr	VERB	Case=Voc;Number=Sing	шъо			
+плъэн	маплъэнх	ady-conj-intr	VERB	Case=Voc;Number=Sing	ма	х		плъэн
+плъэн	сызэплъыжьы	ady-conj-intr	VERB	Case=Voc;Number=Sing	сызэ	жьы		плъы
+плъэн	укъысэплъы	ady-conj-intr	VERB	Case=Voc;Number=Sing	укъысэ			
+плъэн	къысэплъы	ady-conj-intr	VERB	Case=Voc;Number=Sing	къысэ			
+плъэн	шъукъысэплъы	ady-conj-intr	VERB	Case=Voc;Number=Sing	шъукъысэ			
+плъэн	къысэплъых	ady-conj-intr	VERB	Case=Voc;Number=Sing	къысэ	х		плъы
+плъэн	усэплъы	ady-conj-intr	VERB	Case=Voc;Number=Sing	усэ			
+плъэн	узэплъыжьы	ady-conj-intr	VERB	Case=Voc;Number=Sing	узэ	жьы		плъы
+плъэн	къыоплъы	ady-conj-intr	VERB	Case=Voc;Number=Sing	къыо			
+лӏэн	сэлӏэн	ady-conj-intr	VERB	Case=Voc;Number=Sing	сэ			
+лӏэн	олӏэн	ady-conj-intr	VERB	Case=Voc;Number=Sing	о			
+лӏэн	малӏэн	ady-conj-intr	VERB	Case=Voc;Number=Sing	ма			
+лӏэн	тэлӏэн	ady-conj-intr	VERB	Case=Voc;Number=Sing	тэ			
+лӏэн	шъолӏэн	ady-conj-intr	VERB	Case=Voc;Number=Sing	шъо			
+лӏэн	малӏэнх	ady-conj-intr	VERB	Case=Voc;Number=Sing	ма	х		лӏэн
+лӏэн	сызэлӏжьы	ady-conj-intr	VERB	Case=Voc;Number=Sing	сызэ	жьы		лӏ
+лӏэн	укъысэлӏ	ady-conj-intr	VERB	Case=Voc;Number=Sing	укъысэ			
+лӏэн	къысэлӏ	ady-conj-intr	VERB	Case=Voc;Number=Sing	къысэ			
+лӏэн	шъукъысэлӏ	ady-conj-intr	VERB	Case=Voc;Number=Sing	шъукъысэ			
+лӏэн	къысэлӏх	ady-conj-intr	VERB	Case=Voc;Number=Sing	къысэ	х		лӏ
+лӏэн	усэлӏ	ady-conj-intr	VERB	Case=Voc;Number=Sing	усэ			
+лӏэн	узэлӏжьы	ady-conj-intr	VERB	Case=Voc;Number=Sing	узэ	жьы		лӏ
+лӏэн	къыолӏ	ady-conj-intr	VERB	Case=Voc;Number=Sing	къыо			
+губжын	сэгубжын	ady-conj-intr	VERB	Case=Voc;Number=Sing	сэ			
+губжын	огубжын	ady-conj-intr	VERB	Case=Voc;Number=Sing	о			
+губжын	магубжын	ady-conj-intr	VERB	Case=Voc;Number=Sing	ма			
+губжын	тэгубжын	ady-conj-intr	VERB	Case=Voc;Number=Sing	тэ			
+губжын	шъогубжын	ady-conj-intr	VERB	Case=Voc;Number=Sing	шъо			
+губжын	магубжынх	ady-conj-intr	VERB	Case=Voc;Number=Sing	ма	х		губжын
+губжын	сызэгубжэжьы	ady-conj-intr	VERB	Case=Voc;Number=Sing	сызэ	жьы		губжэ
+губжын	укъысэгубжэ	ady-conj-intr	VERB	Case=Voc;Number=Sing	укъысэ			
+губжын	къысэгубжэ	ady-conj-intr	VERB	Case=Voc;Number=Sing	къысэ			
+губжын	шъукъысэгубжэ	ady-conj-intr	VERB	Case=Voc;Number=Sing	шъукъысэ			
+губжын	къысэгубжэх	ady-conj-intr	VERB	Case=Voc;Number=Sing	къысэ	х		губжэ
+губжын	усэгубжэ	ady-conj-intr	VERB	Case=Voc;Number=Sing	усэ			
+губжын	узэгубжэжьы	ady-conj-intr	VERB	Case=Voc;Number=Sing	узэ	жьы		губжэ
+губжын	къыогубжэ	ady-conj-intr	VERB	Case=Voc;Number=Sing	къыо			

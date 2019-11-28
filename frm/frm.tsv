@@ -1,0 +1,633 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+dancer	avoir dancé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		dan
+dancer	en dançant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		dan
+dancer	dançant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		dan
+dancer	dancé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		dan
+dancer	dance	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		dan
+dancer	dances	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		dan
+dancer	dance	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		dan
+dancer	dançons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		dan
+dancer	dancez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		dan
+dancer	dancent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		dan
+finir	avoir fini	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos	avoir 	i		fin
+finir	en finissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos	en 	issant		fin
+finir	finissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issant		fin
+finir	fini	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Polarity=Pos		i		fin
+finir	finis	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Polarity=Pos		is		fin
+finir	finis	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Polarity=Pos		is		fin
+finir	finit	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Polarity=Pos		it		fin
+finir	finissons	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Polarity=Pos		issons		fin
+finir	finissez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issez		fin
+finir	finissent	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issent		fin
+finir	finissois	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issois		fin
+finir	finissoys	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoys		fin
+finir	finissois	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issois		fin
+finir	finissoys	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issoys		fin
+finir	finissoit	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issoit		fin
+finir	finissoyy	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoyy		fin
+finir	finissions	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos		issions		fin
+finir	finissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Polarity=Pos		issiez		fin
+finir	finissoient	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Polarity=Pos		issoient		fin
+finir	finissoyent	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issoyent		fin
+finir	finistes	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Case=Cmp		istes		fin
+finir	finirent	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Case=Cmp		irent		fin
+finir	finirai	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Case=Cmp		irai		fin
+finir	finiray	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		iray		fin
+finir	finiras	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc;Case=Cmp		iras		fin
+finir	finira	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem;Case=Cmp		ira		fin
+finir	finirons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		irons		fin
+finir	finiront	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Masc;Case=Cmp		iront		fin
+finir	finirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Case=Cmp		irois		fin
+finir	finiroys	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Fem;Case=Cmp		iroys		fin
+finir	finirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Fem;Case=Cmp		irois		fin
+finir	finiroys	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Case=Cmp		iroys		fin
+finir	finiroit	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Case=Cmp		iroit		fin
+finir	finiroyt	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Case=Cmp		iroyt		fin
+finir	finirions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Case=Cmp		irions		fin
+finir	finiriez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		iriez		fin
+finir	finiroient	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		iroient		fin
+finir	finiroyent	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		iroyent		fin
+finir	finisse	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		isse		fin
+finir	finisses	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		isses		fin
+finir	finisse	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		isse		fin
+finir	finissions	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		issions		fin
+finir	finissiez	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		issiez		fin
+finir	finissent	frm-conj-ir	VERB	Number=Sing;Gender=Fem		issent		fin
+finir	finisse	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isse		fin
+finir	finisses	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isses		fin
+finir	finissions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem		issions		fin
+finir	finissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc		issiez		fin
+finir	finis	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem		is		fin
+finir	finissons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc		issons		fin
+finir	finissez	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem		issez		fin
+commencer	avoir commencé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		commen
+commencer	en commençant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		commen
+commencer	commençant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		commen
+commencer	commencé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		commen
+commencer	commence	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		commen
+commencer	commences	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		commen
+commencer	commence	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		commen
+commencer	commençons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		commen
+commencer	commencez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		commen
+commencer	commencent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		commen
+fluir	avoir flui	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos	avoir 	i		flu
+fluir	en fluissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos	en 	issant		flu
+fluir	fluissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issant		flu
+fluir	flui	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Polarity=Pos		i		flu
+fluir	fluis	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Polarity=Pos		is		flu
+fluir	fluis	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Polarity=Pos		is		flu
+fluir	fluit	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Polarity=Pos		it		flu
+fluir	fluissons	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Polarity=Pos		issons		flu
+fluir	fluissez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issez		flu
+fluir	fluissent	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issent		flu
+fluir	fluissois	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issois		flu
+fluir	fluissoys	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoys		flu
+fluir	fluissois	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issois		flu
+fluir	fluissoys	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issoys		flu
+fluir	fluissoit	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issoit		flu
+fluir	fluissoyy	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoyy		flu
+fluir	fluissions	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos		issions		flu
+fluir	fluissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Polarity=Pos		issiez		flu
+fluir	fluissoient	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Polarity=Pos		issoient		flu
+fluir	fluissoyent	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issoyent		flu
+fluir	fluistes	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Case=Cmp		istes		flu
+fluir	fluirent	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Case=Cmp		irent		flu
+fluir	fluirai	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Case=Cmp		irai		flu
+fluir	fluiray	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		iray		flu
+fluir	fluiras	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc;Case=Cmp		iras		flu
+fluir	fluira	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem;Case=Cmp		ira		flu
+fluir	fluirons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		irons		flu
+fluir	fluiront	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Masc;Case=Cmp		iront		flu
+fluir	fluirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Case=Cmp		irois		flu
+fluir	fluiroys	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Fem;Case=Cmp		iroys		flu
+fluir	fluirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Fem;Case=Cmp		irois		flu
+fluir	fluiroys	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Case=Cmp		iroys		flu
+fluir	fluiroit	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Case=Cmp		iroit		flu
+fluir	fluiroyt	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Case=Cmp		iroyt		flu
+fluir	fluirions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Case=Cmp		irions		flu
+fluir	fluiriez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		iriez		flu
+fluir	fluiroient	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		iroient		flu
+fluir	fluiroyent	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		iroyent		flu
+fluir	fluisse	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		isse		flu
+fluir	fluisses	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		isses		flu
+fluir	fluisse	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		isse		flu
+fluir	fluissions	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		issions		flu
+fluir	fluissiez	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		issiez		flu
+fluir	fluissent	frm-conj-ir	VERB	Number=Sing;Gender=Fem		issent		flu
+fluir	fluisse	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isse		flu
+fluir	fluisses	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isses		flu
+fluir	fluissions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem		issions		flu
+fluir	fluissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc		issiez		flu
+fluir	fluis	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem		is		flu
+fluir	fluissons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc		issons		flu
+fluir	fluissez	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem		issez		flu
+fiancer	avoir fiancé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		fian
+fiancer	en fiançant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		fian
+fiancer	fiançant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		fian
+fiancer	fiancé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		fian
+fiancer	fiance	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		fian
+fiancer	fiances	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		fian
+fiancer	fiance	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		fian
+fiancer	fiançons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		fian
+fiancer	fiancez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		fian
+fiancer	fiancent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		fian
+rincer	avoir rincé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		rin
+rincer	en rinçant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		rin
+rincer	rinçant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		rin
+rincer	rincé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		rin
+rincer	rince	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		rin
+rincer	rinces	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		rin
+rincer	rince	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		rin
+rincer	rinçons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		rin
+rincer	rincez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		rin
+rincer	rincent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		rin
+advancer	avoir advancé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		advan
+advancer	en advançant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		advan
+advancer	advançant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		advan
+advancer	advancé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		advan
+advancer	advance	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		advan
+advancer	advances	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		advan
+advancer	advance	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		advan
+advancer	advançons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		advan
+advancer	advancez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		advan
+advancer	advancent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		advan
+accomplir	avoir accompli	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos	avoir 	i		accompl
+accomplir	en accomplissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos	en 	issant		accompl
+accomplir	accomplissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issant		accompl
+accomplir	accompli	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Polarity=Pos		i		accompl
+accomplir	accomplis	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Polarity=Pos		is		accompl
+accomplir	accomplis	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Polarity=Pos		is		accompl
+accomplir	accomplit	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Polarity=Pos		it		accompl
+accomplir	accomplissons	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Polarity=Pos		issons		accompl
+accomplir	accomplissez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issez		accompl
+accomplir	accomplissent	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issent		accompl
+accomplir	accomplissois	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issois		accompl
+accomplir	accomplissoys	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoys		accompl
+accomplir	accomplissois	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issois		accompl
+accomplir	accomplissoys	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issoys		accompl
+accomplir	accomplissoit	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issoit		accompl
+accomplir	accomplissoyy	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoyy		accompl
+accomplir	accomplissions	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos		issions		accompl
+accomplir	accomplissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Polarity=Pos		issiez		accompl
+accomplir	accomplissoient	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Polarity=Pos		issoient		accompl
+accomplir	accomplissoyent	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issoyent		accompl
+accomplir	accomplistes	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Case=Cmp		istes		accompl
+accomplir	accomplirent	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Case=Cmp		irent		accompl
+accomplir	accomplirai	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Case=Cmp		irai		accompl
+accomplir	accompliray	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		iray		accompl
+accomplir	accompliras	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc;Case=Cmp		iras		accompl
+accomplir	accomplira	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem;Case=Cmp		ira		accompl
+accomplir	accomplirons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		irons		accompl
+accomplir	accompliront	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Masc;Case=Cmp		iront		accompl
+accomplir	accomplirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Case=Cmp		irois		accompl
+accomplir	accompliroys	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Fem;Case=Cmp		iroys		accompl
+accomplir	accomplirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Fem;Case=Cmp		irois		accompl
+accomplir	accompliroys	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Case=Cmp		iroys		accompl
+accomplir	accompliroit	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Case=Cmp		iroit		accompl
+accomplir	accompliroyt	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Case=Cmp		iroyt		accompl
+accomplir	accomplirions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Case=Cmp		irions		accompl
+accomplir	accompliriez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		iriez		accompl
+accomplir	accompliroient	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		iroient		accompl
+accomplir	accompliroyent	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		iroyent		accompl
+accomplir	accomplisse	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		isse		accompl
+accomplir	accomplisses	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		isses		accompl
+accomplir	accomplisse	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		isse		accompl
+accomplir	accomplissions	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		issions		accompl
+accomplir	accomplissiez	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		issiez		accompl
+accomplir	accomplissent	frm-conj-ir	VERB	Number=Sing;Gender=Fem		issent		accompl
+accomplir	accomplisse	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isse		accompl
+accomplir	accomplisses	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isses		accompl
+accomplir	accomplissions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem		issions		accompl
+accomplir	accomplissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc		issiez		accompl
+accomplir	accomplis	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem		is		accompl
+accomplir	accomplissons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc		issons		accompl
+accomplir	accomplissez	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem		issez		accompl
+deslacer	avoir delacé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		dela
+deslacer	en delaçant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		dela
+deslacer	delaçant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		dela
+deslacer	delacé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		dela
+deslacer	delace	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		dela
+deslacer	delaces	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		dela
+deslacer	delace	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		dela
+deslacer	delaçons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		dela
+deslacer	delacez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		dela
+deslacer	delacent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		dela
+guerpir	avoir guerpi	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos	avoir 	i		guerp
+guerpir	en guerpissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos	en 	issant		guerp
+guerpir	guerpissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issant		guerp
+guerpir	guerpi	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Polarity=Pos		i		guerp
+guerpir	guerpis	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Polarity=Pos		is		guerp
+guerpir	guerpis	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Polarity=Pos		is		guerp
+guerpir	guerpit	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Polarity=Pos		it		guerp
+guerpir	guerpissons	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Polarity=Pos		issons		guerp
+guerpir	guerpissez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issez		guerp
+guerpir	guerpissent	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issent		guerp
+guerpir	guerpissois	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issois		guerp
+guerpir	guerpissoys	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoys		guerp
+guerpir	guerpissois	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issois		guerp
+guerpir	guerpissoys	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issoys		guerp
+guerpir	guerpissoit	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issoit		guerp
+guerpir	guerpissoyy	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoyy		guerp
+guerpir	guerpissions	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos		issions		guerp
+guerpir	guerpissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Polarity=Pos		issiez		guerp
+guerpir	guerpissoient	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Polarity=Pos		issoient		guerp
+guerpir	guerpissoyent	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issoyent		guerp
+guerpir	guerpistes	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Case=Cmp		istes		guerp
+guerpir	guerpirent	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Case=Cmp		irent		guerp
+guerpir	guerpirai	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Case=Cmp		irai		guerp
+guerpir	guerpiray	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		iray		guerp
+guerpir	guerpiras	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc;Case=Cmp		iras		guerp
+guerpir	guerpira	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem;Case=Cmp		ira		guerp
+guerpir	guerpirons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		irons		guerp
+guerpir	guerpiront	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Masc;Case=Cmp		iront		guerp
+guerpir	guerpirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Case=Cmp		irois		guerp
+guerpir	guerpiroys	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Fem;Case=Cmp		iroys		guerp
+guerpir	guerpirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Fem;Case=Cmp		irois		guerp
+guerpir	guerpiroys	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Case=Cmp		iroys		guerp
+guerpir	guerpiroit	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Case=Cmp		iroit		guerp
+guerpir	guerpiroyt	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Case=Cmp		iroyt		guerp
+guerpir	guerpirions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Case=Cmp		irions		guerp
+guerpir	guerpiriez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		iriez		guerp
+guerpir	guerpiroient	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		iroient		guerp
+guerpir	guerpiroyent	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		iroyent		guerp
+guerpir	guerpisse	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		isse		guerp
+guerpir	guerpisses	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		isses		guerp
+guerpir	guerpisse	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		isse		guerp
+guerpir	guerpissions	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		issions		guerp
+guerpir	guerpissiez	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		issiez		guerp
+guerpir	guerpissent	frm-conj-ir	VERB	Number=Sing;Gender=Fem		issent		guerp
+guerpir	guerpisse	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isse		guerp
+guerpir	guerpisses	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isses		guerp
+guerpir	guerpissions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem		issions		guerp
+guerpir	guerpissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc		issiez		guerp
+guerpir	guerpis	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem		is		guerp
+guerpir	guerpissons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc		issons		guerp
+guerpir	guerpissez	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem		issez		guerp
+courroucer	avoir courroucé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		courrou
+courroucer	en courrouçant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		courrou
+courroucer	courrouçant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		courrou
+courroucer	courroucé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		courrou
+courroucer	courrouce	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		courrou
+courroucer	courrouces	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		courrou
+courroucer	courrouce	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		courrou
+courroucer	courrouçons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		courrou
+courroucer	courroucez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		courrou
+courroucer	courroucent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		courrou
+offencer	avoir offencé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		offen
+offencer	en offençant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		offen
+offencer	offençant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		offen
+offencer	offencé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		offen
+offencer	offence	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		offen
+offencer	offences	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		offen
+offencer	offence	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		offen
+offencer	offençons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		offen
+offencer	offencez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		offen
+offencer	offencent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		offen
+despencer	avoir despencé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		despen
+despencer	en despençant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		despen
+despencer	despençant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		despen
+despencer	despencé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		despen
+despencer	despence	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		despen
+despencer	despences	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		despen
+despencer	despence	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		despen
+despencer	despençons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		despen
+despencer	despencez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		despen
+despencer	despencent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		despen
+encommencer	avoir encommencé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		encommen
+encommencer	en encommençant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		encommen
+encommencer	encommençant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		encommen
+encommencer	encommencé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		encommen
+encommencer	encommence	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		encommen
+encommencer	encommences	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		encommen
+encommencer	encommence	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		encommen
+encommencer	encommençons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		encommen
+encommencer	encommencez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		encommen
+encommencer	encommencent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		encommen
+entrempescher	avoir entrempesché	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	avoir 	é		entrempesch
+entrempescher	en entrempeschant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	en 	ant		entrempesch
+entrempescher	entrempeschant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ant		entrempesch
+entrempescher	entrempesché	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		é		entrempesch
+entrempescher	entrempeschons	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ons		entrempesch
+entrempescher	entrempeschez	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ez		entrempesch
+eslancer	avoir eslancé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		eslan
+eslancer	en eslançant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		eslan
+eslancer	eslançant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		eslan
+eslancer	eslancé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		eslan
+eslancer	eslance	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		eslan
+eslancer	eslances	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		eslan
+eslancer	eslance	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		eslan
+eslancer	eslançons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		eslan
+eslancer	eslancez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		eslan
+eslancer	eslancent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		eslan
+faucer	avoir faucé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		fau
+faucer	en fauçant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		fau
+faucer	fauçant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		fau
+faucer	faucé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		fau
+faucer	fauce	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		fau
+faucer	fauces	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		fau
+faucer	fauce	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		fau
+faucer	fauçons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		fau
+faucer	faucez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		fau
+faucer	faucent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		fau
+entreruyner	avoir entreruyné	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	avoir 	é		entreruyn
+entreruyner	en entreruynant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	en 	ant		entreruyn
+entreruyner	entreruynant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ant		entreruyn
+entreruyner	entreruyné	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		é		entreruyn
+entreruyner	entreruynons	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ons		entreruyn
+entreruyner	entreruynez	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ez		entreruyn
+debaracer	avoir debaracé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		debara
+debaracer	en debaraçant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		debara
+debaracer	debaraçant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		debara
+debaracer	debaracé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		debara
+debaracer	debarace	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		debara
+debaracer	debaraces	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		debara
+debaracer	debarace	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		debara
+debaracer	debaraçons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		debara
+debaracer	debaracez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		debara
+debaracer	debaracent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		debara
+creancer	avoir creancé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		crean
+creancer	en creançant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		crean
+creancer	creançant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		crean
+creancer	creancé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		crean
+creancer	creance	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		crean
+creancer	creances	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		crean
+creancer	creance	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		crean
+creancer	creançons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		crean
+creancer	creancez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		crean
+creancer	creancent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		crean
+entrencontrer	avoir entrencontré	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	avoir 	é		entrencontr
+entrencontrer	en entrencontrant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	en 	ant		entrencontr
+entrencontrer	entrencontrant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ant		entrencontr
+entrencontrer	entrencontré	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		é		entrencontr
+entrencontrer	entrencontrons	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ons		entrencontr
+entrencontrer	entrencontrez	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ez		entrencontr
+desplacer	avoir desplacé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		despla
+desplacer	en desplaçant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		despla
+desplacer	desplaçant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		despla
+desplacer	desplacé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		despla
+desplacer	desplace	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		despla
+desplacer	desplaces	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		despla
+desplacer	desplace	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		despla
+desplacer	desplaçons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		despla
+desplacer	desplacez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		despla
+desplacer	desplacent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		despla
+entrehurter	avoir entrehurté	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	avoir 	é		entrehurt
+entrehurter	en entrehurtant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	en 	ant		entrehurt
+entrehurter	entrehurtant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ant		entrehurt
+entrehurter	entrehurté	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		é		entrehurt
+entrehurter	entrehurtons	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ons		entrehurt
+entrehurter	entrehurtez	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ez		entrehurt
+entrefraper	avoir entrefrapé	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	avoir 	é		entrefrap
+entrefraper	en entrefrapant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	en 	ant		entrefrap
+entrefraper	entrefrapant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ant		entrefrap
+entrefraper	entrefrapé	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		é		entrefrap
+entrefraper	entrefrapons	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ons		entrefrap
+entrefraper	entrefrapez	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ez		entrefrap
+mucer	avoir mucé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		mu
+mucer	en muçant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		mu
+mucer	muçant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		mu
+mucer	mucé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		mu
+mucer	muce	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		mu
+mucer	muces	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		mu
+mucer	muce	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		mu
+mucer	muçons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		mu
+mucer	mucez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		mu
+mucer	mucent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		mu
+transgloutir	avoir transglouti	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos	avoir 	i		transglout
+transgloutir	en transgloutissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos	en 	issant		transglout
+transgloutir	transgloutissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issant		transglout
+transgloutir	transglouti	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Polarity=Pos		i		transglout
+transgloutir	transgloutis	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Polarity=Pos		is		transglout
+transgloutir	transgloutis	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Polarity=Pos		is		transglout
+transgloutir	transgloutit	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Polarity=Pos		it		transglout
+transgloutir	transgloutissons	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Polarity=Pos		issons		transglout
+transgloutir	transgloutissez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issez		transglout
+transgloutir	transgloutissent	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issent		transglout
+transgloutir	transgloutissois	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issois		transglout
+transgloutir	transgloutissoys	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoys		transglout
+transgloutir	transgloutissois	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issois		transglout
+transgloutir	transgloutissoys	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issoys		transglout
+transgloutir	transgloutissoit	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issoit		transglout
+transgloutir	transgloutissoyy	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoyy		transglout
+transgloutir	transgloutissions	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos		issions		transglout
+transgloutir	transgloutissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Polarity=Pos		issiez		transglout
+transgloutir	transgloutissoient	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Polarity=Pos		issoient		transglout
+transgloutir	transgloutissoyent	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issoyent		transglout
+transgloutir	transgloutistes	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Case=Cmp		istes		transglout
+transgloutir	transgloutirent	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Case=Cmp		irent		transglout
+transgloutir	transgloutirai	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Case=Cmp		irai		transglout
+transgloutir	transgloutiray	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		iray		transglout
+transgloutir	transgloutiras	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc;Case=Cmp		iras		transglout
+transgloutir	transgloutira	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem;Case=Cmp		ira		transglout
+transgloutir	transgloutirons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		irons		transglout
+transgloutir	transgloutiront	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Masc;Case=Cmp		iront		transglout
+transgloutir	transgloutirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Case=Cmp		irois		transglout
+transgloutir	transgloutiroys	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Fem;Case=Cmp		iroys		transglout
+transgloutir	transgloutirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Fem;Case=Cmp		irois		transglout
+transgloutir	transgloutiroys	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Case=Cmp		iroys		transglout
+transgloutir	transgloutiroit	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Case=Cmp		iroit		transglout
+transgloutir	transgloutiroyt	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Case=Cmp		iroyt		transglout
+transgloutir	transgloutirions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Case=Cmp		irions		transglout
+transgloutir	transgloutiriez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		iriez		transglout
+transgloutir	transgloutiroient	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		iroient		transglout
+transgloutir	transgloutiroyent	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		iroyent		transglout
+transgloutir	transgloutisse	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		isse		transglout
+transgloutir	transgloutisses	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		isses		transglout
+transgloutir	transgloutisse	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		isse		transglout
+transgloutir	transgloutissions	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		issions		transglout
+transgloutir	transgloutissiez	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		issiez		transglout
+transgloutir	transgloutissent	frm-conj-ir	VERB	Number=Sing;Gender=Fem		issent		transglout
+transgloutir	transgloutisse	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isse		transglout
+transgloutir	transgloutisses	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isses		transglout
+transgloutir	transgloutissions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem		issions		transglout
+transgloutir	transgloutissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc		issiez		transglout
+transgloutir	transgloutis	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem		is		transglout
+transgloutir	transgloutissons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc		issons		transglout
+transgloutir	transgloutissez	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem		issez		transglout
+entredesirer	avoir entredesiré	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	avoir 	é		entredesir
+entredesirer	en entredesirant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	en 	ant		entredesir
+entredesirer	entredesirant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ant		entredesir
+entredesirer	entredesiré	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		é		entredesir
+entredesirer	entredesirons	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ons		entredesir
+entredesirer	entredesirez	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ez		entredesir
+entrefrapper	avoir entrefrappé	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	avoir 	é		entrefrapp
+entrefrapper	en entrefrappant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	en 	ant		entrefrapp
+entrefrapper	entrefrappant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ant		entrefrapp
+entrefrapper	entrefrappé	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		é		entrefrapp
+entrefrapper	entrefrappons	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ons		entrefrapp
+entrefrapper	entrefrappez	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ez		entrefrapp
+entredemander	avoir entredemandé	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	avoir 	é		entredemand
+entredemander	en entredemandant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	en 	ant		entredemand
+entredemander	entredemandant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ant		entredemand
+entredemander	entredemandé	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		é		entredemand
+entredemander	entredemandons	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ons		entredemand
+entredemander	entredemandez	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ez		entredemand
+flechir	avoir fleschi	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos	avoir 	i		flesch
+flechir	en fleschissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos	en 	issant		flesch
+flechir	fleschissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issant		flesch
+flechir	fleschi	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Polarity=Pos		i		flesch
+flechir	fleschis	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Polarity=Pos		is		flesch
+flechir	fleschis	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Polarity=Pos		is		flesch
+flechir	fleschit	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Polarity=Pos		it		flesch
+flechir	fleschissons	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Polarity=Pos		issons		flesch
+flechir	fleschissez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issez		flesch
+flechir	fleschissent	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issent		flesch
+flechir	fleschissois	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issois		flesch
+flechir	fleschissoys	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoys		flesch
+flechir	fleschissois	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issois		flesch
+flechir	fleschissoys	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issoys		flesch
+flechir	fleschissoit	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issoit		flesch
+flechir	fleschissoyy	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoyy		flesch
+flechir	fleschissions	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos		issions		flesch
+flechir	fleschissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Polarity=Pos		issiez		flesch
+flechir	fleschissoient	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Polarity=Pos		issoient		flesch
+flechir	fleschissoyent	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issoyent		flesch
+flechir	fleschistes	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Case=Cmp		istes		flesch
+flechir	fleschirent	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Case=Cmp		irent		flesch
+flechir	fleschirai	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Case=Cmp		irai		flesch
+flechir	fleschiray	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		iray		flesch
+flechir	fleschiras	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc;Case=Cmp		iras		flesch
+flechir	fleschira	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem;Case=Cmp		ira		flesch
+flechir	fleschirons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		irons		flesch
+flechir	fleschiront	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Masc;Case=Cmp		iront		flesch
+flechir	fleschirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Case=Cmp		irois		flesch
+flechir	fleschiroys	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Fem;Case=Cmp		iroys		flesch
+flechir	fleschirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Fem;Case=Cmp		irois		flesch
+flechir	fleschiroys	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Case=Cmp		iroys		flesch
+flechir	fleschiroit	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Case=Cmp		iroit		flesch
+flechir	fleschiroyt	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Case=Cmp		iroyt		flesch
+flechir	fleschirions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Case=Cmp		irions		flesch
+flechir	fleschiriez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		iriez		flesch
+flechir	fleschiroient	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		iroient		flesch
+flechir	fleschiroyent	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		iroyent		flesch
+flechir	fleschisse	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		isse		flesch
+flechir	fleschisses	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		isses		flesch
+flechir	fleschisse	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		isse		flesch
+flechir	fleschissions	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		issions		flesch
+flechir	fleschissiez	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		issiez		flesch
+flechir	fleschissent	frm-conj-ir	VERB	Number=Sing;Gender=Fem		issent		flesch
+flechir	fleschisse	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isse		flesch
+flechir	fleschisses	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isses		flesch
+flechir	fleschissions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem		issions		flesch
+flechir	fleschissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc		issiez		flesch
+flechir	fleschis	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem		is		flesch
+flechir	fleschissons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc		issons		flesch
+flechir	fleschissez	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem		issez		flesch
+pourforcer	avoir pourforcé	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing	avoir 	cé		pourfor
+pourforcer	en pourforçant	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Plur	en 	çant		pourfor
+pourforcer	pourforçant	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Sing		çant		pourfor
+pourforcer	pourforcé	frm-conj-cer	VERB	Definite=Def;Case=Nom;Number=Plur		cé		pourfor
+pourforcer	pourforce	frm-conj-cer	VERB	Definite=Ind;Case=Dat;Number=Plur		ce		pourfor
+pourforcer	pourforces	frm-conj-cer	VERB	Definite=Def;Case=Dat;Number=Plur		ces		pourfor
+pourforcer	pourforce	frm-conj-cer	VERB	Definite=Ind;Case=Nom;Number=Sing		ce		pourfor
+pourforcer	pourforçons	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Sing		çons		pourfor
+pourforcer	pourforcez	frm-conj-cer	VERB	Definite=Ind;Case=Gen;Number=Plur		cez		pourfor
+pourforcer	pourforcent	frm-conj-cer	VERB	Definite=Def;Case=Gen;Number=Plur		cent		pourfor
+apatir	avoir apati	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos	avoir 	i		apat
+apatir	en apatissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos	en 	issant		apat
+apatir	apatissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issant		apat
+apatir	apati	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Polarity=Pos		i		apat
+apatir	apatis	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Polarity=Pos		is		apat
+apatir	apatis	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Polarity=Pos		is		apat
+apatir	apatit	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Polarity=Pos		it		apat
+apatir	apatissons	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Polarity=Pos		issons		apat
+apatir	apatissez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issez		apat
+apatir	apatissent	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issent		apat
+apatir	apatissois	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issois		apat
+apatir	apatissoys	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoys		apat
+apatir	apatissois	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issois		apat
+apatir	apatissoys	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issoys		apat
+apatir	apatissoit	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issoit		apat
+apatir	apatissoyy	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoyy		apat
+apatir	apatissions	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos		issions		apat
+apatir	apatissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Polarity=Pos		issiez		apat
+apatir	apatissoient	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Polarity=Pos		issoient		apat
+apatir	apatissoyent	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issoyent		apat
+apatir	apatistes	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Case=Cmp		istes		apat
+apatir	apatirent	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Case=Cmp		irent		apat
+apatir	apatirai	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Case=Cmp		irai		apat
+apatir	apatiray	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		iray		apat
+apatir	apatiras	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc;Case=Cmp		iras		apat
+apatir	apatira	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem;Case=Cmp		ira		apat
+apatir	apatirons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		irons		apat
+apatir	apatiront	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Masc;Case=Cmp		iront		apat
+apatir	apatirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Case=Cmp		irois		apat
+apatir	apatiroys	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Fem;Case=Cmp		iroys		apat
+apatir	apatirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Fem;Case=Cmp		irois		apat
+apatir	apatiroys	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Case=Cmp		iroys		apat
+apatir	apatiroit	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Case=Cmp		iroit		apat
+apatir	apatiroyt	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Case=Cmp		iroyt		apat
+apatir	apatirions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Case=Cmp		irions		apat
+apatir	apatiriez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		iriez		apat
+apatir	apatiroient	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		iroient		apat
+apatir	apatiroyent	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		iroyent		apat
+apatir	apatisse	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		isse		apat
+apatir	apatisses	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		isses		apat
+apatir	apatisse	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		isse		apat
+apatir	apatissions	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		issions		apat
+apatir	apatissiez	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		issiez		apat
+apatir	apatissent	frm-conj-ir	VERB	Number=Sing;Gender=Fem		issent		apat
+apatir	apatisse	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isse		apat
+apatir	apatisses	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isses		apat
+apatir	apatissions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem		issions		apat
+apatir	apatissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc		issiez		apat
+apatir	apatis	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem		is		apat
+apatir	apatissons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc		issons		apat
+apatir	apatissez	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem		issez		apat
+entredonner	avoir entredonné	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	avoir 	é		entredonn
+entredonner	en entredonnant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing	en 	ant		entredonn
+entredonner	entredonnant	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ant		entredonn
+entredonner	entredonné	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		é		entredonn
+entredonner	entredonnons	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ons		entredonn
+entredonner	entredonnez	frm-conj-er-plural-only	VERB	Case=Voc;Number=Sing		ez		entredonn
+estourdir	avoir estourdi	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos	avoir 	i		estourd
+estourdir	en estourdissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos	en 	issant		estourd
+estourdir	estourdissant	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issant		estourd
+estourdir	estourdi	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Polarity=Pos		i		estourd
+estourdir	estourdis	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Polarity=Pos		is		estourd
+estourdir	estourdis	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Polarity=Pos		is		estourd
+estourdir	estourdit	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Polarity=Pos		it		estourd
+estourdir	estourdissons	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Polarity=Pos		issons		estourd
+estourdir	estourdissez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issez		estourd
+estourdir	estourdissent	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issent		estourd
+estourdir	estourdissois	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issois		estourd
+estourdir	estourdissoys	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoys		estourd
+estourdir	estourdissois	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Polarity=Pos		issois		estourd
+estourdir	estourdissoys	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Polarity=Pos		issoys		estourd
+estourdir	estourdissoit	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Polarity=Pos		issoit		estourd
+estourdir	estourdissoyy	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Polarity=Pos		issoyy		estourd
+estourdir	estourdissions	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Polarity=Pos		issions		estourd
+estourdir	estourdissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Polarity=Pos		issiez		estourd
+estourdir	estourdissoient	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Polarity=Pos		issoient		estourd
+estourdir	estourdissoyent	frm-conj-ir	VERB	Case=Voc;Number=Plur;Gender=Fem;Polarity=Pos		issoyent		estourd
+estourdir	estourdistes	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Masc;Case=Cmp		istes		estourd
+estourdir	estourdirent	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc;Case=Cmp		irent		estourd
+estourdir	estourdirai	frm-conj-ir	VERB	Case=Nom;Number=Sing;Gender=Fem;Case=Cmp		irai		estourd
+estourdir	estourdiray	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		iray		estourd
+estourdir	estourdiras	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc;Case=Cmp		iras		estourd
+estourdir	estourdira	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem;Case=Cmp		ira		estourd
+estourdir	estourdirons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem;Case=Cmp		irons		estourd
+estourdir	estourdiront	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Masc;Case=Cmp		iront		estourd
+estourdir	estourdirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Masc;Case=Cmp		irois		estourd
+estourdir	estourdiroys	frm-conj-ir	VERB	Case=Dat;Number=Sing;Gender=Fem;Case=Cmp		iroys		estourd
+estourdir	estourdirois	frm-conj-ir	VERB	Case=Dat;Number=Plur;Gender=Fem;Case=Cmp		irois		estourd
+estourdir	estourdiroys	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Masc;Case=Cmp		iroys		estourd
+estourdir	estourdiroit	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Masc;Case=Cmp		iroit		estourd
+estourdir	estourdiroyt	frm-conj-ir	VERB	Case=Acc;Number=Sing;Gender=Fem;Case=Cmp		iroyt		estourd
+estourdir	estourdirions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem;Case=Cmp		irions		estourd
+estourdir	estourdiriez	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		iriez		estourd
+estourdir	estourdiroient	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		iroient		estourd
+estourdir	estourdiroyent	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		iroyent		estourd
+estourdir	estourdisse	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		isse		estourd
+estourdir	estourdisses	frm-conj-ir	VERB	Number=Sing;Gender=Masc;Case=Cmp		isses		estourd
+estourdir	estourdisse	frm-conj-ir	VERB	Number=Plur;Gender=Masc;Case=Cmp		isse		estourd
+estourdir	estourdissions	frm-conj-ir	VERB	Number=Sing;Gender=Fem;Case=Cmp		issions		estourd
+estourdir	estourdissiez	frm-conj-ir	VERB	Number=Plur;Gender=Fem;Case=Cmp		issiez		estourd
+estourdir	estourdissent	frm-conj-ir	VERB	Number=Sing;Gender=Fem		issent		estourd
+estourdir	estourdisse	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isse		estourd
+estourdir	estourdisses	frm-conj-ir	VERB	Number=Sing;Gender=Fem		isses		estourd
+estourdir	estourdissions	frm-conj-ir	VERB	Case=Acc;Number=Plur;Gender=Fem		issions		estourd
+estourdir	estourdissiez	frm-conj-ir	VERB	Case=Nom;Number=Plur;Gender=Masc		issiez		estourd
+estourdir	estourdis	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Fem		is		estourd
+estourdir	estourdissons	frm-conj-ir	VERB	Case=Gen;Number=Sing;Gender=Masc		issons		estourd
+estourdir	estourdissez	frm-conj-ir	VERB	Case=Gen;Number=Plur;Gender=Fem		issez		estourd

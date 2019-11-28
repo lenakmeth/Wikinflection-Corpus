@@ -1,0 +1,33 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+hnát	ženeme	cs-conj	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur				ženeme
+hnát	budu hnát	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=1;Number=Sing				budu hnát
+hnát	budeme hnát	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=1;Number=Plur				budeme hnát
+hnát	hnal jsem	cs-conj	VERB	Mood=Ind;Tense=Past;Person=1;Number=Sing;Gender=Neut				hnal jsem
+hnát	hnali jsme	cs-conj	VERB	Mood=Ind;Tense=Past;Person=1;Number=Plur;Gender=Neut				hnali jsme
+hnát	ženeš	cs-conj	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing				ženeš
+hnát	ženete	cs-conj	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Plur				ženete
+hnát	budeš hnát	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=2;Number=Sing				budeš hnát
+hnát	budete hnát	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=2;Number=Plur				budete hnát
+hnát	hnal jsi	cs-conj	VERB	Mood=Ind;Tense=Past;Person=2;Number=Sing;Gender=Neut				hnal jsi
+hnát	hnali jste	cs-conj	VERB	Mood=Ind;Tense=Past;Person=2;Number=Plur;Gender=Neut				hnali jste
+hnát	žene	cs-conj	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing				žene
+hnát	ženou	cs-conj	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Plur				ženou
+hnát	bude hnát	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=3;Number=Sing				bude hnát
+hnát	budou hnát	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=3;Number=Plur				budou hnát
+hnát	hnal	cs-conj	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Gender=Neut				hnal
+hnát	hnali	cs-conj	VERB	Mood=Ind;Tense=Past;Person=3;Number=Plur;Gender=Neut				hnali
+hnát	ženeme	cs-conj	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Plur				ženeme
+hnát	budu hnát	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=2;Number=Sing				budu hnát
+hnát	budeme hnát	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=2;Number=Plur				budeme hnát
+hnát	ženeš	cs-conj	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing				ženeš
+hnát	ženete	cs-conj	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Plur				ženete
+hnát	budeš hnát	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=3;Number=Sing				budeš hnát
+hnát	budete hnát	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=3;Number=Plur				budete hnát
+šapitó	šapitó	cs-decl-noun-indeclinable	NOUN	Case=Voc;Number=Sing				šapitó
+kašlat	kašleme	cs-conj	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Plur				kašleme
+kašlat	budu kašlat	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=2;Number=Sing				budu kašlat
+kašlat	budeme kašlat	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=2;Number=Plur				budeme kašlat
+kašlat	kašleš	cs-conj	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing				kašleš
+kašlat	kašlete	cs-conj	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Plur				kašlete
+kašlat	budeš kašlat	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=3;Number=Sing				budeš kašlat
+kašlat	budete kašlat	cs-conj	VERB	Mood=Ind;Tense=Fut;Person=3;Number=Plur				budete kašlat

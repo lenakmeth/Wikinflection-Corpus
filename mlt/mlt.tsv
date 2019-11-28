@@ -1,0 +1,65 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+tar	tar	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				tar
+beda	beda	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				beda
+mar	mar	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				mar
+bint	bint	mt-prep-inflection-2		VerbForm=Inf				bint
+bint	bintna	mt-prep-inflection-2		VerbForm=Fin;Person=1;Number=Plur;Gender=Com		na		bint
+bint	bintkom	mt-prep-inflection-2		VerbForm=Fin;Person=2;Number=Plur;Gender=Com		kom		bint
+bint	bintha	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Sing;Gender=Fem		ha		bint
+bint	binthom	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Plur;Gender=Com		hom		bint
+fired	fired	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				fired
+kisser	kisser	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				kisser
+dara	dara	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				dara
+kell	kell	mt-prep-inflection-2		VerbForm=Inf				kell
+kell	kellna	mt-prep-inflection-2		VerbForm=Fin;Person=1;Number=Plur;Gender=Com		na		kell
+kell	kellkom	mt-prep-inflection-2		VerbForm=Fin;Person=2;Number=Plur;Gender=Com		kom		kell
+kell	kellha	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Sing;Gender=Fem		ha		kell
+kell	kellhom	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Plur;Gender=Com		hom		kell
+wera	wera	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				wera
+bena	bena	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				bena
+oħt	oħt	mt-prep-inflection-2		VerbForm=Inf				oħt
+oħt	oħtna	mt-prep-inflection-2		VerbForm=Fin;Person=1;Number=Plur;Gender=Com		na		oħt
+oħt	oħtkom	mt-prep-inflection-2		VerbForm=Fin;Person=2;Number=Plur;Gender=Com		kom		oħt
+oħt	oħtha	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Sing;Gender=Fem		ha		oħt
+oħt	oħthom	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Plur;Gender=Com		hom		oħt
+żar	żar	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				żar
+iben	iben	mt-prep-inflection-2		VerbForm=Inf				iben
+iben	ibnna	mt-prep-inflection-2		VerbForm=Fin;Person=1;Number=Plur;Gender=Com		na		ibn
+iben	ibnkom	mt-prep-inflection-2		VerbForm=Fin;Person=2;Number=Plur;Gender=Com		kom		ibn
+iben	ibnha	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Sing;Gender=Fem		ha		ibn
+iben	ibnhom	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Plur;Gender=Com		hom		ibn
+sab	sab	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				sab
+qara	qara	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				qara
+qatel	qatel	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				qatel
+nesa	nesa	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				nesa
+lagħab	lagħab	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				lagħab
+niek	niek	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				niek
+xtaq	xtaq	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				xtaq
+xtara	xtara	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				xtara
+emmen	emmen	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				emmen
+jisem	jisem	mt-prep-inflection-2		VerbForm=Inf				jisem
+jisem	jisimna	mt-prep-inflection-2		VerbForm=Fin;Person=1;Number=Plur;Gender=Com		na		jisim
+jisem	jisimkom	mt-prep-inflection-2		VerbForm=Fin;Person=2;Number=Plur;Gender=Com		kom		jisim
+jisem	jisimha	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Sing;Gender=Fem		ha		jisim
+jisem	jisimhom	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Plur;Gender=Com		hom		jisim
+ħu	ħu	mt-prep-inflection-2		VerbForm=Inf				ħu
+ħu	ħuna	mt-prep-inflection-2		VerbForm=Fin;Person=1;Number=Plur;Gender=Com		na		ħu
+ħu	ħukom	mt-prep-inflection-2		VerbForm=Fin;Person=2;Number=Plur;Gender=Com		kom		ħu
+ħu	ħuha	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Sing;Gender=Fem		ha		ħu
+ħu	ħuhom	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Plur;Gender=Com		hom		ħu
+berred	berred	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				berred
+dineb	dineb	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				dineb
+pejjep	pejjep	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				pejjep
+għex	għex	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				għex
+hedded	hedded	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				hedded
+biegħ	biegħ	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				biegħ
+bejn	bejn	mt-prep-inflection-2		VerbForm=Inf				bejn
+bejn	bejnna	mt-prep-inflection-2		VerbForm=Fin;Person=1;Number=Plur;Gender=Com		na		bejn
+bejn	bejnkom	mt-prep-inflection-2		VerbForm=Fin;Person=2;Number=Plur;Gender=Com		kom		bejn
+bejn	bejnha	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Sing;Gender=Fem		ha		bejn
+bejn	bejnhom	mt-prep-inflection-2		VerbForm=Fin;Person=3;Number=Plur;Gender=Com		hom		bejn
+ragħa	ragħa	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				ragħa
+dagħa	dagħa	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				dagħa
+wiegħed	wiegħed	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				wiegħed
+għaqqad	għaqqad	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				għaqqad
+nkiser	nkiser	mt-conj	VERB	VerbForm=Fin;Tense=Past;Person=3;Number=Sing;Gender=Masc				nkiser

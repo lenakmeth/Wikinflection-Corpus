@@ -1,0 +1,16 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+brief	briefs	fro-decl-adj-f	ADJ	Definite=Ind;Case=Nom;Number=Sing		s		brief
+brief	briefve	fro-decl-adj-f	ADJ	Definite=Def;Case=Nom;Number=Sing		ve		brief
+brief	briefve	fro-decl-adj-f	ADJ	Definite=Ind;Case=Nom;Number=Sing		ve		brief
+brief	briefve	fro-decl-adj-f	ADJ	Definite=Def;Case=Nom;Number=Plur		ve		brief
+brief	briefves	fro-decl-adj-f	ADJ	Definite=Def;Case=Nom;Number=Sing		ves		brief
+nuef	nuefs	fro-decl-adj-f	ADJ	Definite=Ind;Case=Nom;Number=Sing		s		nuef
+nuef	nuefve	fro-decl-adj-f	ADJ	Definite=Def;Case=Nom;Number=Sing		ve		nuef
+nuef	nuefve	fro-decl-adj-f	ADJ	Definite=Ind;Case=Nom;Number=Sing		ve		nuef
+nuef	nuefve	fro-decl-adj-f	ADJ	Definite=Def;Case=Nom;Number=Plur		ve		nuef
+nuef	nuefves	fro-decl-adj-f	ADJ	Definite=Def;Case=Nom;Number=Sing		ves		nuef
+jointif	jointifs	fro-decl-adj-f	ADJ	Definite=Ind;Case=Nom;Number=Sing		s		jointif
+jointif	jointifve	fro-decl-adj-f	ADJ	Definite=Def;Case=Nom;Number=Sing		ve		jointif
+jointif	jointifve	fro-decl-adj-f	ADJ	Definite=Ind;Case=Nom;Number=Sing		ve		jointif
+jointif	jointifve	fro-decl-adj-f	ADJ	Definite=Def;Case=Nom;Number=Plur		ve		jointif
+jointif	jointifves	fro-decl-adj-f	ADJ	Definite=Def;Case=Nom;Number=Sing		ves		jointif

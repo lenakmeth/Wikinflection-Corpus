@@ -1,0 +1,57 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+лӏэн	солӏэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	со			
+лӏэн	уолӏэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	уо			
+лӏэн	малӏэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ма			
+лӏэн	долӏэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	до			
+лӏэн	фолӏэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	фо			
+лӏэн	малӏэнха	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ма	ха		лӏэн
+лӏэн	сылӏaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	сы	aщ		лӏ
+лӏэн	улӏaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	у	aщ		лӏ
+лӏэн	лӏaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing		aщ		лӏ
+лӏэн	дылӏaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ды	aщ		лӏ
+лӏэн	фылӏaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	фы	aщ		лӏ
+лӏэн	лӏaхащ	kbd-conj-intr	VERB	Case=Voc;Number=Sing		aхащ		лӏ
+лӏэн	сылӏэнну	kbd-conj-intr	VERB	Case=Voc;Number=Sing	сы	ну		лӏэн
+лӏэн	улӏэнну	kbd-conj-intr	VERB	Case=Voc;Number=Sing	у	ну		лӏэн
+жэн	сожэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	со			
+жэн	уожэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	уо			
+жэн	мажэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ма			
+жэн	дожэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	до			
+жэн	фожэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	фо			
+жэн	мажэнха	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ма	ха		жэн
+жэн	сыжaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	сы	aщ		ж
+жэн	ужaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	у	aщ		ж
+жэн	жaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing		aщ		ж
+жэн	дыжaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ды	aщ		ж
+жэн	фыжaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	фы	aщ		ж
+жэн	жaхащ	kbd-conj-intr	VERB	Case=Voc;Number=Sing		aхащ		ж
+жэн	сыжэнну	kbd-conj-intr	VERB	Case=Voc;Number=Sing	сы	ну		жэн
+жэн	ужэнну	kbd-conj-intr	VERB	Case=Voc;Number=Sing	у	ну		жэн
+лъэн	солъэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	со			
+лъэн	уолъэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	уо			
+лъэн	малъэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ма			
+лъэн	долъэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	до			
+лъэн	фолъэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	фо			
+лъэн	малъэнха	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ма	ха		лъэн
+лъэн	сылъaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	сы	aщ		лъ
+лъэн	улъaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	у	aщ		лъ
+лъэн	лъaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing		aщ		лъ
+лъэн	дылъaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ды	aщ		лъ
+лъэн	фылъaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	фы	aщ		лъ
+лъэн	лъaхащ	kbd-conj-intr	VERB	Case=Voc;Number=Sing		aхащ		лъ
+лъэн	сылъэнну	kbd-conj-intr	VERB	Case=Voc;Number=Sing	сы	ну		лъэн
+лъэн	улъэнну	kbd-conj-intr	VERB	Case=Voc;Number=Sing	у	ну		лъэн
+кӏуэн	сокӏуэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	со			
+кӏуэн	уокӏуэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	уо			
+кӏуэн	макӏуэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ма			
+кӏуэн	докӏуэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	до			
+кӏуэн	фокӏуэн	kbd-conj-intr	VERB	Case=Voc;Number=Sing	фо			
+кӏуэн	макӏуэнха	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ма	ха		кӏуэн
+кӏуэн	сыкӏуaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	сы	aщ		кӏу
+кӏуэн	укӏуaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	у	aщ		кӏу
+кӏуэн	кӏуaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing		aщ		кӏу
+кӏуэн	дыкӏуaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	ды	aщ		кӏу
+кӏуэн	фыкӏуaщ	kbd-conj-intr	VERB	Case=Voc;Number=Sing	фы	aщ		кӏу
+кӏуэн	кӏуaхащ	kbd-conj-intr	VERB	Case=Voc;Number=Sing		aхащ		кӏу
+кӏуэн	сыкӏуэнну	kbd-conj-intr	VERB	Case=Voc;Number=Sing	сы	ну		кӏуэн
+кӏуэн	укӏуэнну	kbd-conj-intr	VERB	Case=Voc;Number=Sing	у	ну		кӏуэн

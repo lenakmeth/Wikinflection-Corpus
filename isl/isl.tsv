@@ -1,0 +1,489 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+geta	etandi	is-conj-s5	VERB	Tense=Pres		andi		et
+geta	et	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				et
+geta	etið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		et
+meta	etandi	is-conj-s5	VERB	Tense=Pres		andi		et
+meta	et	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				et
+meta	etið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		et
+reka	ekandi	is-conj-s5	VERB	Tense=Pres		andi		ek
+reka	ek	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				ek
+reka	ekið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ek
+áríðandi	áríðandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Nom;Number=Sing				áríðandi
+áríðandi	áríðandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Nom;Number=Plur				áríðandi
+áríðandi	áríðandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Gen;Number=Sing				áríðandi
+áríðandi	áríðandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Gen;Number=Plur				áríðandi
+biðja	iðandi	is-conj-s5	VERB	Tense=Pres		andi		ið
+biðja	ið	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				ið
+biðja	iðið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ið
+bíða	biðið	is-conj-s1	VERB		i	i	i	iði
+bíða	bíð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	í
+bíða	bíðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íði
+bíða	bíðandi	is-conj-s1	VERB	Tense=Pres	í	í	í	íðand
+bíða	bíð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	í
+bíða	bíðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íði
+drepa	epandi	is-conj-s5	VERB	Tense=Pres		andi		ep
+drepa	ep	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				ep
+drepa	epið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ep
+fljúga	flogið	is-conj-s2	VERB		o	o	o	logi
+fljúga	fljúgandi	is-conj-s2	VERB	Tense=Pres		andi		fljúg
+fljúga	fljúg	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				fljúg
+fljúga	fljúgið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		fljúg
+fljúga	fljúgandi	is-conj-s2	VERB	Tense=Pres		andi		fljúg
+fljúga	fljúg	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				fljúg
+fljúga	fljúgið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		fljúg
+frjósa	frosið	is-conj-s2	VERB		o	o	o	rosi
+frjósa	frjósandi	is-conj-s2	VERB	Tense=Pres		andi		frjós
+frjósa	frjós	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				frjós
+frjósa	frjósið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		frjós
+frjósa	frjósandi	is-conj-s2	VERB	Tense=Pres		andi		frjós
+frjósa	frjós	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				frjós
+frjósa	frjósið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		frjós
+gefa	efandi	is-conj-s5	VERB	Tense=Pres		andi		ef
+gefa	ef	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				ef
+gefa	efið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ef
+gildandi	gildandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Nom;Number=Sing				gildandi
+gildandi	gildandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Nom;Number=Plur				gildandi
+gildandi	gildandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Gen;Number=Sing				gildandi
+gildandi	gildandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Gen;Number=Plur				gildandi
+lesa	esandi	is-conj-s5	VERB	Tense=Pres		andi		es
+lesa	es	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				es
+lesa	esið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		es
+liggja	iggandi	is-conj-s5	VERB	Tense=Pres		andi		igg
+liggja	igg	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				igg
+liggja	iggið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		igg
+líða	liðið	is-conj-s1	VERB		i	i	i	iði
+líða	líð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	í
+líða	líðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íði
+líða	líðandi	is-conj-s1	VERB	Tense=Pres	í	í	í	íðand
+líða	líð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	í
+líða	líðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íði
+ljúga	logið	is-conj-s2	VERB		o	o	o	ogi
+ljúga	ljúgandi	is-conj-s2	VERB	Tense=Pres		andi		ljúg
+ljúga	ljúg	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				ljúg
+ljúga	ljúgið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ljúg
+ljúga	ljúgandi	is-conj-s2	VERB	Tense=Pres		andi		ljúg
+ljúga	ljúg	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				ljúg
+ljúga	ljúgið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ljúg
+ljúka	lokið	is-conj-s2	VERB		o	o	o	oki
+ljúka	ljúkandi	is-conj-s2	VERB	Tense=Pres		andi		ljúk
+ljúka	ljúk	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				ljúk
+ljúka	ljúkið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ljúk
+ljúka	ljúkandi	is-conj-s2	VERB	Tense=Pres		andi		ljúk
+ljúka	ljúk	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				ljúk
+ljúka	ljúkið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ljúk
+rífast	rifið	is-conj-s1	VERB		i	i	i	ifi
+rífast	ríf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	í
+rífast	rífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	ífi
+rífast	rífandi	is-conj-s1	VERB	Tense=Pres	í	í	í	ífand
+rífast	ríf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	í
+rífast	rífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	ífi
+ríða	riðið	is-conj-s1	VERB		i	i	i	iði
+ríða	ríð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	í
+ríða	ríðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íði
+ríða	ríðandi	is-conj-s1	VERB	Tense=Pres	í	í	í	íðand
+ríða	ríð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	í
+ríða	ríðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íði
+sitja	itandi	is-conj-s5	VERB	Tense=Pres		andi		it
+sitja	it	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				it
+sitja	itið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		it
+skjóta	skotið	is-conj-s2	VERB		o	o	o	koti
+skjóta	skjótandi	is-conj-s2	VERB	Tense=Pres		andi		skjót
+skjóta	skjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				skjót
+skjóta	skjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		skjót
+skjóta	skjótandi	is-conj-s2	VERB	Tense=Pres		andi		skjót
+skjóta	skjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				skjót
+skjóta	skjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		skjót
+súpa	sopið	is-conj-s2	VERB		o	o	o	opi
+súpa	súpandi	is-conj-s2	VERB	Tense=Pres		andi		súp
+súpa	súp	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				súp
+súpa	súpið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		súp
+súpa	súpandi	is-conj-s2	VERB	Tense=Pres		andi		súp
+súpa	súp	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				súp
+súpa	súpið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		súp
+sjúga	sogið	is-conj-s2	VERB		o	o	o	ogi
+sjúga	sjúgandi	is-conj-s2	VERB	Tense=Pres		andi		sjúg
+sjúga	sjúg	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				sjúg
+sjúga	sjúgið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		sjúg
+sjúga	sjúgandi	is-conj-s2	VERB	Tense=Pres		andi		sjúg
+sjúga	sjúg	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				sjúg
+sjúga	sjúgið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		sjúg
+fljóta	flotið	is-conj-s2	VERB		o	o	o	loti
+fljóta	fljótandi	is-conj-s2	VERB	Tense=Pres		andi		fljót
+fljóta	fljót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				fljót
+fljóta	fljótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		fljót
+fljóta	fljótandi	is-conj-s2	VERB	Tense=Pres		andi		fljót
+fljóta	fljót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				fljót
+fljóta	fljótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		fljót
+bíta	bitið	is-conj-s1	VERB		i	i	i	iti
+bíta	bít	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	í
+bíta	bítið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íti
+bíta	bítandi	is-conj-s1	VERB	Tense=Pres	í	í	í	ítand
+bíta	bít	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	í
+bíta	bítið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íti
+sjóða	soðið	is-conj-s2	VERB		o	o	o	oði
+sjóða	sjóðandi	is-conj-s2	VERB	Tense=Pres		andi		sjóð
+sjóða	sjóð	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				sjóð
+sjóða	sjóðið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		sjóð
+sjóða	sjóðandi	is-conj-s2	VERB	Tense=Pres		andi		sjóð
+sjóða	sjóð	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				sjóð
+sjóða	sjóðið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		sjóð
+rífa	rifið	is-conj-s1	VERB		i	i	i	ifi
+rífa	ríf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	í
+rífa	rífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	ífi
+rífa	rífandi	is-conj-s1	VERB	Tense=Pres	í	í	í	ífand
+rífa	ríf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	í
+rífa	rífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	ífi
+njóta	notið	is-conj-s2	VERB		o	o	o	oti
+njóta	njótandi	is-conj-s2	VERB	Tense=Pres		andi		njót
+njóta	njót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				njót
+njóta	njótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		njót
+njóta	njótandi	is-conj-s2	VERB	Tense=Pres		andi		njót
+njóta	njót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				njót
+njóta	njótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		njót
+bjóða	boðið	is-conj-s2	VERB		o	o	o	oði
+bjóða	bjóðandi	is-conj-s2	VERB	Tense=Pres		andi		bjóð
+bjóða	bjóð	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				bjóð
+bjóða	bjóðið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		bjóð
+bjóða	bjóðandi	is-conj-s2	VERB	Tense=Pres		andi		bjóð
+bjóða	bjóð	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				bjóð
+bjóða	bjóðið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		bjóð
+éta	étandi	is-conj-s5	VERB	Tense=Pres		andi		ét
+éta	ét	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				ét
+éta	étið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ét
+grípa	gripið	is-conj-s1	VERB		i	i	i	ripi
+grípa	gríp	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	rí
+grípa	grípið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	rípi
+grípa	grípandi	is-conj-s1	VERB	Tense=Pres	í	í	í	rípand
+grípa	gríp	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	rí
+grípa	grípið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	rípi
+rjúka	rokið	is-conj-s2	VERB		o	o	o	oki
+rjúka	rjúkandi	is-conj-s2	VERB	Tense=Pres		andi		rjúk
+rjúka	rjúk	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				rjúk
+rjúka	rjúkið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		rjúk
+rjúka	rjúkandi	is-conj-s2	VERB	Tense=Pres		andi		rjúk
+rjúka	rjúk	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				rjúk
+rjúka	rjúkið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		rjúk
+leka	ekandi	is-conj-s5	VERB	Tense=Pres		andi		ek
+leka	ek	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				ek
+leka	ekið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ek
+drífa	drifið	is-conj-s1	VERB		i	i	i	rifi
+drífa	dríf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	rí
+drífa	drífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	rífi
+drífa	drífandi	is-conj-s1	VERB	Tense=Pres	í	í	í	rífand
+drífa	dríf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	rí
+drífa	drífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	rífi
+hrífa	hrifið	is-conj-s1	VERB		i	i	i	rifi
+hrífa	hríf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	rí
+hrífa	hrífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	rífi
+hrífa	hrífandi	is-conj-s1	VERB	Tense=Pres	í	í	í	rífand
+hrífa	hríf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	rí
+hrífa	hrífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	rífi
+ákveða	eðandi	is-conj-s5	VERB	Tense=Pres		andi		eð
+ákveða	eð	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				eð
+ákveða	eðið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		eð
+skína	skinið	is-conj-s1	VERB		i	i	i	kini
+skína	skín	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	kí
+skína	skínið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	kíni
+skína	skínandi	is-conj-s1	VERB	Tense=Pres	í	í	í	kínand
+skína	skín	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	kí
+skína	skínið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	kíni
+skipa	skipaa	Icelandic conjugation 01 vb -aði	VERB	VerbForm=Inf		a		skipa
+skipa	skipaið	Icelandic conjugation 01 vb -aði	VERB			ið		skipa
+skipa	skipaaði	Icelandic conjugation 01 vb -aði	VERB			aði		skipa
+skipa	skipai	Icelandic conjugation 01 vb -aði	VERB			i		skipa
+skipa	skipaið	Icelandic conjugation 01 vb -aði	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		ið		skipa
+skipa	skipai	Icelandic conjugation 01 vb -aði	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		i		skipa
+skipa	skipaið	Icelandic conjugation 01 vb -aði	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing		ið		skipa
+skipa	skipaaðir	Icelandic conjugation 01 vb -aði	VERB	VerbForm=Inf		aðir		skipa
+skipa	skipaaði	Icelandic conjugation 01 vb -aði	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		aði		skipa
+skipa	skipauðum	Icelandic conjugation 01 vb -aði	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		uðum		skipa
+skipa	skipauðið	Icelandic conjugation 01 vb -aði	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing		uðið		skipa
+skipa	skipauðu	Icelandic conjugation 01 vb -aði	VERB	Mood=Ind;Tense=Past;Person=3		uðu		skipa
+skipa	skipaa	Icelandic conjugation 01 vb -aði	VERB	Mood=Jus;Person=2;Number=Sing		a		skipa
+skipa	skipaa	Icelandic conjugation 01 vb -aði	VERB	Mood=Jus;Person=2;Number=Plur		a		skipa
+stíga	stigið	is-conj-s1	VERB		i	i	i	tigi
+stíga	stíg	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	tí
+stíga	stígið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	tígi
+stíga	stígandi	is-conj-s1	VERB	Tense=Pres	í	í	í	tígand
+stíga	stíg	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	tí
+stíga	stígið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	tígi
+svíkja	svikið	is-conj-s1	VERB		i	i	i	viki
+svíkja	svík	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	ví
+svíkja	svíkið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	víki
+svíkja	svíkandi	is-conj-s1	VERB	Tense=Pres	í	í	í	víkand
+svíkja	svík	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	ví
+svíkja	svíkið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	víki
+lúta	lotið	is-conj-s2	VERB		o	o	o	oti
+lúta	lútandi	is-conj-s2	VERB	Tense=Pres		andi		lút
+lúta	lút	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				lút
+lúta	lútið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		lút
+lúta	lútandi	is-conj-s2	VERB	Tense=Pres		andi		lút
+lúta	lút	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				lút
+lúta	lútið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		lút
+míga	migið	is-conj-s1	VERB		i	i	i	igi
+míga	míg	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	í
+míga	mígið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	ígi
+míga	mígandi	is-conj-s1	VERB	Tense=Pres	í	í	í	ígand
+míga	míg	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	í
+míga	mígið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	ígi
+hvína	hvinið	is-conj-s1	VERB		i	i	i	vini
+hvína	hvín	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	ví
+hvína	hvínið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	víni
+hvína	hvínandi	is-conj-s1	VERB	Tense=Pres	í	í	í	vínand
+hvína	hvín	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	ví
+hvína	hvínið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	víni
+líta	litið	is-conj-s1	VERB		i	i	i	iti
+líta	lít	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	í
+líta	lítið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íti
+líta	lítandi	is-conj-s1	VERB	Tense=Pres	í	í	í	ítand
+líta	lít	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	í
+líta	lítið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íti
+skíta	skitið	is-conj-s1	VERB		i	i	i	kiti
+skíta	skít	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	kí
+skíta	skítið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	kíti
+skíta	skítandi	is-conj-s1	VERB	Tense=Pres	í	í	í	kítand
+skíta	skít	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	kí
+skíta	skítið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	kíti
+svíða	sviðið	is-conj-s1	VERB		i	i	i	viði
+svíða	svíð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	ví
+svíða	svíðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	víði
+svíða	svíðandi	is-conj-s1	VERB	Tense=Pres	í	í	í	víðand
+svíða	svíð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	ví
+svíða	svíðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	víði
+víkja	vikið	is-conj-s1	VERB		i	i	i	iki
+víkja	vík	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	í
+víkja	víkið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íki
+víkja	víkandi	is-conj-s1	VERB	Tense=Pres	í	í	í	íkand
+víkja	vík	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	í
+víkja	víkið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íki
+tilbiðja	iðandi	is-conj-s5	VERB	Tense=Pres		andi		ið
+tilbiðja	ið	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				ið
+tilbiðja	iðið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ið
+fyrirgefa	efandi	is-conj-s5	VERB	Tense=Pres		andi		ef
+fyrirgefa	ef	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				ef
+fyrirgefa	efið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ef
+þrífa	þrifið	is-conj-s1	VERB		i	i	i	rifi
+þrífa	þríf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	rí
+þrífa	þrífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	rífi
+þrífa	þrífandi	is-conj-s1	VERB	Tense=Pres	í	í	í	rífand
+þrífa	þríf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	rí
+þrífa	þrífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	rífi
+drjúpa	dropið	is-conj-s2	VERB		o	o	o	ropi
+drjúpa	drjúpandi	is-conj-s2	VERB	Tense=Pres		andi		drjúp
+drjúpa	drjúp	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				drjúp
+drjúpa	drjúpið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		drjúp
+drjúpa	drjúpandi	is-conj-s2	VERB	Tense=Pres		andi		drjúp
+drjúpa	drjúp	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				drjúp
+drjúpa	drjúpið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		drjúp
+brjóta	brotið	is-conj-s2	VERB		o	o	o	roti
+brjóta	brjótandi	is-conj-s2	VERB	Tense=Pres		andi		brjót
+brjóta	brjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				brjót
+brjóta	brjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		brjót
+brjóta	brjótandi	is-conj-s2	VERB	Tense=Pres		andi		brjót
+brjóta	brjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				brjót
+brjóta	brjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		brjót
+fljúgandi	fljúgandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Nom;Number=Sing				fljúgandi
+fljúgandi	fljúgandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Nom;Number=Plur				fljúgandi
+fljúgandi	fljúgandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Gen;Number=Sing				fljúgandi
+fljúgandi	fljúgandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Gen;Number=Plur				fljúgandi
+þreytandi	þreytandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Nom;Number=Sing				þreytandi
+þreytandi	þreytandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Nom;Number=Plur				þreytandi
+þreytandi	þreytandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Gen;Number=Sing				þreytandi
+þreytandi	þreytandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Gen;Number=Plur				þreytandi
+dreymandi	dreymandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Nom;Number=Sing				dreymandi
+dreymandi	dreymandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Nom;Number=Plur				dreymandi
+dreymandi	dreymandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Gen;Number=Sing				dreymandi
+dreymandi	dreymandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Gen;Number=Plur				dreymandi
+ilmandi	ilmandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Nom;Number=Sing				ilmandi
+ilmandi	ilmandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Nom;Number=Plur				ilmandi
+ilmandi	ilmandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Gen;Number=Sing				ilmandi
+ilmandi	ilmandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Gen;Number=Plur				ilmandi
+sofandi	sofandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Nom;Number=Sing				sofandi
+sofandi	sofandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Nom;Number=Plur				sofandi
+sofandi	sofandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Gen;Number=Sing				sofandi
+sofandi	sofandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Gen;Number=Plur				sofandi
+niðrandi	niðrandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Nom;Number=Sing				niðrandi
+niðrandi	niðrandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Nom;Number=Plur				niðrandi
+niðrandi	niðrandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Gen;Number=Sing				niðrandi
+niðrandi	niðrandi	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Gen;Number=Plur				niðrandi
+einmanna	einmanna	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Nom;Number=Sing				einmanna
+einmanna	einmanna	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Nom;Number=Plur				einmanna
+einmanna	einmanna	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Gen;Number=Sing				einmanna
+einmanna	einmanna	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Gen;Number=Plur				einmanna
+þannig	þannig	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Nom;Number=Sing				þannig
+þannig	þannig	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Nom;Number=Plur				þannig
+þannig	þannig	Icelandic adjectival declension indeclinable	ADJ	Definite=Ind;Case=Gen;Number=Sing				þannig
+þannig	þannig	Icelandic adjectival declension indeclinable	ADJ	Definite=Def;Case=Gen;Number=Plur				þannig
+hljóta	hlotið	is-conj-s2	VERB		o	o	o	loti
+hljóta	hljótandi	is-conj-s2	VERB	Tense=Pres		andi		hljót
+hljóta	hljót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				hljót
+hljóta	hljótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		hljót
+hljóta	hljótandi	is-conj-s2	VERB	Tense=Pres		andi		hljót
+hljóta	hljót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				hljót
+hljóta	hljótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		hljót
+nema	emandi	is-conj-s5	VERB	Tense=Pres		andi		em
+nema	em	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				em
+nema	emið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		em
+ljósta	lostið	is-conj-s2	VERB		o	o	o	osti
+ljósta	ljóstandi	is-conj-s2	VERB	Tense=Pres		andi		ljóst
+ljósta	ljóst	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				ljóst
+ljósta	ljóstið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ljóst
+ljósta	ljóstandi	is-conj-s2	VERB	Tense=Pres		andi		ljóst
+ljósta	ljóst	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				ljóst
+ljósta	ljóstið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ljóst
+sníða	sniðið	is-conj-s1	VERB		i	i	i	niði
+sníða	sníð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	ní
+sníða	sníðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	níði
+sníða	sníðandi	is-conj-s1	VERB	Tense=Pres	í	í	í	níðand
+sníða	sníð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	ní
+sníða	sníðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	níði
+skríða	skriðið	is-conj-s1	VERB		i	i	i	kriði
+skríða	skríð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	krí
+skríða	skríðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	kríði
+skríða	skríðandi	is-conj-s1	VERB	Tense=Pres	í	í	í	kríðand
+skríða	skríð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	krí
+skríða	skríðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	kríði
+hrjóta	hrotið	is-conj-s2	VERB		o	o	o	roti
+hrjóta	hrjótandi	is-conj-s2	VERB	Tense=Pres		andi		hrjót
+hrjóta	hrjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				hrjót
+hrjóta	hrjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		hrjót
+hrjóta	hrjótandi	is-conj-s2	VERB	Tense=Pres		andi		hrjót
+hrjóta	hrjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				hrjót
+hrjóta	hrjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		hrjót
+krjúpa	kropið	is-conj-s2	VERB		o	o	o	ropi
+krjúpa	krjúpandi	is-conj-s2	VERB	Tense=Pres		andi		krjúp
+krjúpa	krjúp	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				krjúp
+krjúpa	krjúpið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		krjúp
+krjúpa	krjúpandi	is-conj-s2	VERB	Tense=Pres		andi		krjúp
+krjúpa	krjúp	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				krjúp
+krjúpa	krjúpið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		krjúp
+klípa	klipið	is-conj-s1	VERB		i	i	i	lipi
+klípa	klíp	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	lí
+klípa	klípið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	lípi
+klípa	klípandi	is-conj-s1	VERB	Tense=Pres	í	í	í	lípand
+klípa	klíp	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	lí
+klípa	klípið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	lípi
+þjóta	þotið	is-conj-s2	VERB		o	o	o	oti
+þjóta	þjótandi	is-conj-s2	VERB	Tense=Pres		andi		þjót
+þjóta	þjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				þjót
+þjóta	þjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		þjót
+þjóta	þjótandi	is-conj-s2	VERB	Tense=Pres		andi		þjót
+þjóta	þjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				þjót
+þjóta	þjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		þjót
+síga	sigið	is-conj-s1	VERB		i	i	i	igi
+síga	síg	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	í
+síga	sígið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	ígi
+síga	sígandi	is-conj-s1	VERB	Tense=Pres	í	í	í	ígand
+síga	síg	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	í
+síga	sígið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	ígi
+gína	ginið	is-conj-s1	VERB		i	i	i	ini
+gína	gín	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	í
+gína	gínið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íni
+gína	gínandi	is-conj-s1	VERB	Tense=Pres	í	í	í	ínand
+gína	gín	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	í
+gína	gínið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	íni
+hrjósa	hrosið	is-conj-s2	VERB		o	o	o	rosi
+hrjósa	hrjósandi	is-conj-s2	VERB	Tense=Pres		andi		hrjós
+hrjósa	hrjós	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				hrjós
+hrjósa	hrjósið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		hrjós
+hrjósa	hrjósandi	is-conj-s2	VERB	Tense=Pres		andi		hrjós
+hrjósa	hrjós	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				hrjós
+hrjósa	hrjósið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		hrjós
+hnjóta	hnotið	is-conj-s2	VERB		o	o	o	noti
+hnjóta	hnjótandi	is-conj-s2	VERB	Tense=Pres		andi		hnjót
+hnjóta	hnjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				hnjót
+hnjóta	hnjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		hnjót
+hnjóta	hnjótandi	is-conj-s2	VERB	Tense=Pres		andi		hnjót
+hnjóta	hnjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				hnjót
+hnjóta	hnjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		hnjót
+hrína	hrinið	is-conj-s1	VERB		i	i	i	rini
+hrína	hrín	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	rí
+hrína	hrínið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	ríni
+hrína	hrínandi	is-conj-s1	VERB	Tense=Pres	í	í	í	rínand
+hrína	hrín	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	rí
+hrína	hrínið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	ríni
+strjúka	strokið	is-conj-s2	VERB		o	o	o	troki
+strjúka	strjúkandi	is-conj-s2	VERB	Tense=Pres		andi		strjúk
+strjúka	strjúk	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				strjúk
+strjúka	strjúkið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		strjúk
+strjúka	strjúkandi	is-conj-s2	VERB	Tense=Pres		andi		strjúk
+strjúka	strjúk	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				strjúk
+strjúka	strjúkið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		strjúk
+klífa	klifið	is-conj-s1	VERB		i	i	i	lifi
+klífa	klíf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	lí
+klífa	klífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	lífi
+klífa	klífandi	is-conj-s1	VERB	Tense=Pres	í	í	í	lífand
+klífa	klíf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	lí
+klífa	klífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	lífi
+svífa	svifið	is-conj-s1	VERB		i	i	i	vifi
+svífa	svíf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	ví
+svífa	svífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	vífi
+svífa	svífandi	is-conj-s1	VERB	Tense=Pres	í	í	í	vífand
+svífa	svíf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	ví
+svífa	svífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	vífi
+blífa	blifið	is-conj-s1	VERB		i	i	i	lifi
+blífa	blíf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	lí
+blífa	blífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	lífi
+blífa	blífandi	is-conj-s1	VERB	Tense=Pres	í	í	í	lífand
+blífa	blíf	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	lí
+blífa	blífið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	lífi
+hníga	hnigið	is-conj-s1	VERB		i	i	i	nigi
+hníga	hníg	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	ní
+hníga	hnígið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	nígi
+hníga	hnígandi	is-conj-s1	VERB	Tense=Pres	í	í	í	nígand
+hníga	hníg	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	ní
+hníga	hnígið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	nígi
+kljúfa	klofið	is-conj-s2	VERB		o	o	o	lofi
+kljúfa	kljúfandi	is-conj-s2	VERB	Tense=Pres		andi		kljúf
+kljúfa	kljúf	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				kljúf
+kljúfa	kljúfið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		kljúf
+kljúfa	kljúfandi	is-conj-s2	VERB	Tense=Pres		andi		kljúf
+kljúfa	kljúf	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				kljúf
+kljúfa	kljúfið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		kljúf
+rjúfa	rofið	is-conj-s2	VERB		o	o	o	ofi
+rjúfa	rjúfandi	is-conj-s2	VERB	Tense=Pres		andi		rjúf
+rjúfa	rjúf	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				rjúf
+rjúfa	rjúfið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		rjúf
+rjúfa	rjúfandi	is-conj-s2	VERB	Tense=Pres		andi		rjúf
+rjúfa	rjúf	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				rjúf
+rjúfa	rjúfið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		rjúf
+yfirgefa	efandi	is-conj-s5	VERB	Tense=Pres		andi		ef
+yfirgefa	ef	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				ef
+yfirgefa	efið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ef
+þrjóta	þrotið	is-conj-s2	VERB		o	o	o	roti
+þrjóta	þrjótandi	is-conj-s2	VERB	Tense=Pres		andi		þrjót
+þrjóta	þrjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				þrjót
+þrjóta	þrjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		þrjót
+þrjóta	þrjótandi	is-conj-s2	VERB	Tense=Pres		andi		þrjót
+þrjóta	þrjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				þrjót
+þrjóta	þrjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		þrjót
+smjúga	smogið	is-conj-s2	VERB		o	o	o	mogi
+smjúga	smjúgandi	is-conj-s2	VERB	Tense=Pres		andi		smjúg
+smjúga	smjúg	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				smjúg
+smjúga	smjúgið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		smjúg
+smjúga	smjúgandi	is-conj-s2	VERB	Tense=Pres		andi		smjúg
+smjúga	smjúg	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				smjúg
+smjúga	smjúgið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		smjúg
+kveða	eðandi	is-conj-s5	VERB	Tense=Pres		andi		eð
+kveða	eð	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				eð
+kveða	eðið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		eð
+kvíða	kviðið	is-conj-s1	VERB		i	i	i	viði
+kvíða	kvíð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing	í	í	í	ví
+kvíða	kvíðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	víði
+kvíða	kvíðandi	is-conj-s1	VERB	Tense=Pres	í	í	í	víðand
+kvíða	kvíð	is-conj-s1	VERB	Mood=Ind;Tense=Pres;Person=3;Number=Sing	í	í	í	ví
+kvíða	kvíðið	is-conj-s1	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur	í	í	í	víði
+gjóta	gotið	is-conj-s2	VERB		o	o	o	oti
+gjóta	gjótandi	is-conj-s2	VERB	Tense=Pres		andi		gjót
+gjóta	gjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				gjót
+gjóta	gjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		gjót
+gjóta	gjótandi	is-conj-s2	VERB	Tense=Pres		andi		gjót
+gjóta	gjót	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				gjót
+gjóta	gjótið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		gjót
+fjúka	fokið	is-conj-s2	VERB		o	o	o	oki
+fjúka	fjúkandi	is-conj-s2	VERB	Tense=Pres		andi		fjúk
+fjúka	fjúk	is-conj-s2	VERB	Mood=Jus;Person=2;Number=Sing				fjúk
+fjúka	fjúkið	is-conj-s2	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		fjúk
+þrábiðja	iðandi	is-conj-s5	VERB	Tense=Pres		andi		ið
+þrábiðja	ið	is-conj-s5	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing				ið
+þrábiðja	iðið	is-conj-s5	VERB	Mood=Sub;Tense=Pres;Person=2;Number=Plur		ið		ið

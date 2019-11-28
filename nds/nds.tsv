@@ -1,0 +1,1479 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+small	een Smalls	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Small
+small	smalle	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		small
+small	small	nds-decl-adj	ADJ	Case=Gen;Number=Sing				small
+small	smalle	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		small
+small	den smallen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		small
+small	dat smalle	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		small
+small	de smallen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		small
+small	en small	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+small	smallet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		small
+small	smallen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		small
+small	en smallen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		small
+elk	elk	nds-decl-männich	NOUN	Voice=Act;Tense=Pres;Polarity=Pos;Mood=Ind;Person=1;Number=Sing				elk
+elk	elk	nds-decl-männich	NOUN	Voice=Act;Tense=Pres;Polarity=Neg;Mood=Ind;Person=1;Number=Sing				elk
+elk	elken	nds-decl-männich	NOUN	Voice=Act;Tense=Pres;Polarity=Pos;Mood=Ind;Person=2;Number=Sing		en		elk
+elk	elk	nds-decl-männich	NOUN	Voice=Act;Tense=Pres;Polarity=Neg;Mood=Ind;Person=2;Number=Sing				elk
+wassen	wuss	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				wuss
+wassen	wasss	nds-conj-st	VERB	Tense=Past		s		wass
+wassen	wussen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		wuss
+wassen	gewussen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		wuss
+fallen	full	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				full
+fallen	falls	nds-conj-st	VERB	Tense=Past		s		fall
+fallen	fullen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		full
+fallen	gefullen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		full
+old	een olls	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		oll
+old	olle	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		oll
+old	old	nds-decl-adj	ADJ	Case=Gen;Number=Sing				old
+old	olle	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		oll
+old	den ollen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		oll
+old	dat olle	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		oll
+old	de ollen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		oll
+old	en old	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+old	ollet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		oll
+old	ollen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		oll
+old	en ollen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		oll
+slapen	sleep	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				sleep
+slapen	slöpps	nds-conj-st	VERB	Tense=Past		s		slöpp
+slapen	slapen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		slap
+slapen	geslapen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		slap
+langsam	een langsams	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		langsam
+langsam	langsame	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		langsam
+langsam	langsam	nds-decl-adj	ADJ	Case=Gen;Number=Sing				langsam
+langsam	langsame	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		langsam
+langsam	den langsamen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		langsam
+langsam	dat langsame	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		langsam
+langsam	de langsamen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		langsam
+langsam	en langsam	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+langsam	langsamet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		langsam
+langsam	langsamen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		langsam
+langsam	en langsamen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		langsam
+root	een Roods	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Rood
+root	rode	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		rod
+root	root	nds-decl-adj	ADJ	Case=Gen;Number=Sing				root
+root	rode	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		rod
+root	den roden	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		rod
+root	dat rode	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		rod
+root	de roden	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		rod
+root	en root	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+root	rodet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		rod
+root	roden	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		rod
+root	en roden	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		rod
+wild	een Wills	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Will
+wild	wille	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		will
+wild	wild	nds-decl-adj	ADJ	Case=Gen;Number=Sing				wild
+wild	wille	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		will
+wild	den willen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		will
+wild	dat wille	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		will
+wild	de willen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		will
+wild	en wild	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+wild	willet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		will
+wild	willen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		will
+wild	en willen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		will
+blind	een Blinns	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Blinn
+blind	blinne	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		blinn
+blind	blind	nds-decl-adj	ADJ	Case=Gen;Number=Sing				blind
+blind	blinne	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		blinn
+blind	den blinnen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		blinn
+blind	dat blinne	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		blinn
+blind	de blinnen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		blinn
+blind	en blind	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+blind	blinnet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		blinn
+blind	blinnen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		blinn
+blind	en blinnen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		blinn
+stark	een Starks	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Stark
+stark	starke	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		stark
+stark	stark	nds-decl-adj	ADJ	Case=Gen;Number=Sing				stark
+stark	starke	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		stark
+stark	den starken	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		stark
+stark	dat starke	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		stark
+stark	de starken	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		stark
+stark	en stark	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+stark	starket	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		stark
+stark	starken	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		stark
+stark	en starken	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		stark
+hooch	een Hoochs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Hooch
+hooch	hoge	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		hog
+hooch	hooch	nds-decl-adj	ADJ	Case=Gen;Number=Sing				hooch
+hooch	hoge	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		hog
+hooch	den hogen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		hog
+hooch	dat hoge	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		hog
+hooch	de hogen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		hog
+hooch	en hooch	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+hooch	hoget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		hog
+hooch	hogen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		hog
+hooch	en hogen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		hog
+lang	een Langs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Lang
+lang	lange	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		lang
+lang	lang	nds-decl-adj	ADJ	Case=Gen;Number=Sing				lang
+lang	lange	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		lang
+lang	den langen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		lang
+lang	dat lange	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		lang
+lang	de langen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		lang
+lang	en lang	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+lang	langet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		lang
+lang	langen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		lang
+lang	en langen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		lang
+dumm	een dumms	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		dumm
+dumm	dumme	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		dumm
+dumm	dumm	nds-decl-adj	ADJ	Case=Gen;Number=Sing				dumm
+dumm	dumme	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		dumm
+dumm	den dummen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		dumm
+dumm	dat dumme	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		dumm
+dumm	de dummen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		dumm
+dumm	en dumm	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+dumm	dummet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		dumm
+dumm	dummen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		dumm
+dumm	en dummen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		dumm
+swart	een swarts	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		swart
+swart	swarte	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		swart
+swart	swart	nds-decl-adj	ADJ	Case=Gen;Number=Sing				swart
+swart	swarte	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		swart
+swart	den swarten	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		swart
+swart	dat swarte	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		swart
+swart	de swarten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		swart
+swart	en swart	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+swart	swartet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		swart
+swart	swarten	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		swart
+swart	en swarten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		swart
+bidden	beed	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				beed
+bidden	bidds	nds-conj-st	VERB	Tense=Past		s		bidd
+bidden	beden	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		bed
+bidden	gebeden	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		bed
+groot	een Groots	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Groot
+groot	grote	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		grot
+groot	groot	nds-decl-adj	ADJ	Case=Gen;Number=Sing				groot
+groot	grote	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		grot
+groot	den groten	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		grot
+groot	dat grote	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		grot
+groot	de groten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		grot
+groot	en groot	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+groot	grotet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		grot
+groot	groten	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		grot
+groot	en groten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		grot
+lesen	lees	nds-conj-wk	VERB	Number=Sing;Definite=Def				lees
+lesen	leess	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		lees
+lesen	leesen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		lees
+stehlen	stohl	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				stohl
+stehlen	stehls	nds-conj-st	VERB	Tense=Past		s		stehl
+stehlen	stahlen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		stahl
+stehlen	gestahlen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		stahl
+waschen	wusch	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				wusch
+waschen	waschs	nds-conj-st	VERB	Tense=Past		s		wasch
+waschen	wuschen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		wusch
+waschen	gewuschen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		wusch
+winken	wunk	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				wunk
+winken	winks	nds-conj-st	VERB	Tense=Past		s		wink
+winken	wunken	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		wunk
+winken	gewunken	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		wunk
+grau	een Graues	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Graue
+grau	graue	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		grau
+grau	grau	nds-decl-adj	ADJ	Case=Gen;Number=Sing				grau
+grau	graue	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		grau
+grau	den grauen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		grau
+grau	dat graue	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		grau
+grau	de grauen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		grau
+grau	en grau	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+grau	grauet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		grau
+grau	grauen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		grau
+grau	en grauen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		grau
+kamen	keem	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				keem
+kamen	kümms	nds-conj-st	VERB	Tense=Past		s		kümm
+kamen	kamen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		kam
+kamen	gekamen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		kam
+singen	sung	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				sung
+singen	sings	nds-conj-st	VERB	Tense=Past		s		sing
+singen	sungen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		sung
+singen	gesungen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		sung
+breken	brook	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				brook
+breken	bricks	nds-conj-st	VERB	Tense=Past		s		brick
+breken	braken	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		brak
+breken	gebraken	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		brak
+winnen	wunn	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				wunn
+winnen	winns	nds-conj-st	VERB	Tense=Past		s		winn
+winnen	wunnen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		wunn
+winnen	gewunnen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		wunn
+spreken	sprook	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				sprook
+spreken	spricks	nds-conj-st	VERB	Tense=Past		s		sprick
+spreken	spraken	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		sprak
+spreken	gespraken	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		sprak
+binnen	bunn	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				bunn
+binnen	binns	nds-conj-st	VERB	Tense=Past		s		binn
+binnen	bunnen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		bunn
+binnen	gebunnen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		bunn
+kennen	kenn	nds-conj-wk	VERB	Number=Sing;Definite=Def				kenn
+kennen	kenns	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		kenn
+kennen	kennen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		kenn
+lopen	leep	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				leep
+lopen	löpps	nds-conj-st	VERB	Tense=Past		s		löpp
+lopen	lopen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		lop
+lopen	gelopen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		lop
+laat	een Laats	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Laat
+laat	late	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		lat
+laat	laat	nds-decl-adj	ADJ	Case=Gen;Number=Sing				laat
+laat	late	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		lat
+laat	den laten	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		lat
+laat	dat late	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		lat
+laat	de laten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		lat
+laat	en laat	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+laat	latet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		lat
+laat	laten	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		lat
+laat	en laten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		lat
+halen	haal	nds-conj-wk	VERB	Number=Sing;Definite=Def				haal
+halen	haals	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		haal
+halen	haalen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		haal
+liggen	leeg	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				leeg
+liggen	liggs	nds-conj-st	VERB	Tense=Past		s		ligg
+liggen	legen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		leg
+liggen	gelegen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		leg
+passeren	passeer	nds-conj-wk	VERB	Number=Sing;Definite=Def				passeer
+passeren	passeers	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		passeer
+passeren	passeeren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		passeer
+jung	een Jungs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Jung
+jung	junge	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		jung
+jung	jung	nds-decl-adj	ADJ	Case=Gen;Number=Sing				jung
+jung	junge	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		jung
+jung	den jungen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		jung
+jung	dat junge	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		jung
+jung	de jungen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		jung
+jung	en jung	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+jung	junget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		jung
+jung	jungen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		jung
+jung	en jungen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		jung
+ebben	ebb	nds-conj-wk	VERB	Number=Sing;Definite=Def				ebb
+ebben	ebbs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		ebb
+ebben	ebben	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		ebb
+doof	een doovs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		doov
+doof	dove	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		dov
+doof	doof	nds-decl-adj	ADJ	Case=Gen;Number=Sing				doof
+doof	dove	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		dov
+doof	den doven	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		dov
+doof	dat dove	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		dov
+doof	de doven	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		dov
+doof	en doof	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+doof	dovet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		dov
+doof	doven	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		dov
+doof	en doven	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		dov
+mellen	mell	nds-conj-wk	VERB	Number=Sing;Definite=Def				mell
+mellen	mells	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		mell
+mellen	mellen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		mell
+witt	een Witts	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Witt
+witt	witte	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		witt
+witt	witt	nds-decl-adj	ADJ	Case=Gen;Number=Sing				witt
+witt	witte	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		witt
+witt	den witten	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		witt
+witt	dat witte	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		witt
+witt	de witten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		witt
+witt	en witt	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+witt	wittet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		witt
+witt	witten	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		witt
+witt	en witten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		witt
+ennen	enn	nds-conj-wk	VERB	Number=Sing;Definite=Def				enn
+ennen	enns	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		enn
+ennen	ennen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		enn
+holen	heel	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				heel
+holen	hölls	nds-conj-st	VERB	Tense=Past		s		höll
+holen	holen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		hol
+holen	geholen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		hol
+wahr	een wahrs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		wahr
+wahr	wahre	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		wahr
+wahr	wahr	nds-decl-adj	ADJ	Case=Gen;Number=Sing				wahr
+wahr	wahre	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		wahr
+wahr	den wahren	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		wahr
+wahr	dat wahre	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		wahr
+wahr	de wahren	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		wahr
+wahr	en wahr	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+wahr	wahret	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		wahr
+wahr	wahren	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		wahr
+wahr	en wahren	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		wahr
+beden	bood	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				bood
+beden	büdds	nds-conj-st	VERB	Tense=Past		s		büdd
+beden	baden	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		bad
+beden	gebaden	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		bad
+dringen	drung	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				drung
+dringen	drings	nds-conj-st	VERB	Tense=Past		s		dring
+dringen	drungen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		drung
+dringen	gedrungen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		drung
+gesund	een Gesunns	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Gesunn
+gesund	gesunne	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		gesunn
+gesund	gesund	nds-decl-adj	ADJ	Case=Gen;Number=Sing				gesund
+gesund	gesunne	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		gesunn
+gesund	den gesunnen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		gesunn
+gesund	dat gesunne	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		gesunn
+gesund	de gesunnen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		gesunn
+gesund	en gesund	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+gesund	gesunnet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		gesunn
+gesund	gesunnen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		gesunn
+gesund	en gesunnen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		gesunn
+wählen	wähl	nds-conj-wk	VERB	Number=Sing;Definite=Def				wähl
+wählen	wähls	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		wähl
+wählen	wählen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		wähl
+füllen	füll	nds-conj-wk	VERB	Number=Sing;Definite=Def				füll
+füllen	fülls	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		füll
+füllen	füllen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		füll
+hängen	häng	nds-conj-wk	VERB	Number=Sing;Definite=Def				häng
+hängen	hängs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		häng
+hängen	hängen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		häng
+splittern	splittert	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		splitter
+splittern	splitter	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				splitter
+splittern	splittern	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		splitter
+splittern	splitter	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				splitter
+splittern	splittert	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		splitter
+stinken	stunk	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				stunk
+stinken	stinks	nds-conj-st	VERB	Tense=Past		s		stink
+stinken	stunken	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		stunk
+stinken	gestunken	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		stunk
+wecken	weck	nds-conj-wk	VERB	Number=Sing;Definite=Def				weck
+wecken	wecks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		weck
+wecken	wecken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		weck
+lustig	een lustigs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		lustig
+lustig	lustige	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		lustig
+lustig	lustig	nds-decl-adj	ADJ	Case=Gen;Number=Sing				lustig
+lustig	lustige	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		lustig
+lustig	den lustigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		lustig
+lustig	dat lustige	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		lustig
+lustig	de lustigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		lustig
+lustig	en lustig	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+lustig	lustiget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		lustig
+lustig	lustigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		lustig
+lustig	en lustigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		lustig
+sitten	seet	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				seet
+sitten	sitts	nds-conj-st	VERB	Tense=Past		s		sitt
+sitten	seten	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		set
+sitten	geseten	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		set
+afdingen	ding sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	ing se
+afdingen	dung sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	ung se
+afdingen	sepding	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepding
+afdingen	sepdung	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepdung
+afdingen	dingst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	gst 
+afdingen	dungst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	gst 
+afdingen	sepdingst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepding
+afdingen	sepdungst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepdung
+heftig	een Heftigs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Heftig
+heftig	heftige	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		heftig
+heftig	heftig	nds-decl-adj	ADJ	Case=Gen;Number=Sing				heftig
+heftig	heftige	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		heftig
+heftig	den heftigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		heftig
+heftig	dat heftige	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		heftig
+heftig	de heftigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		heftig
+heftig	en heftig	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+heftig	heftiget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		heftig
+heftig	heftigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		heftig
+heftig	en heftigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		heftig
+goot	een Goods	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Good
+goot	gode	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		god
+goot	goot	nds-decl-adj	ADJ	Case=Gen;Number=Sing				goot
+goot	gode	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		god
+goot	den goden	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		god
+goot	dat gode	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		god
+goot	de goden	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		god
+goot	en goot	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+goot	godet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		god
+goot	goden	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		god
+goot	en goden	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		god
+dwingen	dwung	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				dwung
+dwingen	dwings	nds-conj-st	VERB	Tense=Past		s		dwing
+dwingen	dwungen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		dwung
+dwingen	gedwungen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		dwung
+kriegen	kreeg	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				kreeg
+kriegen	kriggs	nds-conj-st	VERB	Tense=Past		s		krigg
+kriegen	kregen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		kreg
+kriegen	gekregen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		kreg
+traag	een traags	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		traag
+traag	trage	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		trag
+traag	traag	nds-decl-adj	ADJ	Case=Gen;Number=Sing				traag
+traag	trage	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		trag
+traag	den tragen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		trag
+traag	dat trage	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		trag
+traag	de tragen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		trag
+traag	en traag	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+traag	traget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		trag
+traag	tragen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		trag
+traag	en tragen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		trag
+begraven	begroov	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				begroov
+begraven	begraavs	nds-conj-st	VERB	Tense=Past		s		begraav
+begraven	begraven	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		begrav
+begraven	gebegraven	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		begrav
+kold	een kolls	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		koll
+kold	kolle	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		koll
+kold	kold	nds-decl-adj	ADJ	Case=Gen;Number=Sing				kold
+kold	kolle	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		koll
+kold	den kollen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		koll
+kold	dat kolle	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		koll
+kold	de kollen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		koll
+kold	en kold	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+kold	kollet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		koll
+kold	kollen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		koll
+kold	en kollen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		koll
+adopteren	adopteer	nds-conj-wk	VERB	Number=Sing;Definite=Def				adopteer
+adopteren	adopteers	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		adopteer
+adopteren	adopteeren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		adopteer
+befehlen	befohl	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				befohl
+befehlen	befehls	nds-conj-st	VERB	Tense=Past		s		befehl
+befehlen	befahlen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		befahl
+befehlen	gebefahlen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		befahl
+interesseren	interesseer	nds-conj-wk	VERB	Number=Sing;Definite=Def				interesseer
+interesseren	interesseers	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		interesseer
+interesseren	interesseeren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		interesseer
+hevig	een Hevigs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Hevig
+hevig	hevige	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		hevig
+hevig	hevig	nds-decl-adj	ADJ	Case=Gen;Number=Sing				hevig
+hevig	hevige	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		hevig
+hevig	den hevigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		hevig
+hevig	dat hevige	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		hevig
+hevig	de hevigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		hevig
+hevig	en hevig	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+hevig	heviget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		hevig
+hevig	hevigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		hevig
+hevig	en hevigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		hevig
+snurken	snurk	nds-conj-wk	VERB	Number=Sing;Definite=Def				snurk
+snurken	snurks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		snurk
+snurken	snurken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		snurk
+snorren	snorr	nds-conj-wk	VERB	Number=Sing;Definite=Def				snorr
+snorren	snorrs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		snorr
+snorren	snorren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		snorr
+finnen	funn	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				funn
+finnen	finns	nds-conj-st	VERB	Tense=Past		s		finn
+finnen	funnen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		funn
+finnen	gefunnen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		funn
+versammeln	versammelt	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		versammel
+versammeln	versammel	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				versammel
+versammeln	versammeln	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		versammel
+versammeln	versammel	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				versammel
+versammeln	versammelt	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		versammel
+hollen	heel	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				heel
+hollen	hölls	nds-conj-st	VERB	Tense=Past		s		höll
+hollen	hollen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		holl
+hollen	gehollen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		holl
+doot	een Doods	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Dood
+doot	dode	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		dod
+doot	doot	nds-decl-adj	ADJ	Case=Gen;Number=Sing				doot
+doot	dode	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		dod
+doot	den doden	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		dod
+doot	dat dode	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		dod
+doot	de doden	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		dod
+doot	en doot	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+doot	dodet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		dod
+doot	doden	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		dod
+doot	en doden	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		dod
+wies	een wieses	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		wiese
+wies	wiese	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		wies
+wies	wies	nds-decl-adj	ADJ	Case=Gen;Number=Sing				wies
+wies	wiese	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		wies
+wies	den wiesen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		wies
+wies	dat wiese	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		wies
+wies	de wiesen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		wies
+wies	en wies	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+wies	wieset	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		wies
+wies	wiesen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		wies
+wies	en wiesen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		wies
+wenken	wenk	nds-conj-wk	VERB	Number=Sing;Definite=Def				wenk
+wenken	wenks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		wenk
+wenken	wenken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		wenk
+temmen	temm	nds-conj-wk	VERB	Number=Sing;Definite=Def				temm
+temmen	temms	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		temm
+temmen	temmen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		temm
+bargen	barg	nds-conj-wk	VERB	Number=Sing;Definite=Def				barg
+bargen	bargs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		barg
+bargen	bargen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		barg
+anner	he is anners	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Pres;Person=1;Number=Sing	he is 	s		anner
+anner	se is anners	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Pres;Person=2;Number=Sing	se is 	s		anner
+anner	dat is anners	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Pres;Person=3;Number=Plur;Gender=Fem	dat is 	s		anner
+anner	een anners	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Pres;Person=1;Number=Plur	een 	s		anner
+anner	anner	nds-decl-adj4	ADJ	Aspect=Perf;Tense=Pres;Person=1;Number=Sing				anner
+anner	anner	nds-decl-adj4	ADJ	Aspect=Perf;Tense=Pres;Person=3;Number=Sing;Gender=Fem				anner
+anner	anner	nds-decl-adj4	ADJ	Aspect=Perf;Tense=Pres;Person=1;Number=Plur				anner
+anner	de anner	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Past;Person=1;Number=Sing	de 			
+anner	dat anner	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Past;Person=3;Number=Plur;Gender=Fem	dat 			
+anner	de annern	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Past;Person=3;Number=Plur;Gender=Fem	de 	n		anner
+anner	den annern	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Past;Person=3;Number=Sing;Gender=Masc	den 	n		anner
+anner	de anner	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Past;Person=3;Number=Sing;Gender=Fem	de 			
+anner	dat anner	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Past;Person=3;Number=Sing;Gender=Fem	dat 			
+anner	de annern	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Past;Person=1;Number=Plur	de 	n		anner
+anner	en anner	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Past;Person=1;Number=Plur	en 			
+anner	en anner	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Past;Person=2;Number=Plur	en 			
+anner	en anner	nds-decl-adj4	ADJ	Aspect=Imp;Tense=Past;Person=3;Number=Plur;Gender=Fem	en 			
+anner	annern	nds-decl-adj4	ADJ	Aspect=Perf;Tense=Past;Person=1;Number=Sing		n		anner
+rieden	reed	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				reed
+rieden	ridds	nds-conj-st	VERB	Tense=Past		s		ridd
+rieden	reden	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		red
+rieden	gereden	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		red
+riek	een Rieks	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Riek
+riek	rieke	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		riek
+riek	riek	nds-decl-adj	ADJ	Case=Gen;Number=Sing				riek
+riek	rieke	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		riek
+riek	den rieken	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		riek
+riek	dat rieke	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		riek
+riek	de rieken	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		riek
+riek	en riek	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+riek	rieket	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		riek
+riek	rieken	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		riek
+riek	en rieken	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		riek
+schienen	scheen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				scheen
+schienen	schinns	nds-conj-st	VERB	Tense=Past		s		schinn
+schienen	schenen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		schen
+schienen	geschenen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		schen
+ankamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+ankamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+ankamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+ankamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+ankamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+ankamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+ankamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+ankamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+gammelig	een gammeligs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		gammelig
+gammelig	gammelige	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		gammelig
+gammelig	gammelig	nds-decl-adj	ADJ	Case=Gen;Number=Sing				gammelig
+gammelig	gammelige	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		gammelig
+gammelig	den gammeligen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		gammelig
+gammelig	dat gammelige	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		gammelig
+gammelig	de gammeligen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		gammelig
+gammelig	en gammelig	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+gammelig	gammeliget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		gammelig
+gammelig	gammeligen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		gammelig
+gammelig	en gammeligen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		gammelig
+schaven	schaav	nds-conj-wk	VERB	Number=Sing;Definite=Def				schaav
+schaven	schaavs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		schaav
+schaven	schaaven	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		schaav
+röken	röök	nds-conj-wk	VERB	Number=Sing;Definite=Def				röök
+röken	rööks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		röök
+röken	rööken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		röök
+smullen	smull	nds-conj-wk	VERB	Number=Sing;Definite=Def				smull
+smullen	smulls	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		smull
+smullen	smullen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		smull
+vull	een Vulls	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Vull
+vull	vulle	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		vull
+vull	vull	nds-decl-adj	ADJ	Case=Gen;Number=Sing				vull
+vull	vulle	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		vull
+vull	den vullen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		vull
+vull	dat vulle	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		vull
+vull	de vullen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		vull
+vull	en vull	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+vull	vullet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		vull
+vull	vullen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		vull
+vull	en vullen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		vull
+klöven	klöövt	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		klööv
+klöven	klööv	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				klööv
+klöven	klövn	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		klöv
+klöven	klööv	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				klööv
+klöven	klöövt	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		klööv
+krupen	kroop	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				kroop
+krupen	krüpps	nds-conj-st	VERB	Tense=Past		s		krüpp
+krupen	krapen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		krap
+krupen	gekrapen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		krap
+wrangen	wrang	nds-conj-wk	VERB	Number=Sing;Definite=Def				wrang
+wrangen	wrangs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		wrang
+wrangen	wrangen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		wrang
+bruken	bruuk	nds-conj-wk	VERB	Number=Sing;Definite=Def				bruuk
+bruken	bruuks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		bruuk
+bruken	bruuken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		bruuk
+snacken	snack	nds-conj-wk	VERB	Number=Sing;Definite=Def				snack
+snacken	snacks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		snack
+snacken	snacken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		snack
+gröön	een Grööns	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Gröön
+gröön	gröne	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		grön
+gröön	gröön	nds-decl-adj	ADJ	Case=Gen;Number=Sing				gröön
+gröön	gröne	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		grön
+gröön	den grönen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		grön
+gröön	dat gröne	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		grön
+gröön	de grönen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		grön
+gröön	en gröön	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+gröön	grönet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		grön
+gröön	grönen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		grön
+gröön	en grönen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		grön
+gries	een Grieses	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Griese
+gries	griese	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		gries
+gries	gries	nds-decl-adj	ADJ	Case=Gen;Number=Sing				gries
+gries	griese	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		gries
+gries	den griesen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		gries
+gries	dat griese	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		gries
+gries	de griesen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		gries
+gries	en gries	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+gries	grieset	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		gries
+gries	griesen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		gries
+gries	en griesen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		gries
+warken	wark	nds-conj-wk	VERB	Number=Sing;Definite=Def				wark
+warken	warks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		wark
+warken	warken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		wark
+wanken	wank	nds-conj-wk	VERB	Number=Sing;Definite=Def				wank
+wanken	wanks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		wank
+wanken	wanken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		wank
+slu	een Slus	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Slu
+slu	slue	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		slu
+slu	slu	nds-decl-adj	ADJ	Case=Gen;Number=Sing				slu
+slu	slue	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		slu
+slu	den sluen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		slu
+slu	dat slue	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		slu
+slu	de sluen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		slu
+slu	en slu	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+slu	sluet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		slu
+slu	sluen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		slu
+slu	en sluen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		slu
+verkehrt	een Verkehrts	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Verkehrt
+verkehrt	verkehrte	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		verkehrt
+verkehrt	verkehrt	nds-decl-adj	ADJ	Case=Gen;Number=Sing				verkehrt
+verkehrt	verkehrte	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		verkehrt
+verkehrt	den verkehrten	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		verkehrt
+verkehrt	dat verkehrte	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		verkehrt
+verkehrt	de verkehrten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		verkehrt
+verkehrt	en verkehrt	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+verkehrt	verkehrtet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		verkehrt
+verkehrt	verkehrten	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		verkehrt
+verkehrt	en verkehrten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		verkehrt
+afkedden	kedd sep	nds-conj-wk2	VERB	Case=Nom;Number=Sing	 	 	 	edd se
+afkedden	sepkedd	nds-conj-wk2	VERB	Case=Voc;Number=Plur				sepkedd
+afkedden	sepkedd	nds-conj-wk2	VERB	Case=Gen;Number=Plur				sepkedd
+afkedden	keddst sep	nds-conj-wk2	VERB	Case=Dat;Number=Plur	st 	st 	st 	dst 
+swimmen	swumm	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				swumm
+swimmen	swimms	nds-conj-st	VERB	Tense=Past		s		swimm
+swimmen	swummen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		swumm
+swimmen	geswummen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		swumm
+lahmen	lahm	nds-conj-wk	VERB	Number=Sing;Definite=Def				lahm
+lahmen	lahms	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		lahm
+lahmen	lahmen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		lahm
+schrieven	schreev	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				schreev
+schrieven	schriffs	nds-conj-st	VERB	Tense=Past		s		schriff
+schrieven	schreven	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		schrev
+schrieven	geschreven	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		schrev
+flegen	floog	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				floog
+flegen	flüggs	nds-conj-st	VERB	Tense=Past		s		flügg
+flegen	flagen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		flag
+flegen	geflagen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		flag
+fresen	froor	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				froor
+fresen	früss	nds-conj-st	VERB	Tense=Past		s		früs
+fresen	froren	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		fror
+fresen	gefroren	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		fror
+ehren	ehr	nds-conj-wk	VERB	Number=Sing;Definite=Def				ehr
+ehren	ehrs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		ehr
+ehren	ehren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		ehr
+drepen	dreep	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				dreep
+drepen	dripps	nds-conj-st	VERB	Tense=Past		s		dripp
+drepen	drepen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		drep
+drepen	gedrepen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		drep
+sehn	seeg	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				seeg
+sehn	sühs	nds-conj-st	VERB	Tense=Past		s		süh
+sehn	sehen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		seh
+sehn	gesehen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		seh
+hölpen	holp	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				holp
+hölpen	hölps	nds-conj-st	VERB	Tense=Past		s		hölp
+hölpen	holpen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		holp
+hölpen	geholpen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		holp
+freren	froor	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				froor
+freren	früss	nds-conj-st	VERB	Tense=Past		s		früs
+freren	froren	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		fror
+freren	gefroren	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		fror
+blieven	bleev	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				bleev
+blieven	bliffs	nds-conj-st	VERB	Tense=Past		s		bliff
+blieven	bleven	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		blev
+blieven	gebleven	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		blev
+glieden	gleed	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				gleed
+glieden	glidds	nds-conj-st	VERB	Tense=Past		s		glidd
+glieden	gleden	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		gled
+glieden	gegleden	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		gled
+glieken	gleek	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				gleek
+glieken	glicks	nds-conj-st	VERB	Tense=Past		s		glick
+glieken	gleken	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		glek
+glieken	gegleken	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		glek
+begünnen	begunn	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				begunn
+begünnen	begünns	nds-conj-st	VERB	Tense=Past		s		begünn
+begünnen	begunnen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		begunn
+begünnen	gebegunnen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		begunn
+wreet	een wreeds	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		wreed
+wreet	wrede	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		wred
+wreet	wreet	nds-decl-adj	ADJ	Case=Gen;Number=Sing				wreet
+wreet	wrede	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		wred
+wreet	den wreden	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		wred
+wreet	dat wrede	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		wred
+wreet	de wreden	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		wred
+wreet	en wreet	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+wreet	wredet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		wred
+wreet	wreden	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		wred
+wreet	en wreden	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		wred
+schöön	een schööns	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		schöön
+schöön	schöne	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		schön
+schöön	schöön	nds-decl-adj	ADJ	Case=Gen;Number=Sing				schöön
+schöön	schöne	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		schön
+schöön	den schönen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		schön
+schöön	dat schöne	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		schön
+schöön	de schönen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		schön
+schöön	en schöön	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+schöön	schönet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		schön
+schöön	schönen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		schön
+schöön	en schönen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		schön
+bedregen	bedroog	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				bedroog
+bedregen	bedriggs	nds-conj-st	VERB	Tense=Past		s		bedrigg
+bedregen	bedragen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		bedrag
+bedregen	gebedragen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		bedrag
+düüster	een düüsters	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		düüster
+düüster	düüstere	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		düüster
+düüster	düüster	nds-decl-adj	ADJ	Case=Gen;Number=Sing				düüster
+düüster	düüstere	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		düüster
+düüster	den düüsteren	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		düüster
+düüster	dat düüstere	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		düüster
+düüster	de düüsteren	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		düüster
+düüster	en düüster	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+düüster	düüsteret	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		düüster
+düüster	düüsteren	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		düüster
+düüster	en düüsteren	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		düüster
+wunnerbor	een wunnerbors	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		wunnerbor
+wunnerbor	wunnerbore	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		wunnerbor
+wunnerbor	wunnerbor	nds-decl-adj	ADJ	Case=Gen;Number=Sing				wunnerbor
+wunnerbor	wunnerbore	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		wunnerbor
+wunnerbor	den wunnerboren	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		wunnerbor
+wunnerbor	dat wunnerbore	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		wunnerbor
+wunnerbor	de wunnerboren	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		wunnerbor
+wunnerbor	en wunnerbor	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+wunnerbor	wunnerboret	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		wunnerbor
+wunnerbor	wunnerboren	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		wunnerbor
+wunnerbor	en wunnerboren	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		wunnerbor
+gammlig	een gammligs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		gammlig
+gammlig	gammlige	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		gammlig
+gammlig	gammlig	nds-decl-adj	ADJ	Case=Gen;Number=Sing				gammlig
+gammlig	gammlige	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		gammlig
+gammlig	den gammligen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		gammlig
+gammlig	dat gammlige	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		gammlig
+gammlig	de gammligen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		gammlig
+gammlig	en gammlig	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+gammlig	gammliget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		gammlig
+gammlig	gammligen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		gammlig
+gammlig	en gammligen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		gammlig
+tähmen	tähm	nds-conj-wk	VERB	Number=Sing;Definite=Def				tähm
+tähmen	tähms	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		tähm
+tähmen	tähmen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		tähm
+töögsam	een töögsams	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		töögsam
+töögsam	töögsame	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		töögsam
+töögsam	töögsam	nds-decl-adj	ADJ	Case=Gen;Number=Sing				töögsam
+töögsam	töögsame	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		töögsam
+töögsam	den töögsamen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		töögsam
+töögsam	dat töögsame	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		töögsam
+töögsam	de töögsamen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		töögsam
+töögsam	en töögsam	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+töögsam	töögsamet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		töögsam
+töögsam	töögsamen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		töögsam
+töögsam	en töögsamen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		töögsam
+striepig	een striepigs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		striepig
+striepig	striepige	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		striepig
+striepig	striepig	nds-decl-adj	ADJ	Case=Gen;Number=Sing				striepig
+striepig	striepige	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		striepig
+striepig	den striepigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		striepig
+striepig	dat striepige	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		striepig
+striepig	de striepigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		striepig
+striepig	en striepig	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+striepig	striepiget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		striepig
+striepig	striepigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		striepig
+striepig	en striepigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		striepig
+nuddelig	een nuddeligs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		nuddelig
+nuddelig	nuddelige	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		nuddelig
+nuddelig	nuddelig	nds-decl-adj	ADJ	Case=Gen;Number=Sing				nuddelig
+nuddelig	nuddelige	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		nuddelig
+nuddelig	den nuddeligen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		nuddelig
+nuddelig	dat nuddelige	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		nuddelig
+nuddelig	de nuddeligen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		nuddelig
+nuddelig	en nuddelig	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+nuddelig	nuddeliget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		nuddelig
+nuddelig	nuddeligen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		nuddelig
+nuddelig	en nuddeligen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		nuddelig
+klook	een Klooks	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Klook
+klook	kloke	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		klok
+klook	klook	nds-decl-adj	ADJ	Case=Gen;Number=Sing				klook
+klook	kloke	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		klok
+klook	den kloken	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		klok
+klook	dat kloke	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		klok
+klook	de kloken	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		klok
+klook	en klook	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+klook	kloket	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		klok
+klook	kloken	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		klok
+klook	en kloken	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		klok
+lättst	lättste	nds-decl-adj2	ADJ	Definite=Ind;Case=Nom;Number=Sing		e		lättst
+lättst	lättst	nds-decl-adj2	ADJ	Definite=Ind;Case=Nom;Number=Sing				lättst
+lättst	lättste	nds-decl-adj2	ADJ	Definite=Ind;Case=Nom;Number=Plur		e		lättst
+lättst	lättsten	nds-decl-adj2	ADJ	Definite=Ind;Case=Dat;Number=Sing		en		lättst
+lättst	lättst	nds-decl-adj2	ADJ	Definite=Ind;Case=Dat;Number=Plur				lättst
+lättst	de lättste	nds-decl-adj2	ADJ	Definite=Ind;Case=Gen;Number=Sing	de 	e		lättst
+geelsnacken	snack sep	nds-conj-wk2	VERB	Case=Nom;Number=Sing	 	 	 	nack se
+geelsnacken	sepsnack	nds-conj-wk2	VERB	Case=Voc;Number=Plur				sepsnack
+geelsnacken	sepsnack	nds-conj-wk2	VERB	Case=Gen;Number=Plur				sepsnack
+geelsnacken	snackst sep	nds-conj-wk2	VERB	Case=Dat;Number=Plur	st 	st 	st 	ckst 
+schüdden	schüdd	nds-conj-wk	VERB	Number=Sing;Definite=Def				schüdd
+schüdden	schüdds	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		schüdd
+schüdden	schüdden	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		schüdd
+dregen	droog	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				droog
+dregen	driggs	nds-conj-st	VERB	Tense=Past		s		drigg
+dregen	dragen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		drag
+dregen	gedragen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		drag
+drapen	droop	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				droop
+drapen	dröpps	nds-conj-st	VERB	Tense=Past		s		dröpp
+drapen	drapen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		drap
+drapen	gedrapen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		drap
+drieven	dreev	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				dreev
+drieven	driffs	nds-conj-st	VERB	Tense=Past		s		driff
+drieven	dreven	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		drev
+drieven	gedreven	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		drev
+utlachen	lach sep	nds-conj-wk2	VERB	Case=Nom;Number=Sing	 	 	 	ach se
+utlachen	seplach	nds-conj-wk2	VERB	Case=Voc;Number=Plur				seplach
+utlachen	seplach	nds-conj-wk2	VERB	Case=Gen;Number=Plur				seplach
+utlachen	lachst sep	nds-conj-wk2	VERB	Case=Dat;Number=Plur	st 	st 	st 	hst 
+verköpen	verköff	nds-conj-wk	VERB	Number=Sing;Definite=Def				verköff
+verköpen	verköffs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		verköff
+verköpen	verkööpen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		verkööp
+achterankamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+achterankamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+achterankamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+achterankamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+achterankamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+achterankamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+achterankamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+achterankamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+nakamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+nakamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+nakamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+nakamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+nakamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+nakamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+nakamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+nakamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+vörbikamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+vörbikamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+vörbikamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+vörbikamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+vörbikamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+vörbikamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+vörbikamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+vörbikamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+bikamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+bikamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+bikamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+bikamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+bikamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+bikamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+bikamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+bikamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+inkamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+inkamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+inkamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+inkamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+inkamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+inkamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+inkamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+inkamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+opkamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+opkamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+opkamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+opkamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+opkamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+opkamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+opkamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+opkamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+gegenkamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+gegenkamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+gegenkamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+gegenkamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+gegenkamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+gegenkamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+gegenkamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+gegenkamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+foortkamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+foortkamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+foortkamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+foortkamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+foortkamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+foortkamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+foortkamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+foortkamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+överkamen	överkeem	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				överkeem
+överkamen	överkümms	nds-conj-st	VERB	Tense=Past		s		överkümm
+överkamen	överkamen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		överkam
+överkamen	geöverkamen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		överkam
+utkamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+utkamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+utkamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+utkamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+utkamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+utkamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+utkamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+utkamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+vörkamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+vörkamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+vörkamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+vörkamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+vörkamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+vörkamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+vörkamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+vörkamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+torüchkamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+torüchkamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+torüchkamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+torüchkamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+torüchkamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+torüchkamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+torüchkamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+torüchkamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+tokamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+tokamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+tokamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+tokamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+tokamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+tokamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+tokamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+tokamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+ümkamen	kaam sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	aam se
+ümkamen	keem sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eem se
+ümkamen	sepkaam	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkaam
+ümkamen	sepkeem	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkeem
+ümkamen	kümmst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	mst 
+ümkamen	keemst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	mst 
+ümkamen	sepkümmst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkümm
+ümkamen	sepkeemst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkeem
+uteneendrieven	driev sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	riev se
+uteneendrieven	dreev sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	reev se
+uteneendrieven	sepdriev	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepdriev
+uteneendrieven	sepdreev	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepdreev
+uteneendrieven	driffst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	ffst 
+uteneendrieven	dreevst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	evst 
+uteneendrieven	sepdriffst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepdriff
+uteneendrieven	sepdreevst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepdreev
+utenannerdrieven	driev sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	riev se
+utenannerdrieven	dreev sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	reev se
+utenannerdrieven	sepdriev	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepdriev
+utenannerdrieven	sepdreev	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepdreev
+utenannerdrieven	driffst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	ffst 
+utenannerdrieven	dreevst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	evst 
+utenannerdrieven	sepdriffst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepdriff
+utenannerdrieven	sepdreevst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepdreev
+vuneendrieven	driev sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	riev se
+vuneendrieven	dreev sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	reev se
+vuneendrieven	sepdriev	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepdriev
+vuneendrieven	sepdreev	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepdreev
+vuneendrieven	driffst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	ffst 
+vuneendrieven	dreevst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	evst 
+vuneendrieven	sepdriffst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepdriff
+vuneendrieven	sepdreevst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepdreev
+uteneenfallen	fall sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	all se
+uteneenfallen	full sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	ull se
+uteneenfallen	sepfall	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepfall
+uteneenfallen	sepfull	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepfull
+uteneenfallen	fallst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	lst 
+uteneenfallen	fullst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	lst 
+uteneenfallen	sepfallst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepfall
+uteneenfallen	sepfullst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepfull
+utenannerfallen	fall sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	all se
+utenannerfallen	full sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	ull se
+utenannerfallen	sepfall	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepfall
+utenannerfallen	sepfull	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepfull
+utenannerfallen	fallst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	lst 
+utenannerfallen	fullst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	lst 
+utenannerfallen	sepfallst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepfall
+utenannerfallen	sepfullst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepfull
+vuneenfallen	fall sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	all se
+vuneenfallen	full sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	ull se
+vuneenfallen	sepfall	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepfall
+vuneenfallen	sepfull	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepfull
+vuneenfallen	fallst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	lst 
+vuneenfallen	fullst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	lst 
+vuneenfallen	sepfallst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepfall
+vuneenfallen	sepfullst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepfull
+swanken	swank	nds-conj-wk	VERB	Number=Sing;Definite=Def				swank
+swanken	swanks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		swank
+swanken	swanken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		swank
+swenken	swenk	nds-conj-wk	VERB	Number=Sing;Definite=Def				swenk
+swenken	swenks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		swenk
+swenken	swenken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		swenk
+wriggen	wrigg	nds-conj-wk	VERB	Number=Sing;Definite=Def				wrigg
+wriggen	wriggs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		wrigg
+wriggen	wriggen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		wrigg
+wrinschen	wrinsch	nds-conj-wk	VERB	Number=Sing;Definite=Def				wrinsch
+wrinschen	wrinschs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		wrinsch
+wrinschen	wrinschen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		wrinsch
+düppen	düpp	nds-conj-wk	VERB	Number=Sing;Definite=Def				düpp
+düppen	düpps	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		düpp
+düppen	düppen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		düpp
+wrööschen	wröösch	nds-conj-wk	VERB	Number=Sing;Definite=Def				wröösch
+wrööschen	wrööschs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		wröösch
+wrööschen	wrööschen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		wröösch
+knudeln	knudel	nds-conj-wk	VERB	Number=Sing;Definite=Def				knudel
+knudeln	knudels	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		knudel
+knudeln	knudelen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		knudel
+verkröpelt	een verkröpelts	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		verkröpelt
+verkröpelt	verkröpelte	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		verkröpelt
+verkröpelt	verkröpelt	nds-decl-adj	ADJ	Case=Gen;Number=Sing				verkröpelt
+verkröpelt	verkröpelte	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		verkröpelt
+verkröpelt	den verkröpelten	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		verkröpelt
+verkröpelt	dat verkröpelte	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		verkröpelt
+verkröpelt	de verkröpelten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		verkröpelt
+verkröpelt	en verkröpelt	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+verkröpelt	verkröpeltet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		verkröpelt
+verkröpelt	verkröpelten	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		verkröpelt
+verkröpelt	en verkröpelten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		verkröpelt
+taalken	taalk	nds-conj-wk	VERB	Number=Sing;Definite=Def				taalk
+taalken	taalks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		taalk
+taalken	taalken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		taalk
+afschaven	schaav sep	nds-conj-wk2	VERB	Case=Nom;Number=Sing	 	 	 	chaav se
+afschaven	sepschaav	nds-conj-wk2	VERB	Case=Voc;Number=Plur				sepschaav
+afschaven	sepschaav	nds-conj-wk2	VERB	Case=Gen;Number=Plur				sepschaav
+afschaven	schaavst sep	nds-conj-wk2	VERB	Case=Dat;Number=Plur	st 	st 	st 	aavst 
+utspreken	spreek sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	preek se
+utspreken	sprook sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	prook se
+utspreken	sepspreek	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepspreek
+utspreken	sepsprook	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepsprook
+utspreken	sprickst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	ickst 
+utspreken	sprookst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	ookst 
+utspreken	sepsprickst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepsprick
+utspreken	sepsprookst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepsprook
+utsnacken	snack sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	nack se
+utsnacken	snack sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	nack se
+utsnacken	sepsnack	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepsnack
+utsnacken	sepsnack	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepsnack
+utsnacken	snackst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	ckst 
+utsnacken	snackst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	ckst 
+utsnacken	sepsnackst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepsnack
+utsnacken	sepsnackst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepsnack
+överwinnen	överwunn	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				överwunn
+överwinnen	överwinns	nds-conj-st	VERB	Tense=Past		s		överwinn
+överwinnen	överwunnen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		överwunn
+överwinnen	geöverwunnen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		överwunn
+gellen	gull	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				gull
+gellen	gells	nds-conj-st	VERB	Tense=Past		s		gell
+gellen	gullen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		gull
+gellen	gegullen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		gull
+güllig	güllige	nds-decl-adj2	ADJ	Definite=Ind;Case=Nom;Number=Sing		e		güllig
+güllig	güllig	nds-decl-adj2	ADJ	Definite=Ind;Case=Nom;Number=Sing				güllig
+güllig	güllige	nds-decl-adj2	ADJ	Definite=Ind;Case=Nom;Number=Plur		e		güllig
+güllig	gülligen	nds-decl-adj2	ADJ	Definite=Ind;Case=Dat;Number=Sing		en		güllig
+güllig	güllig	nds-decl-adj2	ADJ	Definite=Ind;Case=Dat;Number=Plur				güllig
+güllig	de güllige	nds-decl-adj2	ADJ	Definite=Ind;Case=Gen;Number=Sing	de 	e		güllig
+ungüllig	ungüllige	nds-decl-adj2	ADJ	Definite=Ind;Case=Nom;Number=Sing		e		ungüllig
+ungüllig	ungüllig	nds-decl-adj2	ADJ	Definite=Ind;Case=Nom;Number=Sing				ungüllig
+ungüllig	ungüllige	nds-decl-adj2	ADJ	Definite=Ind;Case=Nom;Number=Plur		e		ungüllig
+ungüllig	ungülligen	nds-decl-adj2	ADJ	Definite=Ind;Case=Dat;Number=Sing		en		ungüllig
+ungüllig	ungüllig	nds-decl-adj2	ADJ	Definite=Ind;Case=Dat;Number=Plur				ungüllig
+ungüllig	de ungüllige	nds-decl-adj2	ADJ	Definite=Ind;Case=Gen;Number=Sing	de 	e		ungüllig
+kröpelig	een Kröpeligs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Kröpelig
+kröpelig	kröpelige	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		kröpelig
+kröpelig	kröpelig	nds-decl-adj	ADJ	Case=Gen;Number=Sing				kröpelig
+kröpelig	kröpelige	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		kröpelig
+kröpelig	den kröpeligen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		kröpelig
+kröpelig	dat kröpelige	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		kröpelig
+kröpelig	de kröpeligen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		kröpelig
+kröpelig	en kröpelig	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+kröpelig	kröpeliget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		kröpelig
+kröpelig	kröpeligen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		kröpelig
+kröpelig	en kröpeligen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		kröpelig
+krepen	kreep	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				kreep
+krepen	kripps	nds-conj-st	VERB	Tense=Past		s		kripp
+krepen	krepen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		krep
+krepen	gekrepen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		krep
+swellen	swull	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				swull
+swellen	swells	nds-conj-st	VERB	Tense=Past		s		swell
+swellen	swullen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		swull
+swellen	geswullen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		swull
+trecken	trock	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				trock
+trecken	trecks	nds-conj-st	VERB	Tense=Past		s		treck
+trecken	trocken	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		trock
+trecken	getrocken	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		trock
+dröög	een Dröögs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Dröög
+dröög	dröge	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		drög
+dröög	dröög	nds-decl-adj	ADJ	Case=Gen;Number=Sing				dröög
+dröög	dröge	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		drög
+dröög	den drögen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		drög
+dröög	dat dröge	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		drög
+dröög	de drögen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		drög
+dröög	en dröög	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+dröög	dröget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		drög
+dröög	drögen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		drög
+dröög	en drögen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		drög
+plietsch	een Plietschs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Plietsch
+plietsch	plietsche	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		plietsch
+plietsch	plietsch	nds-decl-adj	ADJ	Case=Gen;Number=Sing				plietsch
+plietsch	plietsche	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		plietsch
+plietsch	den plietschen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		plietsch
+plietsch	dat plietsche	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		plietsch
+plietsch	de plietschen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		plietsch
+plietsch	en plietsch	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+plietsch	plietschet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		plietsch
+plietsch	plietschen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		plietsch
+plietsch	en plietschen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		plietsch
+verstännig	een Verstännigs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Verstännig
+verstännig	verstännige	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		verstännig
+verstännig	verstännig	nds-decl-adj	ADJ	Case=Gen;Number=Sing				verstännig
+verstännig	verstännige	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		verstännig
+verstännig	den verstännigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		verstännig
+verstännig	dat verstännige	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		verstännig
+verstännig	de verstännigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		verstännig
+verstännig	en verstännig	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+verstännig	verstänniget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		verstännig
+verstännig	verstännigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		verstännig
+verstännig	en verstännigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		verstännig
+wäterig	een Wäterigs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Wäterig
+wäterig	wäterige	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		wäterig
+wäterig	wäterig	nds-decl-adj	ADJ	Case=Gen;Number=Sing				wäterig
+wäterig	wäterige	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		wäterig
+wäterig	den wäterigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		wäterig
+wäterig	dat wäterige	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		wäterig
+wäterig	de wäterigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		wäterig
+wäterig	en wäterig	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+wäterig	wäteriget	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		wäterig
+wäterig	wäterigen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		wäterig
+wäterig	en wäterigen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		wäterig
+oolt	een Ools	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Ool
+oolt	ole	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		ol
+oolt	oolt	nds-decl-adj	ADJ	Case=Gen;Number=Sing				oolt
+oolt	ole	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		ol
+oolt	den olen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		ol
+oolt	dat ole	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		ol
+oolt	de olen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		ol
+oolt	en oolt	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+oolt	olet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		ol
+oolt	olen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		ol
+oolt	en olen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		ol
+vergadern	vergadert	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		vergader
+vergadern	vergader	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				vergader
+vergadern	vergadern	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		vergader
+vergadern	vergader	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				vergader
+vergadern	vergadert	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		vergader
+groff	een Graavs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Graav
+groff	grave	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		grav
+groff	groff	nds-decl-adj	ADJ	Case=Gen;Number=Sing				groff
+groff	grave	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		grav
+groff	den graven	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		grav
+groff	dat grave	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		grav
+groff	de graven	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		grav
+groff	en groff	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+groff	gravet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		grav
+groff	graven	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		grav
+groff	en graven	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		grav
+koolt	een Kools	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Kool
+koolt	kole	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		kol
+koolt	koolt	nds-decl-adj	ADJ	Case=Gen;Number=Sing				koolt
+koolt	kole	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		kol
+koolt	den kolen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		kol
+koolt	dat kole	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		kol
+koolt	de kolen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		kol
+koolt	en koolt	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+koolt	kolet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		kol
+koolt	kolen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		kol
+koolt	en kolen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		kol
+smuck	een Smucks	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Smuck
+smuck	smucke	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		smuck
+smuck	smuck	nds-decl-adj	ADJ	Case=Gen;Number=Sing				smuck
+smuck	smucke	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		smuck
+smuck	den smucken	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		smuck
+smuck	dat smucke	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		smuck
+smuck	de smucken	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		smuck
+smuck	en smuck	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+smuck	smucket	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		smuck
+smuck	smucken	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		smuck
+smuck	en smucken	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		smuck
+duun	een Duuns	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Duun
+duun	dune	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		dun
+duun	duun	nds-decl-adj	ADJ	Case=Gen;Number=Sing				duun
+duun	dune	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		dun
+duun	den dunen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		dun
+duun	dat dune	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		dun
+duun	de dunen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		dun
+duun	en duun	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+duun	dunet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		dun
+duun	dunen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		dun
+duun	en dunen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		dun
+verswinnen	verswunn	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				verswunn
+verswinnen	verswinns	nds-conj-st	VERB	Tense=Past		s		verswinn
+verswinnen	verswunnen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		verswunn
+verswinnen	geverswunnen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		verswunn
+verdwienen	verdween	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				verdween
+verdwienen	verdwinns	nds-conj-st	VERB	Tense=Past		s		verdwinn
+verdwienen	verdwenen	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		verdwen
+verdwienen	geverdwenen	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		verdwen
+smöken	smöök	nds-conj-wk	VERB	Number=Sing;Definite=Def				smöök
+smöken	smööks	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		smöök
+smöken	smööken	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		smöök
+smölen	smööl	nds-conj-wk	VERB	Number=Sing;Definite=Def				smööl
+smölen	smööls	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		smööl
+smölen	smöölen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		smööl
+opwaken	waak sep	nds-conj-wk2	VERB	Case=Nom;Number=Sing	 	 	 	aak se
+opwaken	sepwaak	nds-conj-wk2	VERB	Case=Voc;Number=Plur				sepwaak
+opwaken	sepwaak	nds-conj-wk2	VERB	Case=Gen;Number=Plur				sepwaak
+opwaken	waakst sep	nds-conj-wk2	VERB	Case=Dat;Number=Plur	st 	st 	st 	kst 
+opwecken	weck sep	nds-conj-wk2	VERB	Case=Nom;Number=Sing	 	 	 	eck se
+opwecken	sepweck	nds-conj-wk2	VERB	Case=Voc;Number=Plur				sepweck
+opwecken	sepweck	nds-conj-wk2	VERB	Case=Gen;Number=Plur				sepweck
+opwecken	weckst sep	nds-conj-wk2	VERB	Case=Dat;Number=Plur	st 	st 	st 	kst 
+oppurren	purr sep	nds-conj-wk2	VERB	Case=Nom;Number=Sing	 	 	 	urr se
+oppurren	seppurr	nds-conj-wk2	VERB	Case=Voc;Number=Plur				seppurr
+oppurren	seppurr	nds-conj-wk2	VERB	Case=Gen;Number=Plur				seppurr
+oppurren	purrst sep	nds-conj-wk2	VERB	Case=Dat;Number=Plur	st 	st 	st 	rst 
+snurren	snurr	nds-conj-wk	VERB	Number=Sing;Definite=Def				snurr
+snurren	snurrs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		snurr
+snurren	snurren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		snurr
+beennen	beenn	nds-conj-wk	VERB	Number=Sing;Definite=Def				beenn
+beennen	beenns	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		beenn
+beennen	beennen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		beenn
+tyypsch	een Tyypschs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Tyypsch
+tyypsch	tyypsche	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		tyypsch
+tyypsch	tyypsch	nds-decl-adj	ADJ	Case=Gen;Number=Sing				tyypsch
+tyypsch	tyypsche	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		tyypsch
+tyypsch	den tyypschen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		tyypsch
+tyypsch	dat tyypsche	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		tyypsch
+tyypsch	de tyypschen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		tyypsch
+tyypsch	en tyypsch	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+tyypsch	tyypschet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		tyypsch
+tyypsch	tyypschen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		tyypsch
+tyypsch	en tyypschen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		tyypsch
+mööd	een Mööds	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Mööd
+mööd	möde	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		möd
+mööd	mööd	nds-decl-adj	ADJ	Case=Gen;Number=Sing				mööd
+mööd	möde	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		möd
+mööd	den möden	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		möd
+mööd	dat möde	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		möd
+mööd	de möden	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		möd
+mööd	en mööd	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+mööd	mödet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		möd
+mööd	möden	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		möd
+mööd	en möden	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		möd
+vermöödt	een Vermöödts	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Vermöödt
+vermöödt	vermöödte	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		vermöödt
+vermöödt	vermöödt	nds-decl-adj	ADJ	Case=Gen;Number=Sing				vermöödt
+vermöödt	vermöödte	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		vermöödt
+vermöödt	den vermöödten	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		vermöödt
+vermöödt	dat vermöödte	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		vermöödt
+vermöödt	de vermöödten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		vermöödt
+vermöödt	en vermöödt	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+vermöödt	vermöödtet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		vermöödt
+vermöödt	vermöödten	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		vermöödt
+vermöödt	en vermöödten	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		vermöödt
+vermöden	vermööd	nds-conj-wk	VERB	Number=Sing;Definite=Def				vermööd
+vermöden	vermööds	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		vermööd
+vermöden	vermööden	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		vermööd
+vermoden	vermood	nds-conj-wk	VERB	Number=Sing;Definite=Def				vermood
+vermoden	vermoods	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		vermood
+vermoden	vermooden	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		vermood
+swarmen	swarm	nds-conj-wk	VERB	Number=Sing;Definite=Def				swarm
+swarmen	swarms	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		swarm
+swarmen	swarmen	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		swarm
+schäädlich	een Schäädlichs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Schäädlich
+schäädlich	schäädliche	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		schäädlich
+schäädlich	schäädlich	nds-decl-adj	ADJ	Case=Gen;Number=Sing				schäädlich
+schäädlich	schäädliche	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		schäädlich
+schäädlich	den schäädlichen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		schäädlich
+schäädlich	dat schäädliche	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		schäädlich
+schäädlich	de schäädlichen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		schäädlich
+schäädlich	en schäädlich	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+schäädlich	schäädlichet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		schäädlich
+schäädlich	schäädlichen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		schäädlich
+schäädlich	en schäädlichen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		schäädlich
+böhren	böhr	nds-conj-wk	VERB	Number=Sing;Definite=Def				böhr
+böhren	böhrs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		böhr
+böhren	böhren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		böhr
+dääglich	een Dääglichs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Dääglich
+dääglich	däägliche	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		dääglich
+dääglich	dääglich	nds-decl-adj	ADJ	Case=Gen;Number=Sing				dääglich
+dääglich	däägliche	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		dääglich
+dääglich	den dääglichen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		dääglich
+dääglich	dat däägliche	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		dääglich
+dääglich	de dääglichen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		dääglich
+dääglich	en dääglich	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+dääglich	dääglichet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		dääglich
+dääglich	dääglichen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		dääglich
+dääglich	en dääglichen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		dääglich
+mööglich	een Mööglichs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Mööglich
+mööglich	möögliche	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		mööglich
+mööglich	mööglich	nds-decl-adj	ADJ	Case=Gen;Number=Sing				mööglich
+mööglich	möögliche	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		mööglich
+mööglich	den mööglichen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		mööglich
+mööglich	dat möögliche	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		mööglich
+mööglich	de mööglichen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		mööglich
+mööglich	en mööglich	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+mööglich	mööglichet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		mööglich
+mööglich	mööglichen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		mööglich
+mööglich	en mööglichen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		mööglich
+unmööglich	een Unmööglichs	nds-decl-adj	ADJ	Case=Gen;Number=Sing	een 	s		Unmööglich
+unmööglich	unmöögliche	nds-decl-adj	ADJ	Case=Gen;Number=Sing		e		unmööglich
+unmööglich	unmööglich	nds-decl-adj	ADJ	Case=Gen;Number=Sing				unmööglich
+unmööglich	unmöögliche	nds-decl-adj	ADJ	Case=Gen;Number=Plur		e		unmööglich
+unmööglich	den unmööglichen	nds-decl-adj	ADJ	Case=Gen;Number=Sing	den 	en		unmööglich
+unmööglich	dat unmöögliche	nds-decl-adj	ADJ	Case=Gen;Number=Sing	dat 	e		unmööglich
+unmööglich	de unmööglichen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	de 	en		unmööglich
+unmööglich	en unmööglich	nds-decl-adj	ADJ	Case=Gen;Number=Sing	en 			
+unmööglich	unmööglichet	nds-decl-adj	ADJ	Case=Gen;Number=Plur		et		unmööglich
+unmööglich	unmööglichen	nds-decl-adj	ADJ	Case=Gen;Number=Sing		en		unmööglich
+unmööglich	en unmööglichen	nds-decl-adj	ADJ	Case=Gen;Number=Plur	en 	en		unmööglich
+tostannkriegen	krieg sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	rieg se
+tostannkriegen	kreeg sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	reeg se
+tostannkriegen	sepkrieg	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepkrieg
+tostannkriegen	sepkreeg	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepkreeg
+tostannkriegen	kriggst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	ggst 
+tostannkriegen	kreegst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	egst 
+tostannkriegen	sepkriggst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepkrigg
+tostannkriegen	sepkreegst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepkreeg
+tostannbringen	bring sep	nds-conj-wk2	VERB	Case=Nom;Number=Sing	 	 	 	ring se
+tostannbringen	sepbring	nds-conj-wk2	VERB	Case=Voc;Number=Plur				sepbring
+tostannbringen	sepbroch	nds-conj-wk2	VERB	Case=Gen;Number=Plur				sepbroch
+tostannbringen	brochst sep	nds-conj-wk2	VERB	Case=Dat;Number=Plur	st 	st 	st 	chst 
+evakueren	evakueer	nds-conj-wk	VERB	Number=Sing;Definite=Def				evakueer
+evakueren	evakueers	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		evakueer
+evakueren	evakueeren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		evakueer
+visenteren	visenteer	nds-conj-wk	VERB	Number=Sing;Definite=Def				visenteer
+visenteren	visenteers	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		visenteer
+visenteren	visenteeren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		visenteer
+spekeleren	spekeleer	nds-conj-wk	VERB	Number=Sing;Definite=Def				spekeleer
+spekeleren	spekeleers	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		spekeleer
+spekeleren	spekeleeren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		spekeleer
+doothauen	hau sep	nds-conj-wk2	VERB	Case=Nom;Number=Sing	 	 	 	au se
+doothauen	sephau	nds-conj-wk2	VERB	Case=Voc;Number=Plur				sephau
+doothauen	sephau	nds-conj-wk2	VERB	Case=Gen;Number=Plur				sephau
+doothauen	haust sep	nds-conj-wk2	VERB	Case=Dat;Number=Plur	st 	st 	st 	st 
+dootblieven	bliev sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	liev se
+dootblieven	bleev sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	leev se
+dootblieven	sepbliev	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepbliev
+dootblieven	sepbleev	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepbleev
+dootblieven	bliffst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	ffst 
+dootblieven	bleevst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	evst 
+dootblieven	sepbliffst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepbliff
+dootblieven	sepbleevst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepbleev
+dootfallen	fall sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	all se
+dootfallen	full sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	ull se
+dootfallen	sepfall	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepfall
+dootfallen	sepfull	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepfull
+dootfallen	fallst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	lst 
+dootfallen	fullst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	lst 
+dootfallen	sepfallst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepfall
+dootfallen	sepfullst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepfull
+dootföhren	föhr sep	nds-conj-wk2	VERB	Case=Nom;Number=Sing	 	 	 	öhr se
+dootföhren	sepföhr	nds-conj-wk2	VERB	Case=Voc;Number=Plur				sepföhr
+dootföhren	sepföhr	nds-conj-wk2	VERB	Case=Gen;Number=Plur				sepföhr
+dootföhren	föhrst sep	nds-conj-wk2	VERB	Case=Dat;Number=Plur	st 	st 	st 	rst 
+dootfreren	freer sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	reer se
+dootfreren	froor sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	roor se
+dootfreren	sepfreer	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepfreer
+dootfreren	sepfroor	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepfroor
+dootfreren	früsst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	sst 
+dootfreren	froorst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	orst 
+dootfreren	sepfrüsst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepfrüs
+dootfreren	sepfroorst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepfroor
+dootscheten	scheet sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	cheet se
+dootscheten	schoot sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	choot se
+dootscheten	sepscheet	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepscheet
+dootscheten	sepschoot	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepschoot
+dootscheten	schütst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	ütst 
+dootscheten	schootst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	ootst 
+dootscheten	sepschütst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepschüt
+dootscheten	sepschootst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepschoot
+dootgahn	gah sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	ah se
+dootgahn	güng sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	üng se
+dootgahn	sepgah	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				sepgah
+dootgahn	sepgüng	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepgüng
+dootgahn	geihst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	hst 
+dootgahn	güngst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	gst 
+dootgahn	sepgeihst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		sepgeih
+dootgahn	sepgüngst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepgüng
+dootlopen	loop sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing	 	 	 	oop se
+dootlopen	leep sep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur	 	 	 	eep se
+dootlopen	seploop	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing				seploop
+dootlopen	sepleep	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Plur				sepleep
+dootlopen	löppst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Sing	st 	st 	st 	pst 
+dootlopen	leepst sep	nds-conj-st2	VERB	Definite=Ind;Case=Dat;Number=Plur	st 	st 	st 	pst 
+dootlopen	seplöppst	nds-conj-st2	VERB	Definite=Ind;Case=Nom;Number=Sing		st		seplöpp
+dootlopen	sepleepst	nds-conj-st2	VERB	Definite=Ind;Case=Gen;Number=Plur		st		sepleep
+geböhren	geböhr	nds-conj-wk	VERB	Number=Sing;Definite=Def				geböhr
+geböhren	geböhrs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		geböhr
+geböhren	geböhren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		geböhr
+geneten	genoot	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				genoot
+geneten	genüts	nds-conj-st	VERB	Tense=Past		s		genüt
+geneten	genaten	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		genat
+geneten	gegenaten	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		genat
+glöven	glööv	nds-conj-wk	VERB	Number=Sing;Definite=Def				glööv
+glöven	glöövs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		glööv
+glöven	glööven	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		glööv
+tohoopkleien	klei sep	nds-conj-wk2	VERB	Case=Nom;Number=Sing	 	 	 	lei se
+tohoopkleien	sepklei	nds-conj-wk2	VERB	Case=Voc;Number=Plur				sepklei
+tohoopkleien	sepklei	nds-conj-wk2	VERB	Case=Gen;Number=Plur				sepklei
+tohoopkleien	kleist sep	nds-conj-wk2	VERB	Case=Dat;Number=Plur	st 	st 	st 	ist 
+strieken	streek	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				streek
+strieken	stricks	nds-conj-st	VERB	Tense=Past		s		strick
+strieken	streken	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		strek
+strieken	gestreken	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		strek
+fluddern	fluddert	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		fludder
+fluddern	fludder	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				fludder
+fluddern	fluddern	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		fludder
+fluddern	fludder	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				fludder
+fluddern	fluddert	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		fludder
+fladdern	fladdert	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		fladder
+fladdern	fladder	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				fladder
+fladdern	fladdern	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		fladder
+fladdern	fladder	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				fladder
+fladdern	fladdert	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		fladder
+fluttern	fluttert	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		flutter
+fluttern	flutter	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				flutter
+fluttern	fluttern	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		flutter
+fluttern	flutter	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				flutter
+fluttern	fluttert	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		flutter
+wrieven	wreev	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				wreev
+wrieven	wriffs	nds-conj-st	VERB	Tense=Past		s		wriff
+wrieven	wreven	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		wrev
+wrieven	gewreven	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		wrev
+rieven	reev	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing				reev
+rieven	riffs	nds-conj-st	VERB	Tense=Past		s		riff
+rieven	reven	nds-conj-st	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		en		rev
+rieven	gereven	nds-conj-st	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing	ge	en		rev
+gniedeln	gniedelt	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		gniedel
+gniedeln	gniedel	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				gniedel
+gniedeln	gniedeln	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		gniedel
+gniedeln	gniedel	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				gniedel
+gniedeln	gniedelt	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		gniedel
+gniegeln	gniegelt	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		gniegel
+gniegeln	gniegel	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				gniegel
+gniegeln	gniegeln	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		gniegel
+gniegeln	gniegel	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				gniegel
+gniegeln	gniegelt	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		gniegel
+wribbeln	wribbelt	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		wribbel
+wribbeln	wribbel	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				wribbel
+wribbeln	wribbeln	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		wribbel
+wribbeln	wribbel	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				wribbel
+wribbeln	wribbelt	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		wribbel
+wannern	wannert	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		wanner
+wannern	wanner	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				wanner
+wannern	wannern	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		wanner
+wannern	wanner	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				wanner
+wannern	wannert	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		wanner
+wanneln	wannelt	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		wannel
+wanneln	wannel	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				wannel
+wanneln	wanneln	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		wannel
+wanneln	wannel	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				wannel
+wanneln	wannelt	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		wannel
+verännern	verännert	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		veränner
+verännern	veränner	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				veränner
+verännern	verännern	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		veränner
+verännern	veränner	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				veränner
+verännern	verännert	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		veränner
+ännern	ännert	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		änner
+ännern	änner	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				änner
+ännern	ännern	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		änner
+ännern	änner	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				änner
+ännern	ännert	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		änner
+bedüden	bedüüd	nds-conj-wk	VERB	Number=Sing;Definite=Def				bedüüd
+bedüden	bedüüds	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		bedüüd
+bedüden	bedüüden	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		bedüüd
+quinkeleren	quinkeleer	nds-conj-wk	VERB	Number=Sing;Definite=Def				quinkeleer
+quinkeleren	quinkeleers	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		quinkeleer
+quinkeleren	quinkeleeren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		quinkeleer
+quinkeln	quinkelt	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		quinkel
+quinkeln	quinkel	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				quinkel
+quinkeln	quinkeln	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		quinkel
+quinkeln	quinkel	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				quinkel
+quinkeln	quinkelt	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		quinkel
+wölven	wölv	nds-conj-wk	VERB	Number=Sing;Definite=Def				wölv
+wölven	wölvs	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		wölv
+wölven	wölven	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		wölv
+männich	männich	nds-decl-männich	NOUN	Voice=Act;Tense=Pres;Polarity=Pos;Mood=Ind;Person=1;Number=Sing				männich
+männich	männich	nds-decl-männich	NOUN	Voice=Act;Tense=Pres;Polarity=Neg;Mood=Ind;Person=1;Number=Sing				männich
+männich	männichen	nds-decl-männich	NOUN	Voice=Act;Tense=Pres;Polarity=Pos;Mood=Ind;Person=2;Number=Sing		en		männich
+männich	männich	nds-decl-männich	NOUN	Voice=Act;Tense=Pres;Polarity=Neg;Mood=Ind;Person=2;Number=Sing				männich
+korrigeren	korrigeer	nds-conj-wk	VERB	Number=Sing;Definite=Def				korrigeer
+korrigeren	korrigeers	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		korrigeer
+korrigeren	korrigeeren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		korrigeer
+annulleren	annulleer	nds-conj-wk	VERB	Number=Sing;Definite=Def				annulleer
+annulleren	annulleers	nds-conj-wk	VERB	Number=Sing;Definite=Def		s		annulleer
+annulleren	annulleeren	nds-conj-wk	VERB	Number=Sing;Case=Voc		en		annulleer
+splintern	splintert	nds-conj-wk1	VERB	Case=Nom;Gender=Masc;Number=Sing		t		splinter
+splintern	splinter	nds-conj-wk1	VERB	Case=Nom;Gender=Fem;Number=Sing				splinter
+splintern	splintern	nds-conj-wk1	VERB	Gender=Neut;Number=Sing		n		splinter
+splintern	splinter	nds-conj-wk1	VERB	Case=Acc;Gender=Masc;Number=Sing				splinter
+splintern	splintert	nds-conj-wk1	VERB	Case=Acc;Gender=Fem;Number=Sing		t		splinter

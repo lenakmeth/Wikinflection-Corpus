@@ -1,0 +1,723 @@
+Lemma	Word form	Template	POS	Features	Prefix	Suffix	Infix	Stem
+زبان	زبان	ur-decl-noun	NOUN	Case=Voc;Number=Sing				زبان
+زبان	زبانیں	ur-decl-noun	NOUN	Case=Voc;Number=Sing				زبانیں
+زبان	زبان	ur-decl-noun	NOUN	Case=Voc;Number=Sing				زبان
+زبان	زبانوں	ur-decl-noun	NOUN	Case=Acc;Number=Plur				زبانوں
+زبان	زبان	ur-decl-noun	NOUN	Case=Voc;Number=Sing				زبان
+زبان	زبانو	ur-decl-noun	NOUN	Case=Voc;Number=Plur				زبانو
+چراغ	چراغ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				چراغ
+چراغ	چراغوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		چراغ
+چراغ	چراغو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		چراغ
+نام	نام	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				نام
+نام	ناموں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		نام
+نام	نامو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		نام
+ڈکار	ڈکار	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				ڈکار
+ڈکار	ڈکاریں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		ڈکار
+ڈکار	ڈکاروں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		ڈکار
+ڈکار	ڈکارو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		ڈکار
+پھول	پھول	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				پھول
+پھول	پھولوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		پھول
+پھول	پھولو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		پھول
+لسان	لسان	ur-decl-noun	NOUN	Case=Voc;Number=Sing				لسان
+لسان	لسانیں	ur-decl-noun	NOUN	Case=Voc;Number=Sing				لسانیں
+لسان	لسان	ur-decl-noun	NOUN	Case=Voc;Number=Sing				لسان
+لسان	لسانوں	ur-decl-noun	NOUN	Case=Acc;Number=Plur				لسانوں
+لسان	لسان	ur-decl-noun	NOUN	Case=Voc;Number=Sing				لسان
+لسان	لسانو	ur-decl-noun	NOUN	Case=Voc;Number=Plur				لسانو
+رنگ	رنگ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				رنگ
+رنگ	رنگوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		رنگ
+رنگ	رنگو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		رنگ
+سوچنا	سوچنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		سوچ
+سوچنا	سوچنے	ur-conj	VERB	VerbForm=Inf		نے		سوچ
+کتاب	کتاب	ur-decl-noun	NOUN	Case=Voc;Number=Sing				کتاب
+کتاب	کتابیں	ur-decl-noun	NOUN	Case=Voc;Number=Sing				کتابیں
+کتاب	کتاب	ur-decl-noun	NOUN	Case=Voc;Number=Sing				کتاب
+کتاب	کتابوں	ur-decl-noun	NOUN	Case=Acc;Number=Plur				کتابوں
+کتاب	کتاب	ur-decl-noun	NOUN	Case=Voc;Number=Sing				کتاب
+کتاب	کتابو	ur-decl-noun	NOUN	Case=Voc;Number=Plur				کتابو
+کتا	کتا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		کت
+کتا	کتے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		کت
+کتا	کتوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		کت
+کتا	کتو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		کت
+ترجمان	ترجمان	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				ترجمان
+ترجمان	ترجمانوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		ترجمان
+ترجمان	ترجمانو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		ترجمان
+دودھ	دودھ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				دودھ
+دودھ	دودھوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		دودھ
+دودھ	دودھو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		دودھ
+آرام کرنا	آرام کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		آرام
+آرام کرنا	آرام کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		آرام
+آدمی	آدمی	ur-decl-noun	NOUN	Case=Voc;Number=Sing				آدمی
+آدمی	آدمی	ur-decl-noun	NOUN	Case=Voc;Number=Sing				آدمی
+آدمی	آدمی	ur-decl-noun	NOUN	Case=Voc;Number=Sing				آدمی
+آدمی	آدمیوں	ur-decl-noun	NOUN	Case=Acc;Number=Plur				آدمیوں
+آدمی	آدمی	ur-decl-noun	NOUN	Case=Voc;Number=Sing				آدمی
+آدمی	آدمیو	ur-decl-noun	NOUN	Case=Voc;Number=Plur				آدمیو
+چودنا	چودنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		چود
+چودنا	چودنے	ur-conj	VERB	VerbForm=Inf		نے		چود
+سیب	سیب	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				سیب
+سیب	سیبوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		سیب
+سیب	سیبو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		سیب
+قلم	قلم	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				قلم
+قلم	قلمیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		قلم
+قلم	قلموں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		قلم
+قلم	قلمو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		قلم
+دھرم	دھرم	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				دھرم
+دھرم	دھرموں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		دھرم
+دھرم	دھرمو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		دھرم
+چیز	چیز	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				چیز
+چیز	چیزیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		چیز
+چیز	چیزوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		چیز
+چیز	چیزو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		چیز
+انگوٹھا	انگوٹھا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		انگوٹھ
+انگوٹھا	انگوٹھے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		انگوٹھ
+انگوٹھا	انگوٹھوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		انگوٹھ
+انگوٹھا	انگوٹھو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		انگوٹھ
+انڈا	انڈا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		انڈ
+انڈا	انڈے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		انڈ
+انڈا	انڈوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		انڈ
+انڈا	انڈو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		انڈ
+انار	انار	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				انار
+انار	اناروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		انار
+انار	انارو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		انار
+آدر کرنا	آدر کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		آدر
+آدر کرنا	آدر کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		آدر
+آوارہ	آوارہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		آوار
+آوارہ	آوارے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		آوار
+آوارہ	آواروں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		آوار
+آوارہ	آوارو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		آوار
+اکشر	اکشر	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				اکشر
+اکشر	اکشروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		اکشر
+اکشر	اکشرو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		اکشر
+آگرہ کرنا	آگرہ کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		آگرہ
+آگرہ کرنا	آگرہ کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		آگرہ
+آرمبھ کرنا	آرمبھ کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		آرمبھ
+آرمبھ کرنا	آرمبھ کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		آرمبھ
+آشچریہ کرنا	آشچریہ کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		آشچریہ
+آشچریہ کرنا	آشچریہ کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		آشچریہ
+انتظار کرنا	انتظار کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		انتظار
+انتظار کرنا	انتظار کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		انتظار
+انکار کرنا	انکار کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		انکار
+انکار کرنا	انکار کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		انکار
+علاج کرنا	علاج کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		علاج
+علاج کرنا	علاج کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		علاج
+استعمال کرنا	استعمال کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		استعمال
+استعمال کرنا	استعمال کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		استعمال
+اترنا	اترنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		اتر
+اترنا	اترنے	ur-conj	VERB	VerbForm=Inf		نے		اتر
+کہنا	کہنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		کہ
+کہنا	کہنے	ur-conj	VERB	VerbForm=Inf		نے		کہ
+کھیل	کھیل	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				کھیل
+کھیل	کھیلوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		کھیل
+کھیل	کھیلو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		کھیل
+گھوڑا	گھوڑا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		گھوڑ
+گھوڑا	گھوڑے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		گھوڑ
+گھوڑا	گھوڑوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		گھوڑ
+گھوڑا	گھوڑو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		گھوڑ
+چاہنا	چاہنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		چاہ
+چاہنا	چاہنے	ur-conj	VERB	VerbForm=Inf		نے		چاہ
+عشق	عشق	ur-decl-noun	NOUN	Case=Voc;Number=Sing				عشق
+عشق	عشق	ur-decl-noun	NOUN	Case=Voc;Number=Sing				عشق
+عشق	عشق	ur-decl-noun	NOUN	Case=Voc;Number=Sing				عشق
+عشق	عشقوں	ur-decl-noun	NOUN	Case=Acc;Number=Plur				عشقوں
+عشق	عشق	ur-decl-noun	NOUN	Case=Voc;Number=Sing				عشق
+عشق	عسقو	ur-decl-noun	NOUN	Case=Voc;Number=Plur				عسقو
+غریب	غریب	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				غریب
+غریب	غریبوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		غریب
+غریب	غریبو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		غریب
+گان کرنا	گان کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		گان
+گان کرنا	گان کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		گان
+گانا	گانا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		گان
+گانا	گانے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		گان
+گانا	گانوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		گان
+گانا	گانو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		گان
+غلط کرنا	غلط کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		غلط
+غلط کرنا	غلط کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		غلط
+پستک	پستک	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				پستک
+پستک	پستکیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		پستک
+پستک	پستکوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		پستک
+پستک	پستکو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		پستک
+متر	متر	ur-decl-noun	NOUN	Case=Voc;Number=Sing				متر
+متر	متر	ur-decl-noun	NOUN	Case=Voc;Number=Sing				متر
+متر	متر	ur-decl-noun	NOUN	Case=Voc;Number=Sing				متر
+متر	متروں	ur-decl-noun	NOUN	Case=Acc;Number=Plur				متروں
+متر	متر	ur-decl-noun	NOUN	Case=Voc;Number=Sing				متر
+متر	مترو	ur-decl-noun	NOUN	Case=Voc;Number=Plur				مترو
+سوپن	سوپن	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				سوپن
+سوپن	سوپنوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		سوپن
+سوپن	سوپنو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		سوپن
+اٹھنا	اٹھنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		اٹھ
+اٹھنا	اٹھنے	ur-conj	VERB	VerbForm=Inf		نے		اٹھ
+اٹھانا	اٹھانا	ur-conj-v	VERB	VerbForm=Inf;VerbForm=Short		نا		اٹھا
+اٹھانا	اٹھانے	ur-conj-v	VERB	VerbForm=Inf		نے		اٹھا
+لڑکا	لڑکا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		لڑک
+لڑکا	لڑکے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		لڑک
+لڑکا	لڑکوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		لڑک
+لڑکا	لڑکو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		لڑک
+بیٹا	بیٹا	ur-decl-noun	NOUN	Case=Voc;Number=Sing				بیٹا
+بیٹا	بیٹے	ur-decl-noun	NOUN	Case=Voc;Number=Sing				بیٹے
+بیٹا	بیٹے	ur-decl-noun	NOUN	Case=Voc;Number=Sing				بیٹے
+بیٹا	بیٹوں	ur-decl-noun	NOUN	Case=Acc;Number=Plur				بیٹوں
+بیٹا	بیٹے	ur-decl-noun	NOUN	Case=Voc;Number=Sing				بیٹے
+بیٹا	بیٹو	ur-decl-noun	NOUN	Case=Voc;Number=Plur				بیٹو
+شبدکوش	شبدکوش	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				شبدکوش
+شبدکوش	شبدکوشوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		شبدکوش
+شبدکوش	شبدکوشو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		شبدکوش
+کھیلنا	کھیلنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		کھیل
+کھیلنا	کھیلنے	ur-conj	VERB	VerbForm=Inf		نے		کھیل
+گدھا	گدھا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		گدھ
+گدھا	گدھے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		گدھ
+گدھا	گدھوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		گدھ
+گدھا	گدھو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		گدھ
+اخروٹ	اخروٹ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				اخروٹ
+اخروٹ	اخروٹوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		اخروٹ
+اخروٹ	اخروٹو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		اخروٹ
+چڑھنا	چڑھنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		چڑھ
+چڑھنا	چڑھنے	ur-conj	VERB	VerbForm=Inf		نے		چڑھ
+شہر	شہر	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				شہر
+شہر	شہروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		شہر
+شہر	شہرو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		شہر
+بلبل	بلبل	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				بلبل
+بلبل	بلبلیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		بلبل
+بلبل	بلبلوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		بلبل
+بلبل	بلبلو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		بلبل
+میوہ	میوہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		میو
+میوہ	میوے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		میو
+میوہ	میووں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		میو
+میوہ	میوو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		میو
+حق	حق	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				حق
+حق	حقوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		حق
+حق	حقو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		حق
+دیوار	دیوار	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				دیوار
+دیوار	دیواروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		دیوار
+دیوار	دیوارو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		دیوار
+فکر	فكر	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				فكر
+فکر	فكریں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		فكر
+فکر	فكروں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		فكر
+فکر	فكرو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		فكر
+مذاکره	مذاکرہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		مذاکر
+مذاکره	مذاکرے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		مذاکر
+مذاکره	مذاکروں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		مذاکر
+مذاکره	مذاکرو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		مذاکر
+شراب	شراب	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				شراب
+شراب	شرابیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		شراب
+شراب	شرابوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		شراب
+شراب	شرابو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		شراب
+دیکھنا	دیکھنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		دیکھ
+دیکھنا	دیکھنے	ur-conj	VERB	VerbForm=Inf		نے		دیکھ
+جاسوس	جاسوس	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				جاسوس
+جاسوس	جاسوسوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		جاسوس
+جاسوس	جاسوسو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		جاسوس
+جانور	جانور	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				جانور
+جانور	جانوروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		جانور
+جانور	جانورو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		جانور
+امرود	امرود	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				امرود
+امرود	امرودوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		امرود
+امرود	امرودو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		امرود
+تارا	تارا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		تار
+تارا	تارے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		تار
+تارا	تاروں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		تار
+تارا	تارو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		تار
+حکومت	حکومت	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				حکومت
+حکومت	حکومتیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		حکومت
+حکومت	حکومتوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		حکومت
+حکومت	حکومتو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		حکومت
+ہوا	ہوا	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Sing		ا		ہو
+ہوا	ہوائیں	ur-noun-ā-āẽ	NOUN	Case=Nom;Number=Plur		ائیں		ہو
+ہوا	ہواؤں	ur-noun-ā-āẽ	NOUN	Case=Acc;Number=Plur		اؤں		ہو
+ہوا	ہواؤ	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Plur		اؤ		ہو
+کنارہ	کنارہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		کنار
+کنارہ	کنارے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		کنار
+کنارہ	کناروں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		کنار
+کنارہ	کنارو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		کنار
+ملک	ملک	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				ملک
+ملک	ملکوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		ملک
+ملک	ملکو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		ملک
+سراب	سراب	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				سراب
+سراب	سرابوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		سراب
+سراب	سرابو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		سراب
+بھی	بھی	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				بھی
+بھی	بھیوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		بھی
+بھی	بھیو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		بھی
+پتا	پتا	ur-noun-ā-ā	NOUN	Case=Voc;Number=Sing		ا		پت
+پتا	پتاؤں	ur-noun-ā-ā	NOUN	Case=Acc;Number=Plur		اؤں		پت
+پتا	پتاؤ	ur-noun-ā-ā	NOUN	Case=Voc;Number=Plur		اؤ		پت
+شریر	شریر	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				شریر
+شریر	شریروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		شریر
+شریر	شریرو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		شریر
+سفارت	سفارت	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				سفارت
+سفارت	سفارتوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		سفارت
+سفارت	سفارتو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		سفارت
+تلوار	تلوار	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				تلوار
+تلوار	تلواریں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		تلوار
+تلوار	تلواروں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		تلوار
+تلوار	تلوارو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		تلوار
+نر	نر	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				نر
+نر	نروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		نر
+نر	نرو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		نر
+جواب	جواب	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				جواب
+جواب	جوابوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		جواب
+جواب	جوابو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		جواب
+بھاشا	بھاشا	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Sing		ا		بھاش
+بھاشا	بھاشائیں	ur-noun-ā-āẽ	NOUN	Case=Nom;Number=Plur		ائیں		بھاش
+بھاشا	بھاشاؤں	ur-noun-ā-āẽ	NOUN	Case=Acc;Number=Plur		اؤں		بھاش
+بھاشا	بھاشاؤ	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Plur		اؤ		بھاش
+جیبھ	جیبھ	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				جیبھ
+جیبھ	جیبھیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		جیبھ
+جیبھ	جیبھوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		جیبھ
+جیبھ	جیبھو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		جیبھ
+جاننا	جاننا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		جان
+جاننا	جاننے	ur-conj	VERB	VerbForm=Inf		نے		جان
+جلنا	جلنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		جل
+جلنا	جلنے	ur-conj	VERB	VerbForm=Inf		نے		جل
+جلانا	جلانا	ur-conj-v	VERB	VerbForm=Inf;VerbForm=Short		نا		جلا
+جلانا	جلانے	ur-conj-v	VERB	VerbForm=Inf		نے		جلا
+عزت	عزت	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				عزت
+عزت	عزتیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		عزت
+عزت	عزتوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		عزت
+عزت	عزتو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		عزت
+سرپ	سرپ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				سرپ
+سرپ	سرپوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		سرپ
+سرپ	سرپو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		سرپ
+آتما	آتما	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Sing		ا		آتم
+آتما	آتمائیں	ur-noun-ā-āẽ	NOUN	Case=Nom;Number=Plur		ائیں		آتم
+آتما	آتماؤں	ur-noun-ā-āẽ	NOUN	Case=Acc;Number=Plur		اؤں		آتم
+آتما	آتماؤ	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Plur		اؤ		آتم
+بادل	بادل	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				بادل
+بادل	بادلوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		بادل
+بادل	بادلو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		بادل
+شاستر	شاستر	ur-noun-a-a	NOUN	Case=Voc;Number=Sing				شاستر
+شاستر	شاستروں	ur-noun-a-a	NOUN	Case=Acc;Number=Plur		وں		شاستر
+شاستر	شاسترو	ur-noun-a-a	NOUN	Case=Voc;Number=Plur		و		شاستر
+وگیان	وگیان	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				وگیان
+وگیان	وگیانوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		وگیان
+وگیان	وگیانو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		وگیان
+لیکھک	لیکھک	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				لیکھک
+لیکھک	لیکھکوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		لیکھک
+لیکھک	لیکھکو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		لیکھک
+روگ	روگ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				روگ
+روگ	روگوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		روگ
+روگ	روگو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		روگ
+دوڑنا	دوڑنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		دوڑ
+دوڑنا	دوڑنے	ur-conj	VERB	VerbForm=Inf		نے		دوڑ
+سوستک	سوستک	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				سوستک
+سوستک	سوستکوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		سوستک
+سوستک	سوستکو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		سوستک
+شبد	شبد	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				شبد
+شبد	شبدوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		شبد
+شبد	شبدو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		شبد
+بلا	بلا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		بل
+بلا	بلے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		بل
+بلا	بلوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		بل
+بلا	بلو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		بل
+لگنا	لگنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		لگ
+لگنا	لگنے	ur-conj	VERB	VerbForm=Inf		نے		لگ
+بشیشن	بشیشن	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				بشیشن
+بشیشن	بشیشنوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		بشیشن
+بشیشن	بشیشنو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		بشیشن
+چومنا	چومنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		چوم
+چومنا	چومنے	ur-conj	VERB	VerbForm=Inf		نے		چوم
+لکھنا	لکھنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		لکھ
+لکھنا	لکھنے	ur-conj	VERB	VerbForm=Inf		نے		لکھ
+بولنا	بولنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		بول
+بولنا	بولنے	ur-conj	VERB	VerbForm=Inf		نے		بول
+خریدنا	خریدنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		خرید
+خریدنا	خریدنے	ur-conj	VERB	VerbForm=Inf		نے		خرید
+پڑھنا	پڑھنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		پڑھ
+پڑھنا	پڑھنے	ur-conj	VERB	VerbForm=Inf		نے		پڑھ
+ہنسنا	ہنسنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		ہنس
+ہنسنا	ہنسنے	ur-conj	VERB	VerbForm=Inf		نے		ہنس
+سیکھنا	سیکھنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		سیکھ
+سیکھنا	سیکھنے	ur-conj	VERB	VerbForm=Inf		نے		سیکھ
+سوپن دیکھنا	سوپن دیکھنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		سوپن دیکھ
+سوپن دیکھنا	سوپن دیکھنے	ur-conj	VERB	VerbForm=Inf		نے		سوپن دیکھ
+سمجھنا	سمجھنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		سمجھ
+سمجھنا	سمجھنے	ur-conj	VERB	VerbForm=Inf		نے		سمجھ
+بٹورنا	بٹورنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		بٹور
+بٹورنا	بٹورنے	ur-conj	VERB	VerbForm=Inf		نے		بٹور
+وینجن	وینجن	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				وینجن
+وینجن	وینجنوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		وینجن
+وینجن	وینجنو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		وینجن
+پرمکھ	پرمکھ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				پرمکھ
+پرمکھ	پرمکھوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		پرمکھ
+پرمکھ	پرمکھو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		پرمکھ
+چاٹنا	چاٹنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		چاٹ
+چاٹنا	چاٹنے	ur-conj	VERB	VerbForm=Inf		نے		چاٹ
+اداہرن	اداہرن	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				اداہرن
+اداہرن	اداہرنوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		اداہرن
+اداہرن	اداہرنو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		اداہرن
+ختنہ کرنا	ختنہ کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		ختنہ
+ختنہ کرنا	ختنہ کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		ختنہ
+کوتا	کوتا	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Sing		ا		کوت
+کوتا	کوتائیں	ur-noun-ā-āẽ	NOUN	Case=Nom;Number=Plur		ائیں		کوت
+کوتا	کوتاؤں	ur-noun-ā-āẽ	NOUN	Case=Acc;Number=Plur		اؤں		کوت
+کوتا	کوتاؤ	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Plur		اؤ		کوت
+رات	رات	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				رات
+رات	راتیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		رات
+رات	راتوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		رات
+رات	راتو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		رات
+دھوج	دھوج	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				دھوج
+دھوج	دھوجوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		دھوج
+دھوج	دھوجو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		دھوج
+رکشا	رکشا	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Sing		ا		رکش
+رکشا	رکشائیں	ur-noun-ā-āẽ	NOUN	Case=Nom;Number=Plur		ائیں		رکش
+رکشا	رکشاؤں	ur-noun-ā-āẽ	NOUN	Case=Acc;Number=Plur		اؤں		رکش
+رکشا	رکشاؤ	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Plur		اؤ		رکش
+تفصیل	تفصیل	ur-decl-noun	NOUN	Case=Voc;Number=Sing				تفصیل
+تفصیل	تفاصیل	ur-decl-noun	NOUN	Case=Voc;Number=Sing				تفاصیل
+تفصیل	تفصیل	ur-decl-noun	NOUN	Case=Voc;Number=Sing				تفصیل
+تفصیل	تفصیلون	ur-decl-noun	NOUN	Case=Acc;Number=Plur				تفصیلون
+تفصیل	تفصیل	ur-decl-noun	NOUN	Case=Voc;Number=Sing				تفصیل
+تفصیل	تفصیلو	ur-decl-noun	NOUN	Case=Voc;Number=Plur				تفصیلو
+بارش	بارش	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				بارش
+بارش	بارشیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		بارش
+بارش	بارشوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		بارش
+بارش	بارشو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		بارش
+سکنا	سکنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		سک
+سکنا	سکنے	ur-conj	VERB	VerbForm=Inf		نے		سک
+صحرا	صحرا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		صحر
+صحرا	صحرے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		صحر
+صحرا	صحروں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		صحر
+صحرا	صحرو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		صحر
+انڈکوش	انڈکوش	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				انڈکوش
+انڈکوش	انڈکوشوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		انڈکوش
+انڈکوش	انڈکوشو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		انڈکوش
+اکھروٹ	اکھروٹ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				اکھروٹ
+اکھروٹ	اکھروٹوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		اکھروٹ
+اکھروٹ	اکھروٹو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		اکھروٹ
+ٹوٹنا	ٹوٹنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		ٹوٹ
+ٹوٹنا	ٹوٹنے	ur-conj	VERB	VerbForm=Inf		نے		ٹوٹ
+ہونٹھ	ہونٹھ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				ہونٹھ
+ہونٹھ	ہونٹھوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		ہونٹھ
+ہونٹھ	ہونٹھو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		ہونٹھ
+سڑک	سڑک	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				سڑک
+سڑک	سڑکیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		سڑک
+سڑک	سڑکوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		سڑک
+سڑک	سڑکو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		سڑک
+مٹنا	مٹنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		مٹ
+مٹنا	مٹنے	ur-conj	VERB	VerbForm=Inf		نے		مٹ
+مہاوت	مہاوت	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				مہاوت
+مہاوت	مہاوتوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		مہاوت
+مہاوت	مہاوتو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		مہاوت
+خراش	خراش	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				خراش
+خراش	خراشیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		خراش
+خراش	خراشوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		خراش
+خراش	خراشو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		خراش
+افزائش	افزائش	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				افزائش
+افزائش	افزائشیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		افزائش
+افزائش	افزائشوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		افزائش
+افزائش	افزائشو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		افزائش
+خلق	خلق	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				خلق
+خلق	خلقوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		خلق
+خلق	خلقو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		خلق
+خواہش	خواہش	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				خواہش
+خواہش	خواہشیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		خواہش
+خواہش	خواہشوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		خواہش
+خواہش	خواہشو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		خواہش
+پیاس	پیاس	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				پیاس
+پیاس	پیاسیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		پیاس
+پیاس	پیاسوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		پیاس
+پیاس	پیاسو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		پیاس
+پرستش	پرستش	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				پرستش
+پرستش	پرستشیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		پرستش
+پرستش	پرستشوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		پرستش
+پرستش	پرستشو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		پرستش
+پھل	پھل	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				پھل
+پھل	پھلوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		پھل
+پھل	پھلو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		پھل
+رونا	رونا	ur-conj-v	VERB	VerbForm=Inf;VerbForm=Short		نا		رو
+رونا	رونے	ur-conj-v	VERB	VerbForm=Inf		نے		رو
+منٹ	منٹ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				منٹ
+منٹ	منٹوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		منٹ
+منٹ	منٹو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		منٹ
+قصہ	قصہ	ur-decl-noun	NOUN	Case=Voc;Number=Sing				قصہ
+قصہ	قصے	ur-decl-noun	NOUN	Case=Voc;Number=Sing				قصے
+قصہ	قصہ	ur-decl-noun	NOUN	Case=Voc;Number=Sing				قصہ
+قصہ	قصوں	ur-decl-noun	NOUN	Case=Acc;Number=Plur				قصوں
+قصہ	قصے	ur-decl-noun	NOUN	Case=Voc;Number=Sing				قصے
+قصہ	قصو	ur-decl-noun	NOUN	Case=Voc;Number=Plur				قصو
+سانس	سانس	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				سانس
+سانس	سانسیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		سانس
+سانس	سانسوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		سانس
+سانس	سانسو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		سانس
+سہمنا	سہمنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		سہم
+سہمنا	سہمنے	ur-conj	VERB	VerbForm=Inf		نے		سہم
+سہمانا	سہمانا	ur-conj-v	VERB	VerbForm=Inf;VerbForm=Short		نا		سہما
+سہمانا	سہمانے	ur-conj-v	VERB	VerbForm=Inf		نے		سہما
+جاگنا	جاگنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		جاگ
+جاگنا	جاگنے	ur-conj	VERB	VerbForm=Inf		نے		جاگ
+جھکنا	جھکنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		جھک
+جھکنا	جھکنے	ur-conj	VERB	VerbForm=Inf		نے		جھک
+سجدہ	سجدہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		سجد
+سجدہ	سجدے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		سجد
+سجدہ	سجدوں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		سجد
+سجدہ	سجدو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		سجد
+دنگا	دنگاا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		دنگا
+دنگا	دنگاے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		دنگا
+دنگا	دنگاوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		دنگا
+دنگا	دنگاو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		دنگا
+لوٹنا	لوٹنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		لوٹ
+لوٹنا	لوٹنے	ur-conj	VERB	VerbForm=Inf		نے		لوٹ
+صوبہ	صوبہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		صوب
+صوبہ	صوبے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		صوب
+صوبہ	صوبوں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		صوب
+صوبہ	صوبو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		صوب
+حملہ	حملہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		حمل
+حملہ	حملے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		حمل
+حملہ	حملوں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		حمل
+حملہ	حملو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		حمل
+بہنا	بہنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		بہ
+بہنا	بہنے	ur-conj	VERB	VerbForm=Inf		نے		بہ
+راستہ	راستہ	ur-decl-noun	NOUN	Case=Voc;Number=Sing				راستہ
+راستہ	راستے	ur-decl-noun	NOUN	Case=Voc;Number=Sing				راستے
+راستہ	راستہ	ur-decl-noun	NOUN	Case=Voc;Number=Sing				راستہ
+راستہ	راستوں	ur-decl-noun	NOUN	Case=Acc;Number=Plur				راستوں
+راستہ	راستہ	ur-decl-noun	NOUN	Case=Voc;Number=Sing				راستہ
+راستہ	راستو	ur-decl-noun	NOUN	Case=Voc;Number=Plur				راستو
+دھندھا	دھندھا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		دھندھ
+دھندھا	دھندھے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		دھندھ
+دھندھا	دھندھوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		دھندھ
+دھندھا	دھندھو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		دھندھ
+تماشہ	تماشہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		تماش
+تماشہ	تماشے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		تماش
+تماشہ	تماشوں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		تماش
+تماشہ	تماشو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		تماش
+پایہ	پایہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		پای
+پایہ	پایے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		پای
+پایہ	پایوں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		پای
+پایہ	پایو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		پای
+برداشت کرنا	برداشت کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		برداشت
+برداشت کرنا	برداشت کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		برداشت
+حکمت	حکمت	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				حکمت
+حکمت	حکمتیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		حکمت
+حکمت	حکمتوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		حکمت
+حکمت	حکمتو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		حکمت
+سالگرہ	سالگرہ	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				سالگرہ
+سالگرہ	سالگرہیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		سالگرہ
+سالگرہ	سالگرہوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		سالگرہ
+سالگرہ	سالگرہو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		سالگرہ
+سرکار	سرکار	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				سرکار
+سرکار	سرکاریں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		سرکار
+سرکار	سرکاروں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		سرکار
+سرکار	سرکارو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		سرکار
+ساکھ	ساکھ	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				ساکھ
+ساکھ	ساکھیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		ساکھ
+ساکھ	ساکھوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		ساکھ
+ساکھ	ساکھو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		ساکھ
+نشانہ	نشانہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		نشان
+نشانہ	نشانے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		نشان
+نشانہ	نشانوں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		نشان
+نشانہ	نشانو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		نشان
+مادری زبان	مادری زبان	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				مادری زبان
+مادری زبان	مادری زبانیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		مادری زبان
+مادری زبان	مادری زبانوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		مادری زبان
+مادری زبان	مادری زبانو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		مادری زبان
+ایسی تیسی کرنا	ایسی تیسی کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		ایسی تیسی
+ایسی تیسی کرنا	ایسی تیسی کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		ایسی تیسی
+سدھار	سدھار	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				سدھار
+سدھار	سدھاروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		سدھار
+سدھار	سدھارو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		سدھار
+سوداگر	سوداگر	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				سوداگر
+سوداگر	سوداگروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		سوداگر
+سوداگر	سوداگرو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		سوداگر
+جھگڑا	جھگڑا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		جھگڑ
+جھگڑا	جھگڑے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		جھگڑ
+جھگڑا	جھگڑوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		جھگڑ
+جھگڑا	جھگڑو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		جھگڑ
+قیدخانہ	قید خاہہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		قید خاہ
+قیدخانہ	قید خاہے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		قید خاہ
+قیدخانہ	قید خاہوں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		قید خاہ
+قیدخانہ	قید خاہو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		قید خاہ
+بند کرنا	بند کرنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		بند کر
+بند کرنا	بند کرنے	ur-conj	VERB	VerbForm=Inf		نے		بند کر
+پہنچنا	پہنچنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		پہنچ
+پہنچنا	پہنچنے	ur-conj	VERB	VerbForm=Inf		نے		پہنچ
+حفاظت	حفاظت	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				حفاظت
+حفاظت	حفاظتیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		حفاظت
+حفاظت	حفاظتوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		حفاظت
+حفاظت	حفاظتو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		حفاظت
+بھکت	بھکت	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				بھکت
+بھکت	بھکتوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		بھکت
+بھکت	بھکتو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		بھکت
+فیصلہ	فیصلہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		فیصل
+فیصلہ	فیصلے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		فیصل
+فیصلہ	فیصلوں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		فیصل
+فیصلہ	فیصلو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		فیصل
+مارگ	مارگ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				مارگ
+مارگ	مارگوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		مارگ
+مارگ	مارگو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		مارگ
+ہنسا	ہنسا	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Sing		ا		ہنس
+ہنسا	ہنسائیں	ur-noun-ā-āẽ	NOUN	Case=Nom;Number=Plur		ائیں		ہنس
+ہنسا	ہنساؤں	ur-noun-ā-āẽ	NOUN	Case=Acc;Number=Plur		اؤں		ہنس
+ہنسا	ہنساؤ	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Plur		اؤ		ہنس
+برسات	برسات	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				برسات
+برسات	برساتیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		برسات
+برسات	برساتوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		برسات
+برسات	برساتو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		برسات
+عیش کرنا	عیش کرنا	ur-conj-karna	VERB	VerbForm=Inf;VerbForm=Short		 کرنا		عیش
+عیش کرنا	عیش کرنے	ur-conj-karna	VERB	VerbForm=Inf		 کرنے		عیش
+دکھانا	دکھانا	ur-conj-v	VERB	VerbForm=Inf;VerbForm=Short		نا		دکھا
+دکھانا	دکھانے	ur-conj-v	VERB	VerbForm=Inf		نے		دکھا
+ناخدا	ناخدا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		ناخد
+ناخدا	ناخدے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		ناخد
+ناخدا	ناخدوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		ناخد
+ناخدا	ناخدو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		ناخد
+حالت		ur-decl-noun	NOUN	Case=Voc;Number=Sing				
+حالت		ur-decl-noun	NOUN	Case=Voc;Number=Sing				
+حالت		ur-decl-noun	NOUN	Case=Voc;Number=Sing				
+حالت		ur-decl-noun	NOUN	Case=Acc;Number=Plur				
+حالت		ur-decl-noun	NOUN	Case=Voc;Number=Sing				
+حالت		ur-decl-noun	NOUN	Case=Voc;Number=Plur				
+آستین	آستین	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				آستین
+آستین	آستینیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		آستین
+آستین	آستینوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		آستین
+آستین	آستینو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		آستین
+اتحاد	اتحاد	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				اتحاد
+اتحاد	اتحادوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		اتحاد
+اتحاد	اتحادو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		اتحاد
+نواب	نواب	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				نواب
+نواب	نوابوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		نواب
+نواب	نوابو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		نواب
+تكميل	تكميل	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				تكميل
+تكميل	تكميلیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		تكميل
+تكميل	تكميلوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		تكميل
+تكميل	تكميلو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		تكميل
+خدمت	خدمت	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				خدمت
+خدمت	خدمتیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		خدمت
+خدمت	خدمتوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		خدمت
+خدمت	خدمتو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		خدمت
+برتن	برتن	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				برتن
+برتن	برتنوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		برتن
+برتن	برتنو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		برتن
+جوہر	جوہر	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				جوہر
+جوہر	جوہروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		جوہر
+جوہر	جوہرو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		جوہر
+طور	طور	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				طور
+طور	طوروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		طور
+طور	طورو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		طور
+ملانا	ملانا	ur-conj-v	VERB	VerbForm=Inf;VerbForm=Short		نا		ملا
+ملانا	ملانے	ur-conj-v	VERB	VerbForm=Inf		نے		ملا
+مالا	مالا	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Sing		ا		مال
+مالا	مالائیں	ur-noun-ā-āẽ	NOUN	Case=Nom;Number=Plur		ائیں		مال
+مالا	مالاؤں	ur-noun-ā-āẽ	NOUN	Case=Acc;Number=Plur		اؤں		مال
+مالا	مالاؤ	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Plur		اؤ		مال
+جپنا	جپنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		جپ
+جپنا	جپنے	ur-conj	VERB	VerbForm=Inf		نے		جپ
+کمرہ	کمرا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		کمر
+کمرہ	کمرے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		کمر
+کمرہ	کمروں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		کمر
+کمرہ	کمرو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		کمر
+کانٹا	کانٹا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		کانٹ
+کانٹا	کانٹے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		کانٹ
+کانٹا	کانٹوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		کانٹ
+کانٹا	کانٹو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		کانٹ
+الہام	الہام	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				الہام
+الہام	الہاموں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		الہام
+الہام	الہامو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		الہام
+عنایت		ur-decl-noun	NOUN	Case=Voc;Number=Sing				
+عنایت		ur-decl-noun	NOUN	Case=Voc;Number=Sing				
+عنایت		ur-decl-noun	NOUN	Case=Voc;Number=Sing				
+عنایت		ur-decl-noun	NOUN	Case=Acc;Number=Plur				
+عنایت		ur-decl-noun	NOUN	Case=Voc;Number=Sing				
+عنایت		ur-decl-noun	NOUN	Case=Voc;Number=Plur				
+سنجها	سنجها	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Sing		ا		سنجه
+سنجها	سنجهائیں	ur-noun-ā-āẽ	NOUN	Case=Nom;Number=Plur		ائیں		سنجه
+سنجها	سنجهاؤں	ur-noun-ā-āẽ	NOUN	Case=Acc;Number=Plur		اؤں		سنجه
+سنجها	سنجهاؤ	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Plur		اؤ		سنجه
+ہانکنا	ہانکنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		ہانک
+ہانکنا	ہانکنے	ur-conj	VERB	VerbForm=Inf		نے		ہانک
+دھارا	دھارا	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Sing		ا		دھار
+دھارا	دھارائیں	ur-noun-ā-āẽ	NOUN	Case=Nom;Number=Plur		ائیں		دھار
+دھارا	دھاراؤں	ur-noun-ā-āẽ	NOUN	Case=Acc;Number=Plur		اؤں		دھار
+دھارا	دھاراؤ	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Plur		اؤ		دھار
+پن ہارا	پن ہارا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		پن ہار
+پن ہارا	پن ہارے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		پن ہار
+پن ہارا	پن ہاروں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		پن ہار
+پن ہارا	پن ہارو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		پن ہار
+منتظم	منتظم	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				منتظم
+منتظم	منتظموں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		منتظم
+منتظم	منتظمو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		منتظم
+کھولنا	کھولنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		کھول
+کھولنا	کھولنے	ur-conj	VERB	VerbForm=Inf		نے		کھول
+بات کرنا	بات کرنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		بات کر
+بات کرنا	بات کرنے	ur-conj	VERB	VerbForm=Inf		نے		بات کر
+کاٹنا	کاٹنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		کاٹ
+کاٹنا	کاٹنے	ur-conj	VERB	VerbForm=Inf		نے		کاٹ
+روزن	روزن	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				روزن
+روزن	روزنوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		روزن
+روزن	روزنو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		روزن
+راکھی	راکھی	ur-decl-noun	NOUN	Case=Voc;Number=Sing				راکھی
+راکھی	راکھی	ur-decl-noun	NOUN	Case=Voc;Number=Sing				راکھی
+راکھی	راکھی	ur-decl-noun	NOUN	Case=Voc;Number=Sing				راکھی
+راکھی	راکھیوں	ur-decl-noun	NOUN	Case=Acc;Number=Plur				راکھیوں
+راکھی	راکھی	ur-decl-noun	NOUN	Case=Voc;Number=Sing				راکھی
+راکھی	راکھیو	ur-decl-noun	NOUN	Case=Voc;Number=Plur				راکھیو
+احباب	احباب	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				احباب
+احباب	احبابوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		احباب
+احباب	احبابو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		احباب
+ایشور	ایشور	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				ایشور
+ایشور	ایشوروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		ایشور
+ایشور	ایشورو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		ایشور
+تیرتھ	تیرتھ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				تیرتھ
+تیرتھ	تیرتھوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		تیرتھ
+تیرتھ	تیرتھو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		تیرتھ
+کیلکولیٹر	کیلکولیٹر	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				کیلکولیٹر
+کیلکولیٹر	کیلکولیٹروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		کیلکولیٹر
+کیلکولیٹر	کیلکولیٹرو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		کیلکولیٹر
+دراڑ	دراڑ	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				دراڑ
+دراڑ	دراڑیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		دراڑ
+دراڑ	دراڑوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		دراڑ
+دراڑ	دراڑو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		دراڑ
+مجرم	مجرم	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				مجرم
+مجرم	مجرموں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		مجرم
+مجرم	مجرمو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		مجرم
+قبول کرنا	قبول کرنا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		قبول کر
+قبول کرنا	قبول کرنے	ur-conj	VERB	VerbForm=Inf		نے		قبول کر
+ایجنٹ	ایجنٹ	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				ایجنٹ
+ایجنٹ	ایجنٹوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		ایجنٹ
+ایجنٹ	ایجنٹو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		ایجنٹ
+خاتمہ	خاتمہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		خاتم
+خاتمہ	خاتمے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		خاتم
+خاتمہ	خاتموں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		خاتم
+خاتمہ	خاتمو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		خاتم
+رابطہ	رابطہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		رابط
+رابطہ	رابطے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		رابط
+رابطہ	رابطوں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		رابط
+رابطہ	رابطو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		رابط
+سپنا	سپنا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		سپن
+سپنا	سپنے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		سپن
+سپنا	سپنوں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		سپن
+سپنا	سپنو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		سپن
+بنانا	بنانا	ur-conj	VERB	VerbForm=Inf;VerbForm=Short		نا		بنا
+بنانا	بنانے	ur-conj	VERB	VerbForm=Inf		نے		بنا
+بھاگنا	بھاگنا	ur-conj-v	VERB	VerbForm=Inf;VerbForm=Short		نا		بھاگ
+بھاگنا	بھاگنے	ur-conj-v	VERB	VerbForm=Inf		نے		بھاگ
+کلاونت	کلاونت	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				کلاونت
+کلاونت	کلاونتوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		کلاونت
+کلاونت	کلاونتو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		کلاونت
+ثقافت	ثقافت	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				ثقافت
+ثقافت	ثقافتیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		ثقافت
+ثقافت	ثقافتوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		ثقافت
+ثقافت	ثقافتو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		ثقافت
+ابابیل	ابابیل	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				ابابیل
+ابابیل	ابابیلوں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		ابابیل
+ابابیل	ابابیلو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		ابابیل
+بکرا	بکرا	ur-noun-ā-e	NOUN	Case=Nom;Number=Sing		ا		بکر
+بکرا	بکرے	ur-noun-ā-e	NOUN	Case=Voc;Number=Sing		ے		بکر
+بکرا	بکروں	ur-noun-ā-e	NOUN	Case=Acc;Number=Plur		وں		بکر
+بکرا	بکرو	ur-noun-ā-e	NOUN	Case=Voc;Number=Plur		و		بکر
+پریت	پریت	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Sing				پریت
+پریت	پریتیں	ur-noun-c-ẽ	NOUN	Case=Nom;Number=Plur		یں		پریت
+پریت	پریتوں	ur-noun-c-ẽ	NOUN	Case=Acc;Number=Plur		وں		پریت
+پریت	پریتو	ur-noun-c-ẽ	NOUN	Case=Voc;Number=Plur		و		پریت
+پرشنسا	پررشنسا	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Sing		ا		پررشنس
+پرشنسا	پررشنسائیں	ur-noun-ā-āẽ	NOUN	Case=Nom;Number=Plur		ائیں		پررشنس
+پرشنسا	پررشنساؤں	ur-noun-ā-āẽ	NOUN	Case=Acc;Number=Plur		اؤں		پررشنس
+پرشنسا	پررشنساؤ	ur-noun-ā-āẽ	NOUN	Case=Voc;Number=Plur		اؤ		پررشنس
+خربوزہ	خربوزہ	ur-noun-ah-e	NOUN	Case=Nom;Number=Sing		ہ		خربوز
+خربوزہ	خربوزے	ur-noun-ah-e	NOUN	Case=Voc;Number=Sing		ے		خربوز
+خربوزہ	خربوزوں	ur-noun-ah-e	NOUN	Case=Acc;Number=Plur		وں		خربوز
+خربوزہ	خربوزو	ur-noun-ah-e	NOUN	Case=Voc;Number=Plur		و		خربوز
+کھجور	کھجور	ur-noun-c-c	NOUN	Case=Voc;Number=Sing				کھجور
+کھجور	کھجوروں	ur-noun-c-c	NOUN	Case=Acc;Number=Plur		وں		کھجور
+کھجور	کھجورو	ur-noun-c-c	NOUN	Case=Voc;Number=Plur		و		کھجور
