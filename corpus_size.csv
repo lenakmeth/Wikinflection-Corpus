@@ -1,4 +1,4 @@
-Language	ISO	Words	Lemmas
+Language	ISO 639-3	Words	Lemmas
 Adyghe	ady	56	4
 Old English	ang	56833	4332
 Arabic	ara	36	6
@@ -6,7 +6,7 @@ Asturian	ast	30141	373
 Belarusian	bel	378	35
 Tibetan	bod	24	8
 Bulgarian	bul	344	108
-Catalan, Valencian	cat	2042	28
+Catalan	cat	2042	28
 Czech	ces	32	3
 Church Slavic	chu	1252	124
 Welsh	cym	25423	401
@@ -32,7 +32,7 @@ Hungarian	hun	467958	24099
 Armenian	hye	3715	317
 Icelandic	isl	488	88
 Ingrian	izh	19712	64
-Kalaallisut, Greenlandic	kal	544	34
+Kalaallisut	kal	544	34
 Kannada	kan	9	3
 Georgian	kat	73833	3978
 Kazakh	kaz	1281	183
@@ -56,7 +56,7 @@ Romanian	ron	7879	1507
 Old Irish	sga	752	88
 Slovenian	slv	113	15
 Northern Sami	sme	45693	3460
-Spanish, Castilian	spa	712070	7277
+Spanish	spa	712070	7277
 Albanian	sqi	7307	207
 Swedish	swe	14891	1761
 Classic Syriac	syc	58676	1692
