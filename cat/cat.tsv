@@ -41,7 +41,7 @@ valer	valguessis	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing		gue
 valer	valguéssim	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		val
 valer	valguéssiu	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		val
 valer	valguessin	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		val
-valer	valent	ca-conj-dre2	VERB	Tense=Pres		ent		val
+valer	valent	ca-conj-dre2	VERB	Tense=Pres;VerbForm=Part		ent		val
 valer	valgut	ca-conj-dre2	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		val
 valer	valguts	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		val
 valer	valgudes	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Fem		gudes		val
@@ -84,7 +84,7 @@ valer	valguéssim	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		gu
 valer	valguéssiu	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		val
 valer	valguessin	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		val
 contenir	contenir	ca-conj-ir-tenir	VERB	VerbForm=Inf		ir		conten
-contenir	contenint	ca-conj-ir-tenir	VERB	Tense=Pres		int		conten
+contenir	contenint	ca-conj-ir-tenir	VERB	Tense=Pres;VerbForm=Part		int		conten
 contenir	contingut	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		contin
 contenir	continguda	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Fem		guda		contin
 contenir	continguts	ca-conj-ir-tenir	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		contin
@@ -128,7 +128,7 @@ contenir	continguéssim	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=1;Numbe
 contenir	continguéssiu	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		contin
 contenir	continguessin	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		contin
 contenir	contenir	ca-conj-ir-tenir	VERB	VerbForm=Inf		ir		conten
-contenir	contenint	ca-conj-ir-tenir	VERB	Tense=Pres		int		conten
+contenir	contenint	ca-conj-ir-tenir	VERB	Tense=Pres;VerbForm=Part		int		conten
 contenir	contingut	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		contin
 contenir	continguda	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Fem		guda		contin
 contenir	continguts	ca-conj-ir-tenir	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		contin
@@ -172,7 +172,7 @@ contenir	continguéssim	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=1;Numbe
 contenir	continguéssiu	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		contin
 contenir	continguessin	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		contin
 retenir	retenir	ca-conj-ir-tenir	VERB	VerbForm=Inf		ir		reten
-retenir	retenint	ca-conj-ir-tenir	VERB	Tense=Pres		int		reten
+retenir	retenint	ca-conj-ir-tenir	VERB	Tense=Pres;VerbForm=Part		int		reten
 retenir	retingut	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		retin
 retenir	retinguda	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Fem		guda		retin
 retenir	retinguts	ca-conj-ir-tenir	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		retin
@@ -216,7 +216,7 @@ retenir	retinguéssim	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=1;Number=
 retenir	retinguéssiu	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		retin
 retenir	retinguessin	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		retin
 retenir	retenir	ca-conj-ir-tenir	VERB	VerbForm=Inf		ir		reten
-retenir	retenint	ca-conj-ir-tenir	VERB	Tense=Pres		int		reten
+retenir	retenint	ca-conj-ir-tenir	VERB	Tense=Pres;VerbForm=Part		int		reten
 retenir	retingut	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		retin
 retenir	retinguda	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Fem		guda		retin
 retenir	retinguts	ca-conj-ir-tenir	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		retin
@@ -260,7 +260,7 @@ retenir	retinguéssim	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=1;Number=
 retenir	retinguéssiu	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		retin
 retenir	retinguessin	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		retin
 jeure	jaure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		ja
-jeure	jaient	ca-conj-ure-ia	VERB	Tense=Pres		ient		ja
+jeure	jaient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		ja
 jeure	jac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		ja
 jeure	jaus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		ja
 jeure	jau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		ja
@@ -299,7 +299,7 @@ jeure	jaguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing		gu
 jeure	jaguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		ja
 jeure	jaguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		ja
 jeure	jaguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		ja
-jeure	jaient	ca-conj-ure-ia	VERB	Tense=Pres		ient		ja
+jeure	jaient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		ja
 jeure	jaiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		ja
 jeure	jaieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		ja
 jeure	jeia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		j
@@ -332,7 +332,7 @@ jeure	jaguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		g
 jeure	jaguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		ja
 jeure	jaguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		ja
 treure	traure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		tra
-treure	traient	ca-conj-ure-ia	VERB	Tense=Pres		ient		tra
+treure	traient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		tra
 treure	trac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		tra
 treure	traus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		tra
 treure	trau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		tra
@@ -371,7 +371,7 @@ treure	traguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing		
 treure	traguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		tra
 treure	traguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		tra
 treure	traguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		tra
-treure	traient	ca-conj-ure-ia	VERB	Tense=Pres		ient		tra
+treure	traient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		tra
 treure	traiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		tra
 treure	traieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		tra
 treure	treia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		tr
@@ -404,7 +404,7 @@ treure	traguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur	
 treure	traguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		tra
 treure	traguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		tra
 creure	creure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		cre
-creure	creient	ca-conj-ure-ia	VERB	Tense=Pres		ient		cre
+creure	creient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		cre
 creure	crec	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		cre
 creure	creus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		cre
 creure	creu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		cre
@@ -443,7 +443,7 @@ creure	creguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing		
 creure	creguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		cre
 creure	creguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		cre
 creure	creguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		cre
-creure	creient	ca-conj-ure-ia	VERB	Tense=Pres		ient		cre
+creure	creient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		cre
 creure	creiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		cre
 creure	creieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		cre
 creure	creia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		cr
@@ -476,7 +476,7 @@ creure	creguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur	
 creure	creguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		cre
 creure	creguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		cre
 jaure	jaure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		ja
-jaure	jaient	ca-conj-ure-ia	VERB	Tense=Pres		ient		ja
+jaure	jaient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		ja
 jaure	jac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		ja
 jaure	jaus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		ja
 jaure	jau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		ja
@@ -515,7 +515,7 @@ jaure	jaguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing		gu
 jaure	jaguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		ja
 jaure	jaguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		ja
 jaure	jaguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		ja
-jaure	jaient	ca-conj-ure-ia	VERB	Tense=Pres		ient		ja
+jaure	jaient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		ja
 jaure	jaiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		ja
 jaure	jaieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		ja
 jaure	jeia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		j
@@ -548,7 +548,7 @@ jaure	jaguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		g
 jaure	jaguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		ja
 jaure	jaguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		ja
 riure	riure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		ri
-riure	riient	ca-conj-ure-ia	VERB	Tense=Pres		ient		ri
+riure	riient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		ri
 riure	ric	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		ri
 riure	rius	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		ri
 riure	riu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		ri
@@ -587,7 +587,7 @@ riure	riguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing		gu
 riure	riguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		ri
 riure	riguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		ri
 riure	riguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		ri
-riure	riient	ca-conj-ure-ia	VERB	Tense=Pres		ient		ri
+riure	riient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		ri
 riure	riiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		ri
 riure	riieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		ri
 riure	reia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		r
@@ -620,7 +620,7 @@ riure	riguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		g
 riure	riguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		ri
 riure	riguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		ri
 traure	traure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		tra
-traure	traient	ca-conj-ure-ia	VERB	Tense=Pres		ient		tra
+traure	traient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		tra
 traure	trac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		tra
 traure	traus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		tra
 traure	trau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		tra
@@ -659,7 +659,7 @@ traure	traguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing		
 traure	traguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		tra
 traure	traguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		tra
 traure	traguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		tra
-traure	traient	ca-conj-ure-ia	VERB	Tense=Pres		ient		tra
+traure	traient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		tra
 traure	traiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		tra
 traure	traieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		tra
 traure	treia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		tr
@@ -692,7 +692,7 @@ traure	traguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur	
 traure	traguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		tra
 traure	traguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		tra
 abstenir	abstenir	ca-conj-ir-tenir	VERB	VerbForm=Inf		ir		absten
-abstenir	abstenint	ca-conj-ir-tenir	VERB	Tense=Pres		int		absten
+abstenir	abstenint	ca-conj-ir-tenir	VERB	Tense=Pres;VerbForm=Part		int		absten
 abstenir	abstingut	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		abstin
 abstenir	abstinguda	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Fem		guda		abstin
 abstenir	abstinguts	ca-conj-ir-tenir	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		abstin
@@ -736,7 +736,7 @@ abstenir	abstinguéssim	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=1;Numbe
 abstenir	abstinguéssiu	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		abstin
 abstenir	abstinguessin	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		abstin
 abstenir	abstenir	ca-conj-ir-tenir	VERB	VerbForm=Inf		ir		absten
-abstenir	abstenint	ca-conj-ir-tenir	VERB	Tense=Pres		int		absten
+abstenir	abstenint	ca-conj-ir-tenir	VERB	Tense=Pres;VerbForm=Part		int		absten
 abstenir	abstingut	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		abstin
 abstenir	abstinguda	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Fem		guda		abstin
 abstenir	abstinguts	ca-conj-ir-tenir	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		abstin
@@ -780,7 +780,7 @@ abstenir	abstinguéssim	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=1;Numbe
 abstenir	abstinguéssiu	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		abstin
 abstenir	abstinguessin	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		abstin
 entretenir	entretenir	ca-conj-ir-tenir	VERB	VerbForm=Inf		ir		entreten
-entretenir	entretenint	ca-conj-ir-tenir	VERB	Tense=Pres		int		entreten
+entretenir	entretenint	ca-conj-ir-tenir	VERB	Tense=Pres;VerbForm=Part		int		entreten
 entretenir	entretingut	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		entretin
 entretenir	entretinguda	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Fem		guda		entretin
 entretenir	entretinguts	ca-conj-ir-tenir	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		entretin
@@ -824,7 +824,7 @@ entretenir	entretinguéssim	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=1;N
 entretenir	entretinguéssiu	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		entretin
 entretenir	entretinguessin	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		entretin
 entretenir	entretenir	ca-conj-ir-tenir	VERB	VerbForm=Inf		ir		entreten
-entretenir	entretenint	ca-conj-ir-tenir	VERB	Tense=Pres		int		entreten
+entretenir	entretenint	ca-conj-ir-tenir	VERB	Tense=Pres;VerbForm=Part		int		entreten
 entretenir	entretingut	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		entretin
 entretenir	entretinguda	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Fem		guda		entretin
 entretenir	entretinguts	ca-conj-ir-tenir	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		entretin
@@ -867,7 +867,7 @@ entretenir	entretinguessis	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Nu
 entretenir	entretinguéssim	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		entretin
 entretenir	entretinguéssiu	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		entretin
 entretenir	entretinguessin	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		entretin
-equivaler	equivalent	ca-conj-dre2	VERB	Tense=Pres		ent		equival
+equivaler	equivalent	ca-conj-dre2	VERB	Tense=Pres;VerbForm=Part		ent		equival
 equivaler	equivalgut	ca-conj-dre2	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		equival
 equivaler	equivalguts	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		equival
 equivaler	equivalgudes	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Fem		gudes		equival
@@ -909,7 +909,7 @@ equivaler	equivalguessis	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=2;Number=S
 equivaler	equivalguéssim	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		equival
 equivaler	equivalguéssiu	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		equival
 equivaler	equivalguessin	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		equival
-equivaler	equivalent	ca-conj-dre2	VERB	Tense=Pres		ent		equival
+equivaler	equivalent	ca-conj-dre2	VERB	Tense=Pres;VerbForm=Part		ent		equival
 equivaler	equivalgut	ca-conj-dre2	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		equival
 equivaler	equivalguts	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		equival
 equivaler	equivalgudes	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Fem		gudes		equival
@@ -952,7 +952,7 @@ equivaler	equivalguéssim	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=1;Number=
 equivaler	equivalguéssiu	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		equival
 equivaler	equivalguessin	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		equival
 somriure	somriure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		somri
-somriure	somriient	ca-conj-ure-ia	VERB	Tense=Pres		ient		somri
+somriure	somriient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		somri
 somriure	somric	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		somri
 somriure	somrius	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		somri
 somriure	somriu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		somri
@@ -991,7 +991,7 @@ somriure	somriguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Si
 somriure	somriguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		somri
 somriure	somriguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		somri
 somriure	somriguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		somri
-somriure	somriient	ca-conj-ure-ia	VERB	Tense=Pres		ient		somri
+somriure	somriient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		somri
 somriure	somriiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		somri
 somriure	somriieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		somri
 somriure	somreia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		somr
@@ -1024,7 +1024,7 @@ somriure	somriguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=P
 somriure	somriguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		somri
 somriure	somriguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		somri
 mantenir	mantenir	ca-conj-ir-tenir	VERB	VerbForm=Inf		ir		manten
-mantenir	mantenint	ca-conj-ir-tenir	VERB	Tense=Pres		int		manten
+mantenir	mantenint	ca-conj-ir-tenir	VERB	Tense=Pres;VerbForm=Part		int		manten
 mantenir	mantingut	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		mantin
 mantenir	mantinguda	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Fem		guda		mantin
 mantenir	mantinguts	ca-conj-ir-tenir	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		mantin
@@ -1068,7 +1068,7 @@ mantenir	mantinguéssim	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=1;Numbe
 mantenir	mantinguéssiu	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		mantin
 mantenir	mantinguessin	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		mantin
 distreure	distraure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		distra
-distreure	distraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		distra
+distreure	distraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		distra
 distreure	distrac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		distra
 distreure	distraus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		distra
 distreure	distrau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		distra
@@ -1107,7 +1107,7 @@ distreure	distraguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=
 distreure	distraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		distra
 distreure	distraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		distra
 distreure	distraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		distra
-distreure	distraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		distra
+distreure	distraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		distra
 distreure	distraiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		distra
 distreure	distraieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		distra
 distreure	distreia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		distr
@@ -1140,7 +1140,7 @@ distreure	distraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number
 distreure	distraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		distra
 distreure	distraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		distra
 seure	seure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		se
-seure	seient	ca-conj-ure-ia	VERB	Tense=Pres		ient		se
+seure	seient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		se
 seure	sec	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		se
 seure	seus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		se
 seure	seu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		se
@@ -1179,7 +1179,7 @@ seure	seguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing		gu
 seure	seguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		se
 seure	seguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		se
 seure	seguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		se
-seure	seient	ca-conj-ure-ia	VERB	Tense=Pres		ient		se
+seure	seient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		se
 seure	seiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		se
 seure	seieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		se
 seure	seia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		s
@@ -1212,7 +1212,7 @@ seure	seguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		g
 seure	seguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		se
 seure	seguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		se
 asseure	asseure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		asse
-asseure	asseient	ca-conj-ure-ia	VERB	Tense=Pres		ient		asse
+asseure	asseient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		asse
 asseure	assec	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		asse
 asseure	asseus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		asse
 asseure	asseu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		asse
@@ -1251,7 +1251,7 @@ asseure	asseguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing
 asseure	asseguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		asse
 asseure	asseguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		asse
 asseure	asseguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		asse
-asseure	asseient	ca-conj-ure-ia	VERB	Tense=Pres		ient		asse
+asseure	asseient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		asse
 asseure	asseiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		asse
 asseure	asseieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		asse
 asseure	asseia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		ass
@@ -1284,7 +1284,7 @@ asseure	asseguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plu
 asseure	asseguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		asse
 asseure	asseguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		asse
 asseure's	asseure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		asse
-asseure's	asseient	ca-conj-ure-ia	VERB	Tense=Pres		ient		asse
+asseure's	asseient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		asse
 asseure's	assec	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		asse
 asseure's	asseus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		asse
 asseure's	asseu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		asse
@@ -1323,7 +1323,7 @@ asseure's	asseguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Si
 asseure's	asseguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		asse
 asseure's	asseguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		asse
 asseure's	asseguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		asse
-asseure's	asseient	ca-conj-ure-ia	VERB	Tense=Pres		ient		asse
+asseure's	asseient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		asse
 asseure's	asseiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		asse
 asseure's	asseieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		asse
 asseure's	asseia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		ass
@@ -1356,7 +1356,7 @@ asseure's	asseguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=P
 asseure's	asseguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		asse
 asseure's	asseguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		asse
 atraure	atraure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		atra
-atraure	atraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		atra
+atraure	atraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		atra
 atraure	atrac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		atra
 atraure	atraus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		atra
 atraure	atrau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		atra
@@ -1395,7 +1395,7 @@ atraure	atraguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing
 atraure	atraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		atra
 atraure	atraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		atra
 atraure	atraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		atra
-atraure	atraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		atra
+atraure	atraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		atra
 atraure	atraiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		atra
 atraure	atraieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		atra
 atraure	atreia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		atr
@@ -1428,7 +1428,7 @@ atraure	atraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plu
 atraure	atraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		atra
 atraure	atraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		atra
 atreure	atraure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		atra
-atreure	atraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		atra
+atreure	atraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		atra
 atreure	atrac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		atra
 atreure	atraus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		atra
 atreure	atrau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		atra
@@ -1467,7 +1467,7 @@ atreure	atraguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing
 atreure	atraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		atra
 atreure	atraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		atra
 atreure	atraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		atra
-atreure	atraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		atra
+atreure	atraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		atra
 atreure	atraiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		atra
 atreure	atraieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		atra
 atreure	atreia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		atr
@@ -1500,7 +1500,7 @@ atreure	atraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plu
 atreure	atraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		atra
 atreure	atraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		atra
 extreure	extraure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		extra
-extreure	extraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		extra
+extreure	extraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		extra
 extreure	extrac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		extra
 extreure	extraus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		extra
 extreure	extrau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		extra
@@ -1539,7 +1539,7 @@ extreure	extraguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Si
 extreure	extraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		extra
 extreure	extraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		extra
 extreure	extraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		extra
-extreure	extraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		extra
+extreure	extraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		extra
 extreure	extraiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		extra
 extreure	extraieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		extra
 extreure	extreia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		extr
@@ -1571,7 +1571,7 @@ extreure	extraguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Si
 extreure	extraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		extra
 extreure	extraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		extra
 extreure	extraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		extra
-prevaler	prevalent	ca-conj-dre2	VERB	Tense=Pres		ent		preval
+prevaler	prevalent	ca-conj-dre2	VERB	Tense=Pres;VerbForm=Part		ent		preval
 prevaler	prevalgut	ca-conj-dre2	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		preval
 prevaler	prevalguts	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		preval
 prevaler	prevalgudes	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Fem		gudes		preval
@@ -1614,7 +1614,7 @@ prevaler	prevalguéssim	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=1;Number=Pl
 prevaler	prevalguéssiu	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		preval
 prevaler	prevalguessin	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		preval
 detenir	detenir	ca-conj-ir-tenir	VERB	VerbForm=Inf		ir		deten
-detenir	detenint	ca-conj-ir-tenir	VERB	Tense=Pres		int		deten
+detenir	detenint	ca-conj-ir-tenir	VERB	Tense=Pres;VerbForm=Part		int		deten
 detenir	detingut	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		detin
 detenir	detinguda	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Fem		guda		detin
 detenir	detinguts	ca-conj-ir-tenir	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		detin
@@ -1658,7 +1658,7 @@ detenir	detinguéssim	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=1;Number=
 detenir	detinguéssiu	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		detin
 detenir	detinguessin	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		detin
 detenir	detenir	ca-conj-ir-tenir	VERB	VerbForm=Inf		ir		deten
-detenir	detenint	ca-conj-ir-tenir	VERB	Tense=Pres		int		deten
+detenir	detenint	ca-conj-ir-tenir	VERB	Tense=Pres;VerbForm=Part		int		deten
 detenir	detingut	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		detin
 detenir	detinguda	ca-conj-ir-tenir	VERB	Tense=Past;Number=Sing;Gender=Fem		guda		detin
 detenir	detinguts	ca-conj-ir-tenir	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		detin
@@ -1701,7 +1701,7 @@ detenir	detinguessis	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=S
 detenir	detinguéssim	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		detin
 detenir	detinguéssiu	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		detin
 detenir	detinguessin	ca-conj-ir-tenir	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		detin
-equivaldre	equivalent	ca-conj-dre2	VERB	Tense=Pres		ent		equival
+equivaldre	equivalent	ca-conj-dre2	VERB	Tense=Pres;VerbForm=Part		ent		equival
 equivaldre	equivalgut	ca-conj-dre2	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		equival
 equivaldre	equivalguts	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		equival
 equivaldre	equivalgudes	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Fem		gudes		equival
@@ -1743,7 +1743,7 @@ equivaldre	equivalguessis	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=2;Number=
 equivaldre	equivalguéssim	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		equival
 equivaldre	equivalguéssiu	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		equival
 equivaldre	equivalguessin	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		equival
-equivaldre	equivalent	ca-conj-dre2	VERB	Tense=Pres		ent		equival
+equivaldre	equivalent	ca-conj-dre2	VERB	Tense=Pres;VerbForm=Part		ent		equival
 equivaldre	equivalgut	ca-conj-dre2	VERB	Tense=Past;Number=Sing;Gender=Masc		gut		equival
 equivaldre	equivalguts	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Masc		guts		equival
 equivaldre	equivalgudes	ca-conj-dre2	VERB	Tense=Past;Number=Plur;Gender=Fem		gudes		equival
@@ -1786,7 +1786,7 @@ equivaldre	equivalguéssim	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=1;Number
 equivaldre	equivalguéssiu	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		equival
 equivaldre	equivalguessin	ca-conj-dre2	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		equival
 ajeure	ajaure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		aja
-ajeure	ajaient	ca-conj-ure-ia	VERB	Tense=Pres		ient		aja
+ajeure	ajaient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		aja
 ajeure	ajac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		aja
 ajeure	ajaus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		aja
 ajeure	ajau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		aja
@@ -1825,7 +1825,7 @@ ajeure	ajaguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Sing		
 ajeure	ajaguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		aja
 ajeure	ajaguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		aja
 ajeure	ajaguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		aja
-ajeure	ajaient	ca-conj-ure-ia	VERB	Tense=Pres		ient		aja
+ajeure	ajaient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		aja
 ajeure	ajaiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		aja
 ajeure	ajaieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		aja
 ajeure	ajeia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		aj
@@ -1858,7 +1858,7 @@ ajeure	ajaguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur	
 ajeure	ajaguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		aja
 ajeure	ajaguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		aja
 contreure	contraure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		contra
-contreure	contraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		contra
+contreure	contraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		contra
 contreure	contrac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		contra
 contreure	contraus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		contra
 contreure	contrau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		contra
@@ -1897,7 +1897,7 @@ contreure	contraguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=
 contreure	contraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		contra
 contreure	contraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		contra
 contreure	contraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		contra
-contreure	contraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		contra
+contreure	contraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		contra
 contreure	contraiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		contra
 contreure	contraieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		contra
 contreure	contreia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		contr
@@ -1930,7 +1930,7 @@ contreure	contraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number
 contreure	contraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		contra
 contreure	contraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		contra
 contraure	contraure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		contra
-contraure	contraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		contra
+contraure	contraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		contra
 contraure	contrac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		contra
 contraure	contraus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		contra
 contraure	contrau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		contra
@@ -1969,7 +1969,7 @@ contraure	contraguessis	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=
 contraure	contraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number=Plur		guéssim		contra
 contraure	contraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		contra
 contraure	contraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		contra
-contraure	contraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		contra
+contraure	contraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		contra
 contraure	contraiem	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Plur		iem		contra
 contraure	contraieu	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Plur		ieu		contra
 contraure	contreia	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Past;Person=3;Number=Sing;Aspect=Imp		eia		contr
@@ -2002,7 +2002,7 @@ contraure	contraguéssim	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=1;Number
 contraure	contraguéssiu	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=2;Number=Plur		guéssiu		contra
 contraure	contraguessin	ca-conj-ure-ia	VERB	Mood=Sub;Tense=Past;Person=3;Number=Plur		guessin		contra
 retreure	retraure	ca-conj-ure-ia	VERB	VerbForm=Inf		ure		retra
-retreure	retraient	ca-conj-ure-ia	VERB	Tense=Pres		ient		retra
+retreure	retraient	ca-conj-ure-ia	VERB	Tense=Pres;VerbForm=Part		ient		retra
 retreure	retrac	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=1;Number=Sing		c		retra
 retreure	retraus	ca-conj-ure-ia	VERB	Mood=Ind;Tense=Pres;Person=2;Number=Sing		us		retra
 retreure	retrau	ca-conj-ure-ia	VERB	Polarity=Pos;Mood=Jus;Person=2;Number=Sing		u		retra
