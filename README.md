@@ -6,19 +6,8 @@ List of languages and size can be found in [corpus_size.csv](corpus_size.csv).
 
 ### Paper
 
-Metheniti, E. and Neumann, G. (2020). [https://www.aclweb.org/anthology/2020.lrec-1.480](Wikinflection Corpus: A (Better) Multilingual, Morpheme-Annotated Inflectional Corpus). In Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC2020),  Marseille,  France,  May. European Language Resources Association (ELRA).
+Metheniti, E. and Neumann, G. (2020). Wikinflection Corpus: A (Better) Multilingual, Morpheme-Annotated Inflectional Corpus. In Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC2020),  Marseille,  France,  May. European Language Resources Association (ELRA). [[link]](https://www.aclweb.org/anthology/2020.lrec-1.480) [[BibTeX]](https://www.aclweb.org/anthology/2020.lrec-1.481.bib)
 
->@InProceedings{metheniti-neumann:2020:LREC,  
->  author    = {Metheniti, Eleni  and  Neumann, Guenter},  
->  title     = {Wikinflection Corpus: A (Better) Multilingual, Morpheme-Annotated Inflectional Corpus},  
->  booktitle      = {Proceedings of The 12th Language Resources and Evaluation Conference},  
->  month          = {May},  
->  year           = {2020},  
->  address        = {Marseille, France},  
->  publisher      = {European Language Resources Association},  
->  pages     = {3898--3905},  
->  url       = {[https://www.aclweb.org/anthology/2020.lrec-1.480](https://www.aclweb.org/anthology/2020.lrec-1.480)}  
->}
 
 ### References
 
